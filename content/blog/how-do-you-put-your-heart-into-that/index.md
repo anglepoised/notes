@@ -1,0 +1,9 @@
+---
+title: How do you put your heart into that?
+tags: ["linklog", "quote"]
+date: "2007-06-07T19:27:00"
+---
+
+> I explained all of this to the student. When I was finished he replied, "So, rather than just taking on jobs you can put your heart into, you should find a way to put your heart into everything you do." Which was a wonderful way to put it.
+
+— <cite>[Hillman Curtis, _How do you put your heart into that?_](http://www.37signals.com/svn/posts/452-how-do-you-put-your-heart-into-that)</cite>
