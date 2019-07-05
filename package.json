@@ -12,6 +12,9 @@
     "url": "https://github.com/anglepoised/notes/issues"
   },
   "homepage": "https://notes.anglepoised.com/",
+  "engines": {
+    "node": "10.16.0"
+  },
   "private": true,
   "dependencies": {
     "gatsby": "^2.13.3",
