@@ -79,7 +79,7 @@
     "lint:commits": "./node_modules/.bin/commitlint --from=origin/master",
     "lint:format": "yarn internal:prettier --list-different \"./*.{js,json,md}\" \"./**/*.{js,json,md}\"",
     "?start": "Run development server",
-    "start": "npm run develop",
+    "start": "yarn run develop",
     "?serve": "Serve site.",
     "serve": "gatsby serve",
     "?test": "Run tests.",
