@@ -46,6 +46,13 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "@commitlint/cli": "^8.0.0",
+    "@commitlint/config-conventional": "^8.0.0",
+    "commitizen": "^3.1.1",
+    "husky": "^3.0.0",
+    "lint-staged": "^9.0.2",
+    "npm-run-all": "^4.1.5",
+    "npm-scripts-info": "^0.3.9",
     "prettier": "^1.18.2"
   },
   "keywords": [
@@ -53,11 +60,45 @@
   ],
   "main": "n/a",
   "scripts": {
+    "?build": "Build project for deployment",
     "build": "gatsby build",
+    "precz": "yarn run lint-changes",
+    "?cz": "Commit with commitizen",
+    "cz": "git-cz",
+    "?develop": "Start development server.",
     "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
+    "?format": "Runs all code formatters.",
+    "format": "yarn internal:prettier \"./*.{js,json,md}\" \"./**/*.{js,json,md}\" --write",
+    "?info": "Display information about the scripts.",
+    "info": "npm-scripts-info",
+    "internal:prettier": "prettier",
+    "?lint-changes": "Lints any changes that are currently staged in git",
+    "lint-changes": "lint-staged",
+    "?lint": "Lint all files",
+    "lint": "npm-run-all lint:*",
+    "lint:commits": "./node_modules/.bin/commitlint --from=origin/master",
+    "lint:format": "yarn internal:prettier --list-different \"./*.{js,json,md}\" \"./**/*.{js,json,md}\"",
+    "?start": "Run development server",
     "start": "npm run develop",
+    "?serve": "Serve site.",
     "serve": "gatsby serve",
+    "?test": "Run tests.",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "yarn run lint-changes",
+      "pre-push": "npm test"
+    }
+  },
+  "lint-staged": {
+    "*.{js,json}": "yarn internal:prettier --list-different",
+    "*.md": "yarn internal:prettier --list-different"
   }
 }
