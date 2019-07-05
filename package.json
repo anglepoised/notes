@@ -1,12 +1,18 @@
 {
-  "name": "gatsby-starter-blog",
-  "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  "name": "notes.anglepoised.com",
+  "version": "1.0.0",
+  "description": "Anglepoised Notes blog",
+  "author": "Paul Love <paul@anglepoised.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:anglepoised/notes.git"
   },
+  "bugs": {
+    "url": "https://github.com/anglepoised/notes/issues"
+  },
+  "homepage": "https://notes.anglepoised.com/",
+  "private": true,
   "dependencies": {
     "gatsby": "^2.13.3",
     "gatsby-image": "^2.2.4",
@@ -40,16 +46,10 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
     "gatsby"
   ],
-  "license": "MIT",
   "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
