@@ -1,0 +1,9 @@
+---
+title: In Cyberspace everyone can hear you scream
+tags: ["linklog", "williamgibson"]
+date: "2007-07-11T20:02:00"
+---
+
+> Over the next few weeks – to celebrate and, yes, promote his new novel Spook Country – we’re planning a range of William Gibson activities in Second Life.
+
+[The Penguin Blog: In Cyberspace everyone can hear you scream](https://penguinukbooks.wordpress.com/2007/07/09/in-cyberspace-e/)

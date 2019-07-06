@@ -1,0 +1,9 @@
+---
+title: All you need
+tags: ["quote"]
+date: 2016-08-20 14:14:45
+---
+
+> health, social life, job, house, partners, finances; leisure use, leisure amount; working time, education, income, children; food, water, shelter, clothing, sex, health care; mobility; physical safety, social safety, job security, savings account, insurance, disability protection, family leave, vacation; place tenure, a commons; access to wilderness, mountains, ocean; peace, political stability, political input, political satisfaction; air, water, esteem; status, recognition; home, community, neighbors, civil society, sports, the arts; longevity treatments, gender choice; the opportunity to become more what you are that’s all you need
+
+— <cite>[Kim Stanley Robinson, _2312_](https://www.goodreads.com/book/show/11830394-2312)</cite>
