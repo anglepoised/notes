@@ -1,0 +1,26 @@
+# hexo site post redirects
+/2012/08/Chat-tools-HipChat-and-Flowdock/ /chat-tools-hipchat-and-flowdock/
+/2012/08/Issue-tracking-basics/ /issue-tracking-basics/
+/2013/04/A-personal-timeline-of-front-end-web-work/ /a-personal-timeline-of-front-end-web-work/
+/2013/05/Vagrant-shell-provisioning-and-usernames/  /vagrant-shell-provisioning-and-usernames/
+/2014/02/Thought-and-Design/  /thought-and-design/
+/2014/03/Affiliates/  /affiliates/
+/2014/03/Known-Unknowns/  /known-unknowns/
+/2014/03/Machines/ /machines/
+/2014/03/Noticings/ /noticings/
+/2014/03/Trying-out-Ghost/  /trying-out-ghost/
+/2014/03/Waste/ /waste/
+/2014/06/The-journey-is-the-goal/ /the-journey-is-the-goal/
+/2014/07/Dangerous-Instrument/  /dangerous-instrument/
+/2014/07/HMTL-Using-Codeship-talk/  /hmtl-using-codeship-talk/
+/2014/07/HMTL-Vagrant-talk/ /hmtl-vagrant-talk/
+/2014/12/It-doesnt-matter-that-the-tools-are-dumb/  /it-doesnt-matter-that-the-tools-are-dumb/
+/2015/09/Continuous-deployment-of-static-sites-from-Codeship-to-WebFaction-with-rsync/  /continuous-deployment-of-static-sites-from-codeship-to-webfaction-with-rsync/
+/2015/09/From-Ghost-to-Hexo/  /from-ghost-to-hexo/
+/2016/02/codeship-and-curly-brace-expansion/  /codeship-and-curly-brace-expansion/
+/2016/02/Exploitation/  /exploitation/
+/2016/02/Invisible-machines/  /invisible-machines/
+/2016/03/Transparency/  /transparency/
+/2016/05/Carried-Away/  /carried-away/
+/2016/08/All-you-need/  /all-you-need/
+/2016/08/Tabula-rasa/ /tabula-rasa/
