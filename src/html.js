@@ -11,6 +11,7 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+        <link color="#d8423d" href="/safari-pinned-tab.svg" rel="mask-icon" />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
