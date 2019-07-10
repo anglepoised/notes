@@ -1,0 +1,12 @@
+---
+title: RU.ELECTRONIC
+tags: ["v1"]
+date: 2003-06-01T22:07:14
+---
+
+The Birmingham-based [Default Response][1] network have a selection of [mp3 recordings][2] taken from their live events, including sets the excellent Russian duo [EU][3], [Brothomstates][4] and a mix from Yokoda.
+
+[1]: http://www.defaultresponse.com/
+[2]: http://www.defaultresponse.com/audio/ "Default Response: Latest Audio . Audio Archive"
+[3]: http://www.defaultresponse.com/artists/full.php?id=23 "Default Response: EU"
+[4]: http://www.defaultresponse.com/artists/full.php?id=7 "Default Response: Brothomstates"

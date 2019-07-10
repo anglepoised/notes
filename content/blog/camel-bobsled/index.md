@@ -1,0 +1,12 @@
+---
+title: Camel Bobsled
+tags: ["v1"]
+date: 2002-05-04T15:42:54
+---
+
+[Scratch][1], a documentary from [Palm Pictures][2], is a &#8220;feature length film about the hip-hop DJ and today&#8217;s turntablist movement&#8221;. Currently set for UK release on the 30th August. Related: [Epitonic feature][3]; [IMDb listing][4].
+
+[1]: http://www.scratchmovie.com/ "Scratch documentary: official website"
+[2]: http://www.palmpictures.com/ "Palm Pictures: website"
+[3]: http://www.epitonic.com/extra/scratch/ "Epitonic feature on Scratch"
+[4]: http://uk.imdb.com/Title?0143861 "IMDb listing for Scratch"

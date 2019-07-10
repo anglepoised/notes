@@ -1,0 +1,12 @@
+---
+title: Urge
+tags: ["v1"]
+date: 2002-06-14T23:09:34
+---
+
+[nerve.com][1] on Henry Miller&#8217;s [Opus Pistorum][2].
+
+> &#8220;In an affidavit filed with the U.S. Embassy in Paris, (Milton) Lubovski stated that, in 1957, he commissioned Miller to write some purple prose and paid a dollar a page for all the rights to the material. The enterprising Lubovski made five copies of the finished book, titled Opus Pistorum, and made, as Miller suggested, &#8220;a few months&#8217; rent from it.&#8221; The book went unpublished in every English-speaking country until 1983. For a while, Miller even denied writing it.&#8221;
+
+[1]: http://www.nerve.com/ "nerve.com"
+[2]: http://www.nerve.com/personalessays/vinaswathan/dirtysecret/ "nerve.com: Henry Miller's Dirty Secret"

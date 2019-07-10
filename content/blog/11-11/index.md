@@ -1,0 +1,10 @@
+---
+title: "11 : 11"
+tags: ["v1"]
+date: 2003-01-20T15:57:26
+---
+
+[Eleven O&#8217;Clock Rooibosch Tea][1] is strangely addictive despite being caffeine-free. I&#8217;m not too bothered about the [reputed health benefits][2]; it just tastes good.
+
+[1]: http://www.rooiboschtea.com/
+[2]: http://www.everything2.com/index.pl?node=rooibosch "Everything2: Rooibosch"

@@ -1,0 +1,17 @@
+---
+title: Ah. Mayed. That. Earp.
+tags: ["v1"]
+date: 2002-10-25T10:12:18
+---
+
+The Guardian [interviews Donna Tartt][1] about [The Little Friend][2], her latest novel, and attempts to clear up some of the myths and mysteries surrounding the 10 years since the release of [The Secret History][3].
+
+> &#8220;Was she making fun of me? (One thinks of Carraway of Gatsby: &#8216;For a moment I suspected that he was pulling my leg&#8230; My incredulity was submerged in fascination now; it was like skimming hastily through a dozen magazines.&#8217; And Vanity Fair called her &#8216;a character of her own fictive creation&#8217;.) Does she see herself like Henry in The Secret History, &#8216;a propagandist, routinely withholding information, leaking it only when it served his purpose&#8217;? Another (former) friend says that &#8216;she seems to have a natural love of intrigue&#8217;, and you wonder if this myth-making and mysterious self-creation are to protect the creative process, or are just her being a storyteller. Self-consciously writerly.&#8221;
+
+Related: (all too brief) [extract from The Little Friend][4]; [Donna Tartt Shrine][5].
+
+[1]: http://www.guardian.co.uk/weekend/story/0,3605,813503,00.html "The Guardian: A talent to tantalise"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/0747562113/ohsky "Amazon.co.uk: Donna Tartt's The Little Friend"
+[3]: http://www.amazon.co.uk/exec/obidos/ASIN/0140167773/qid=1035540465/ohsky "Amazon.co.uk: Donna Tartt's The Secret History"
+[4]: http://www.bloomsburymagazine.com/Authors/microsite.asp?id=323&section=1&aid=580 "Bloomsbury: Prologue from the Little Friend"
+[5]: http://www.purpleglitter.com/donna_tartt/ "Donna Tartt Shrine"

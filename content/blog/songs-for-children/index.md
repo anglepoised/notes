@@ -1,0 +1,15 @@
+---
+title: Songs for children
+tags: ["v1"]
+date: 2002-03-22T04:44:09
+---
+
+The new [Belle and Sebastian][1] album, Storytelling, is set for a [June 3rd release][2].
+
+> &#8220;The album is compiled of songs that were written throughout 2001 for Todd Solondz&#8217;s film &#8220;[Storytelling][3]&#8220;, some featuring in the film and others written about the film after its completion.&#8221;
+
+Here&#8217;s hoping it&#8217;s of better quality than the most recent single.
+
+[1]: http://www.jeepster.co.uk/belleandsebastian/
+[2]: http://www.banchory.net/belleandsebastian/news.html
+[3]: http://www.storytellingmovie.com/

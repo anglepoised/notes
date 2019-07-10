@@ -1,0 +1,10 @@
+---
+title: Sound Noise Music
+tags: ["v1"]
+date: 2002-03-22T03:36:44
+---
+
+[sonomu][1] &#8211; a new project from the [state51 conspiracy][2] &#8211; &#8220;will become a unique personalised place for new music discovery and discussion&#8221;. Promises &#8220;a swathe of sophisticated functions and features over the next few months&#8221;.
+
+[1]: http://www.sonomu.net/
+[2]: http://www.state51.co.uk/

@@ -1,0 +1,10 @@
+---
+title: New Standard by Which to Measure Infamy
+tags: ["v1"]
+date: 2002-12-01T13:52:18
+---
+
+William Burroughs&#8217; [Thanksgiving Prayer][1] from 1990&#8217;s [Dead City Radio][2]. Imagine a link to a recording of the track right about here<!-- subtle as a brick in a half-sock: http://everythingisnt.com/images/Burroughs-Thanksgiving.mp3  - sorry, Everything Isn't!-->; it was tricky to find.
+
+[1]: http://www.inter-zone.org/thanks.html "Inter-Zone.org: William Burroughs' Thanksgiving Prayer"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/B000001FYF/ohsky "Amazon.co.uk: William Burroughs' Dead City Radio"

@@ -1,0 +1,15 @@
+---
+title: Someone Else’s Head
+tags: ["v1"]
+date: 2002-09-04T13:14:51
+---
+
+[Resonance104.4fm][1], a project from the [London Musician&#8217;s Collective][2], is &#8220;London&#8217;s first radio art station&#8221;:
+
+> &#8220;Imagine a radio station like no other. A radio station that makes public those artworks that have no place in traditional broadcasting. A radio station that is an archive of the new, the undiscovered, the forgotten, the impossible. That is an invisible gallery, a virtual arts centre whose location is at once local, global and timeless. And that is itself a work of art.&#8221;
+
+Aside from the breathy, artwank copy, it might end up being pretty good. [Uncharted Audio][3]&#8216;s Kone-R is scheduled to appear in a guest slot on the Burning Decks show (Friday 20th September from midnight til 1am). You can listen in the traditional manner or use their MP3 or Realaudio streams.
+
+[1]: http://www.resonancefm.com/ "Resonance104.4fm"
+[2]: http://www.l-m-c.org.uk/ "London Musician's Collective"
+[3]: http://www.unchartedaudio.com/ "Uncharted Audio"

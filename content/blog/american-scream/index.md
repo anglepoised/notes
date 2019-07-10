@@ -1,0 +1,10 @@
+---
+title: American Scream
+tags: ["v1"]
+date: 2002-05-26T12:55:49
+---
+
+[The Bill Hicks Story][1]. Related: [Bill Hicks MP3s][2].
+
+[1]: http://www.amazon.co.uk/exec/obidos/ASIN/0380803771/ohsky "American Scream: The Bill Hicks Story at amazon.co.uk"
+[2]: http://www.billhicks.co.uk/faithinaction/mp3s.html "The Stern-Pope Bill Hicks mp3 library"

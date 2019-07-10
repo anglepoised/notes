@@ -1,0 +1,22 @@
+---
+title: Clouds Up
+tags: ["v1"]
+date: 2002-10-12T22:46:13
+---
+
+The Guardian [review][1] of [Middlesex][2] by Jeffrey Eugenides:
+
+> &#8220;Where The Virgin Suicides reflected on connections between sex and death, its successor considers the links between sex, life and inheritance. The basic architecture of Middlesex &#8211; an epic about an immigrant American family &#8211; is familiar but here gains great freshness by following the progress of a single gene through the Stephanides clan, who flee to America in 1922 after their village is incinerated in the war between Greece and Turkey.&#8221;
+
+Also, a quote from the [recent New Yorker interview][3]:
+
+> &#8220;I haven&#8217;t become anti-American. In fact, certain European columnists, especially in Britain, make my blood boil. One writer this week claimed that the biggest terrorist state in the world was, you guessed it, America. Living over here hasn&#8217;t made me go that far. But the distance has given me a new perspective on my country. Certain things look quite terrible from this side of the pond.&#8221;
+
+Related: Middlesex extracts at [The New Yorker][4] and [Bloomsbury][5]; [Guardian interview][6].
+
+[1]: http://books.guardian.co.uk/departments/generalfiction/story/0,6000,804583,00.html "The Guardian: Gender blender"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/0747560234/ohsky "Amazon.co.uk: Jeffrey Eugenides' 'Middlesex'"
+[3]: http://www.newyorker.com/online/content/?020729on_onlineonly01 "The New Yorker: Stuck in the Middle"
+[4]: http://www.newyorker.com/fiction/content/?020729fi_fiction "The New Yorker: The Obscure Object"
+[5]: http://www.bloomsburymagazine.com/Authors/microsite.asp?id=214&section=1&aid=472 "Bloomsbury: 'Home movies' - an extract from Middlesex"
+[6]: http://books.guardian.co.uk/departments/generalfiction/story/0,6000,805334,00.html "The Guardian: He's not like other girls"

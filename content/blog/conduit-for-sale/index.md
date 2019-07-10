@@ -1,0 +1,11 @@
+---
+title: Conduit For Sale!
+tags: ["v1"]
+date: 2002-10-12T20:38:43
+---
+
+[Domino][1] are set to release a double-DVD [Pavement][2] retrospective entitled [Slow Century][3], featuring every video, two complete concerts and a full length documentary covering the band&#8217;s career.
+
+[1]: http://www.dominorecordco.com/ "Domino Recording Co"
+[2]: http://www.domino-mart.com/artist.php?artist=29 "Domino Recording Co: Pavement"
+[3]: http://www.domino-mart.com/release.php?release=351 "Domino Recording Co: Slow Century"

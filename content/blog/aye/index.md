@@ -1,0 +1,14 @@
+---
+title: Aye
+tags: ["v1"]
+date: 2002-09-27T15:56:32
+---
+
+The [Online Etymology Dictionary][1]:
+
+> &#8220;I began this project after I looked one day for a dictionary of word origins online and found that there was none. There were dictionaries with definitions, some lists of slang words and their sources, and some sites that listed a few dozen of the strangest etymologies of English words. But there was no comprehensive list of the words we use every day &#8212; words like the and day &#8212; that told what they used to be before we got them.&#8221;
+
+Also: [Word & Phrase Origins][2] (concerned mainly with the &#8216;stranger&#8217; etymologies).
+
+[1]: http://www.geocities.com/etymonline/ "Douglas Harper's Online Etymology Dictionary"
+[2]: http://www.wordorigins.org/ "Wilton's Word & Phrase Origins"

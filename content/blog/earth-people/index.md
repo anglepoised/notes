@@ -1,0 +1,9 @@
+---
+title: Earth People
+tags: ["v1"]
+date: 2002-04-28T23:36:36
+---
+
+The [Keo satellite][1] launches at the end of 2003, carrying messages from everyone who has the urge to submit. It&#8217;s scheduled for return 50,000 years later.
+
+[1]: http://www.keo.org/ "The Keo Satellite website"

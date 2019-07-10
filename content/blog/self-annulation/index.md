@@ -1,0 +1,12 @@
+---
+title: Self-annulation
+tags: ["v1"]
+date: 2003-06-01T20:55:21
+---
+
+[Consuming Bodies][1]: [Sex and Contemporary Japanese Art][2]:
+
+> Consuming Bodies explores the themes of sex and consumerism in contemporary Japanese art and how they connect with the wider historical, social and political conditions in Japanese culture. Essays by writers, historians, curators and artists, plus diary extracts of a sex worker, engage with a range of artistic practices, including performance, digital media, painting, sculpture and installation. Together the contributors examine the contradictions and ambivalences embedded in the Japanese experience of modernity, and the effects of commodification on the individual and the nation state.
+
+[1]: http://www.reaktionbooks.co.uk/titles/non_consumin.html "Reaktion Books: Consuming Bodies"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/1861891474/ohsky "Amazon.co.uk: Consuming Bodies"

@@ -1,0 +1,11 @@
+---
+title: Kafkaesque
+tags: ["v1"]
+date: 2002-08-10T10:12:42
+---
+
+The Times on the [commercial hijacking of Prague][1].
+
+> &#8220;Yet precisely because Prague has such a miraculously preserved centre &#8211; a time-capsule, unravaged by war, oppression or the high-rise architects who have trampled over the sensibilities of every other world capital &#8211; one feels all the more acutely the tensions created by the abrupt westernisation of the past 13 years.&#8221;
+
+[1]: http://www.timesonline.co.uk/article/0,,482-377096,00.html "The Times: The Czechs will not win any world cups for flamboyance"

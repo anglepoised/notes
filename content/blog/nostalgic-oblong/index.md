@@ -1,0 +1,10 @@
+---
+title: Nostalgic Oblong
+tags: ["v1"]
+date: 2003-01-15T17:30:11
+---
+
+Aw, look: the first edition of O&#8217;Reilly&#8217;s 1996 [Web Master in a Nutshell][1] in handy searchable HTML! Comes as part of the complete [Web Developer&#8217;s Library][2].
+
+[1]: http://www.linux.cu/mirrors/www.oreilly.com/catalog/web/webnut/index.html "Linux Cuba: mirror of O'Reilly's Web Master in a Nutshell"
+[2]: http://www.linux.cu/mirrors/www.oreilly.com/catalog/web/index.html "Linux Cuba: mirror of O'Reilly's Web Developer's Library"

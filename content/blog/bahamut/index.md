@@ -1,0 +1,12 @@
+---
+title: Bahamut
+tags: ["v1"]
+date: 2003-04-21T18:27:51
+---
+
+I&#8217;d still like to know why [Cai Guo-Qiang&#8217;s][1] [&#8216;Ye Gong Hao Long&#8217;][2] (Mr Ye who loves dragons) firework explosion project at Tate Modern on 31st January went so badly wrong. The Tate and Egg Live site is [still (unsurprisingly) silent][3] on the matter and [the only article mentioning the fiasco][4] isn&#8217;t all that useful; anyone got the skinny on why it was such a damp squib?
+
+[1]: http://www.caiguoqiang.com/ "Cai Guo-Qiang: How is your Feng-Shui?"
+[2]: http://www.tateandegglive.com/event1_cai.html "Tate and Egg Live: Ye Gong Hai Long Event Overview"
+[3]: http://www.tateandegglive.com/reviews/reviews_event1.html "Tate and Egg Live: (No) reviews of Ye Gong Hao Long"
+[4]: http://www.observer.co.uk/review/story/0,6903,891621,00.html "The Observer: £25 challenge in London"

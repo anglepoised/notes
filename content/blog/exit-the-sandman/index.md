@@ -1,0 +1,15 @@
+---
+title: Exit The Sandman
+tags: ["v1"]
+date: 2002-09-09T08:16:24
+---
+
+How did I miss this? [Logan&#8217;s Sanctuary][1] is the soundtrack to an imaginary [Logan&#8217;s Run][2] sequel.
+
+> &#8220;Inspired by a Seventies post-apocalyptic sci-fi thriller, Roger Joseph Manning Jr. and Brian Reitzell painstakingly created the soundtrack to it&#8217;s imaginary sequel. The album&#8217;s futuristic cover art was designed by Mike Mills who is best known for his work with Air, Beastie Boys and Pulp.&#8221;
+
+A preview track (the excellent &#8216;Metropia&#8217;) is available from [Emperor Norton][3], and sounds a little like Virgin Suicides era Air covering Jeff Wayne&#8217;s War of the Worlds.
+
+[1]: http://www.amazon.co.uk/exec/obidos/ASIN/B00004TCO4/ohsky "Amazon.co.uk: Logan's Sanctuary"
+[2]: http://uk.imdb.com/Title?0074812 "IMDb: Logan's Run"
+[3]: http://www.emperornorton.com/mod/artistpage.php3?artist=logans_sanctuary "Emperor Norton Records: Logan's Sanctuary"

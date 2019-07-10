@@ -1,0 +1,15 @@
+---
+title: Go Go Mobile
+tags: ["v1"]
+date: 2002-04-26T01:10:17
+---
+
+The Guardian reports on [new music recognition technology][1].
+
+> &#8220;I dial a number on an ordinary mobile phone. There is a pause of 10 to 15 seconds, then a voice on the phone tells me it is the Cranberries&#8217; Ode to My Family&#8230; his software can create a unique mathematical description of the song that can be checked against Shazam&#8217;s database.&#8221;
+
+Might be fun to try it with some [Venetian Snares][2] tunes. Related: [Shazam Entertainment][3].
+
+[1]: http://www.guardian.co.uk/online/story/0,3605,689892,00.html "The Guardian: Heard it thru' the mobile"
+[2]: http://www.planet-mu.com/artist21.html "Venetian Snares on Planet-Mu"
+[3]: http://www.shazamentertainment.com/ "Shazam Entertainment: developed a service to identify songs from any music source with a mobile phone"
