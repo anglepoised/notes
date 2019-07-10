@@ -1,0 +1,16 @@
+---
+title: Have You Really Thought About Utopia?
+tags: ["v1"]
+date: 2003-06-07T22:35:09
+---
+
+[Side-by-side review][1] of two recent Orwell biographies in The Times:
+
+> He might have turned into a frustrated &#8220;literary man&#8221;, a medium-sized novelist or essayist, if it were not for his journey to the north of England at the beginning of 1936. He was by no means a committed socialist before this pilgrimage, and in fact seems to have had no coherent political philosophy at all. He seems only to have been led by curiosity about the conditions of an area badly affected by economic depression and by some instinctive belief that you can see a civilisation more clearly in the shadows which it casts. The Road to Wigan Pier is in many ways instructive, therefore. He regarded the victims of the world with a certain sympathy, derived in part from self-pity, but he never felt in any sense close to them.
+
+[Side-by-side review][2] of two recent Orwell biographies in The Guardian:
+
+> What both authors amply demonstrate is the overwhelming importance of their subject. Despite all the blemishes Orwell really was, as VS Pritchett said, the &#8220;wintry conscience&#8221; of his generation. He was, in Paul Potts&#8217;s phrase, &#8220;Don Quixote on a Bicycle&#8221;, the knight errant of fair play pedalling nobly through the &#8220;bloodstained harlequinade&#8221; of his age. He was the saint of common decency who would in earlier days, said his BBC boss Rushbrook Williams, &#8220;have been either canonised &#8211; or burnt at the stake&#8221;.
+
+[1]: http://www.timesonline.co.uk/article/0,,923-694070,00.html "The Times: Blair on the road to Orwell"
+[2]: http://books.guardian.co.uk/review/story/0,12084,971970,00.html "The Guardian: The saint of common decency"

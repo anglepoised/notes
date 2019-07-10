@@ -1,0 +1,17 @@
+---
+title: Mutant Ibex
+tags: ["v1"]
+date: 2002-04-25T13:49:03
+---
+
+Time to dig out Chris Morris&#8217; excellent Pixies spoof [Motherbanger][1] (MP3, 1,139Kb).
+
+&#8220;My mother did something to me
+
+When I was 23
+
+She spilt a cup of tea
+
+All over my knee!&#8221;
+
+[1]: http://www.cookdandbombd.com/mp3/motherbanger.mp3 "Chris Morris' Pixies spoof Motherbanger MP3 at Cookdandbombd"

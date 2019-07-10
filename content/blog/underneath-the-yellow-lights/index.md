@@ -1,0 +1,16 @@
+---
+title: Underneath the Yellow Lights
+tags: ["v1"]
+date: 2004-06-12T11:14:56
+---
+
+Worked in [Westbourne Studios][1] for a bit, before moving to [less cramped][2] quarters.
+
+> The roof is all the more remarkable when the penny drops: this is not some late-flowering work by Le Corbusier, or even Erno Goldfinger, architect of nearby Trellick Tower, but the underside of the [Westway][3]. Celebrated in song by the Clash, the Westway is the elevated A40(M) that, since 1970, has sent heavy traffic snaking in and out of central London&#8230;. The [developers] are hoping to go one step further: they are seeking permission to create a roof garden for their tenants. The views from the top of [Westbourne Studios][4] are spectacular. Here, the London skyline, in all its messy glory, can be experienced in the round. Traffic scythes through the core of the building; main-line and tube trains make pincer movements around it. The sky is laced with jets whirring into Heathrow at two-minute intervals. A vision of hell for some, perhaps, but an urban rhapsody for young creatives responding to the capital&#8217;s around-the-clock buzz.
+
+Still haven&#8217;t figured out why so many people took their dogs along, though.
+
+[1]: http://www.guardian.co.uk/arts/critic/feature/0,1169,780923,00.html "The Guardian: A road runs through it"
+[2]: http://www.digitaltables.co.uk/home.htm "With space for a Lizard Lounger Arcade Table. A pinball machine. A 6ft-wide screen that's never used for Farcry. Accompanied by beer o'clock. Who said new media excess was dead?"
+[3]: http://www.westway.org/ "Westway Development Trust"
+[4]: http://www.westbournestudios.com/

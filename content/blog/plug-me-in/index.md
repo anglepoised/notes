@@ -1,0 +1,25 @@
+---
+title: Plug Me In
+tags: ["v1"]
+date: 2002-04-18T02:37:07
+---
+
+Stuck for something to do this Thursday evening? Of course not. After all, you&#8217;re the busy, thrusting, socially well-endowed type! However, should you find yourself at a loose end, you could do much worse than popping along to [sonomu presents&#8230;#003][1] at the [Embassy Bar in Islington][2] for a &#8220;heady mixture of rocktronica, pop and plucky old electro&#8221; with our very own [Kone-R][3], as well as the lovely sonomu residents. Details for the unregistered:
+
+8pm-11pm (2002/04/18)
+
+what:
+Continuing our series of sonomu launch warmth we're back at London's laidback Embassy bar.
+
+cost:
+admission free
+
+venue:
+Embassy Bar 119 Essex road, Islington
+United Kingdom
+
+Our special guest this week is Kone-R from [Uncharted Audio](http://www.unchartedaudio.com/) who says "expect a heady mixture of rocktronica (its the way forward!), pop and plucky old electro and electronica from me", plus your usual [sonomu](http://sonomu.net/) residents exploring the finest new music.
+
+[1]: http://www.sonomu.net/event/sonomupresents00-2.html "sonomu presents: requires registration"
+[2]: http://www.portal.e-street.net/com/10024580 "Embassy bar on e-street"
+[3]: http://www.sonomu.net/artist/kone-r/ "Kone-R profile on sonomu: requires registration"

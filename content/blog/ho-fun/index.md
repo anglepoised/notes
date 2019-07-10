@@ -1,0 +1,11 @@
+---
+title: Ho Fun
+tags: ["v1"]
+date: 2002-05-30T11:16:43
+---
+
+[The Independent on noodles][1].
+
+> &#8220;Just like surviving a Japanese pub crawl, eating noodles is a specialised skill. I had to be shown how to eat. Some practitioners believe you should drink the liquid first and then slurp the noodles before they get mushy. You must never chew noodles. Noodles lose their flavour when chewed. The secret to rudimentary noodle-eating is to try to say the word &#8220;scrumptious&#8221; loudly into your bowl while simultaneously trying to suck noodles down into your stomach and not down your shirtfront.&#8221;
+
+[1]: http://travel.independent.co.uk/ausandpacificrim/japan/story.jsp?story=606 "The Independent: The painted lady, the sake nightcap and the sound of slurped noodles"

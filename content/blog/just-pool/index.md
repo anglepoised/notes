@@ -1,0 +1,11 @@
+---
+title: Just Pool
+tags: ["v1"]
+date: 2002-03-26T11:43:36
+---
+
+[The Hustler][1], available on DVD from June.
+
+> &#8220;You&#8217;ve the best excuse in the world for losing; no trouble losing when you got a good excuse. Winning. That can be heavy on your back too, like a monkey. You&#8217;ll drop that load too when you got an excuse. All you gotta do is learn to feel sorry for yourself. One of the best indoor sports, feeling sorry for yourself. A sport enjoyed by all, especially the born losers.&#8221;
+
+[1]: http://www.amazon.com/exec/obidos/ASIN/B000063US2/ohsky07 "The Hustler on Amazon.com"

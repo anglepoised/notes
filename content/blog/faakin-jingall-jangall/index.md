@@ -1,0 +1,13 @@
+---
+title: Faakin jingall jangall
+tags: ["v1"]
+date: 2002-05-26T13:05:43
+---
+
+[Chatham Girls][1] (Last All Summer Long?)
+
+> **English:** &#8220;Sit quietly and eat or Santa will not come&#8221;.
+
+> **Chathamese:** &#8220;Oi, Daphine-Celiste, sidaan an eet yer buuurga or yer aint gettin nar more Pokamoms!&#8221;
+
+[1]: http://www.geocities.com/chatham_girls/home.htm "The Official Chatham Girl website (check for Google's cached version if it's down"

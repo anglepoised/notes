@@ -1,0 +1,11 @@
+---
+title: Rue The Whirl
+tags: ["v1"]
+date: 2002-08-26T23:46:47
+---
+
+Higuchinsky&#8217;s [Uzumaki][1] looks like it might be worth watching out for. The [Midnight Eye review][2] summarizes: &#8220;a particularly loony film, irrational, macabre, totally without cinematic precedent and wholly in keeping with its manga origins&#8221;. Related: [IMDb entry][3].
+
+[1]: http://www.jpopcinema.com/uzumaki/ "JpopCinema: Uzumaki"
+[2]: http://www.midnighteye.com/reviews/uzumaki.shtml "Midnight Eye: Uzmaki Review"
+[3]: http://uk.imdb.com/Title?0244870 "IMDb UK: Uzmaki"

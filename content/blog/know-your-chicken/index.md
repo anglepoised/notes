@@ -1,0 +1,10 @@
+---
+title: Know Your Chicken
+tags: ["v1"]
+date: 2002-09-27T21:59:59
+---
+
+[Mount Fuji][1], a UK-based online shop carries an extensive range of Japanese food products (including [confectionery][2]!).
+
+[1]: http://www.mountfuji.co.uk/ "Mount Fuji International Limited"
+[2]: http://www.mountfuji.co.uk/acatalog/Mount_Fuji_Confectionery_7.html "Japan's famous Pocky, Hello Kitty, koala no march yokan, kaki no tane and Japanese sweets. We even stock Wasabi flavoured dried peas!"

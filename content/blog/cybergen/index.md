@@ -1,0 +1,11 @@
+---
+title: Cybergen
+tags: ["v1"]
+date: 2003-05-03T23:20:30
+---
+
+The Guardian [profiles William Gibson][1]:
+
+> &#8220;Gibson&#8217;s fiction has always been concerned with the problem of how people make sense of a world that has been irreparably changed by new technology [&#8230;] What happens to those characters,&#8221; Gibson maintains, &#8220;illustrates the impact of technology on society, and I find myself thinking sometimes that there isn&#8217;t anything other than the impact of technology on society &#8211; possibly that has been more significant historically than any sort of political thought, in terms of bringing us to where we are now.&#8221;
+
+[1]: http://books.guardian.co.uk/review/story/0,12084,947453,00.html "The Guardian: Tomorrow's man"

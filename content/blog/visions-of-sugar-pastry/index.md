@@ -1,0 +1,20 @@
+---
+title: Visions of Sugar Pastry
+tags: ["v1"]
+date: 2002-04-21T01:25:11
+---
+
+[3 Beads of Sweat][1] are set to re-release ye olde [Mountain Goats][2] compilations on CD: [Bitter Melon Farm][3], [Ghana][4] and [Protein Source of the Future&#8230;Now!][5] ([listen to 3 sample MP3s][6]).
+
+> &#8220;Well over 3 hours (81 songs!) worth of tape hiss, wheel grind, tales of love, wanderlust, relationships-going-nowhere and ancient history.&#8221;
+
+Related: the Mountain Goats [WFMU][7] [session MP3s from 10/19/00][8] (including a cover of Radiohead&#8217;s No Surprises).
+
+[1]: http://www.3bos.com/ "3 Beads of Sweat record label"
+[2]: http://www.themountaingoats.net/
+[3]: http://www.3bos.com/label/releases/1002.html "the Mountain Goats: 'Bitter Melon Farm'"
+[4]: http://www.3bos.com/label/releases/1003.html "the Mountain Goats: 'Ghana'"
+[5]: http://www.3bos.com/label/releases/1001.html "the Mountain Goats: 'Protein Source of the Future...Now!'"
+[6]: http://www.3bos.com/label/artists/mountaingoats/mountaingoats_mp3.html "Listen to 'Love Cuts the Strings', 'Star Dusting' and 'Going to Port Washington'"
+[7]: http://www.wfmu.org/ "WFMU: excellent 'non-commercial, freeform radio station' broadcasting online"
+[8]: http://www.knerd.com/~sashwap/goats/

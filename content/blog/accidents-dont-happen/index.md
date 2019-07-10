@@ -1,0 +1,15 @@
+---
+title: Accidents Don’t Happen
+tags: ["v1"]
+date: 2003-05-04T00:01:36
+---
+
+[Thomas Pynchon on Orwell&#8217;s 1984][1]:
+
+> Orwell in 1948 understood that despite the Axis defeat, the will to fascism had not gone away, that far from having seen its day it had perhaps not yet even come into its own &#8211; the corruption of spirit, the irresistible human addiction to power were already long in place, all well-known aspects of the Third Reich and Stalin&#8217;s USSR, even the British Labour party &#8211; like first drafts of a terrible future. What could prevent the same thing from happening to Britain and the United States? Moral superiority? Good intentions? Clean living?
+
+The article is an edited extract from Pynchon&#8217;s introduction to the [Plume][2] [Centennial edition][3].
+
+[1]: http://books.guardian.co.uk/review/story/0,12084,948203,00.html "The Guardian: The road to 1984 (also, oddly enough for me, the title of my dissertation)"
+[2]: http://www.penguinputnam.com/static/packages/us/about/adult/plume.htm "Penguin Group USA: Plume imprint"
+[3]: http://www.penguinputnam.com/Book/BookFrame/0,1007,,00.html?id=0452284236 "Penguin Group USA: George Orwell's 1984 (Centennial Edition)"

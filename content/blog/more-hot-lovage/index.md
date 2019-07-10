@@ -1,0 +1,12 @@
+---
+title: More Hot Lovage
+tags: ["v1"]
+date: 2002-06-13T15:52:18
+---
+
+Terrible [chat-up lines][1], [dating dos and don&#8217;ts][2] and [hints & tips][3] from Nathanial Merriweather&#8217;s [Lovage][4], a Prince Paul/Automator project.
+
+[1]: http://www.thefanbase.com/lovage/CHATUP.HTML "'So, are you going to give me your phone number, or am I going to have to stalk you?'"
+[2]: http://www.thefanbase.com/lovage/DOSANDDONTS.HTML "Dating Dos and Don'ts: 'Never tape any of her body parts together'"
+[3]: http://www.thefanbase.com/lovage/HINTSANDTIPS.HTML "Hints and Tips: 'FRIEND: A member of the opposite sex in your acquaintance who has some flaw which makes sleeping with him/her totally unappealing.'"
+[4]: http://www.audiogalaxy.com/pages/review.php?band_id=110286 "Lovage review on Audiogalaxy"

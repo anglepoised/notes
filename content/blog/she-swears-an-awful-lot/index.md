@@ -1,0 +1,19 @@
+---
+title: She Swears An Awful Lot
+tags: ["v1"]
+date: 2003-04-20T01:27:36
+---
+
+Quick Raymond Queneau link dump:
+
+- [Scriptorium][1]
+- [Zazie in the Metro at Amazon UK][2]
+- [queneau.net (in French)][3]
+- [Louis Malle&#8217;s Zazie dans le m&eacute;tro at IMDb][4]
+- [An Annotated Bibliography and Research Aid][5]
+
+[1]: http://www.themodernword.com/scriptorium/queneau.html
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/0141183918/ohsky "Amazon.co.uk: Zazie in the Metro"
+[3]: http://www.queneau.net/
+[4]: http://uk.imdb.com/Title?0054494
+[5]: http://www.creighton.edu/~chaskest/queneau.html

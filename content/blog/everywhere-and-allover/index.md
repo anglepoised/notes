@@ -1,0 +1,13 @@
+---
+title: Everywhere And Allover
+tags: ["v1"]
+date: 2002-07-09T22:16:07
+---
+
+[An explanation and guide of the Peters World Map][1] (or why the standard Mercator projection may be a tad inaccurate, as mentioned in [last week&#8217;s episode][2] of [The West Wing][3]).
+
+> &#8220;The Mercator projection creates increasing distortions of size as you move away from the equator&#8230; Cartographers refer to the inability to compare size on a Mercator projection as &#8220;the Greenland Problem.&#8221; Greenland appears to be the same size as Africa, yet Africa&#8217;s land mass is actually fourteen times larger. This was convenient, psychologically and practically, through the eras of colonial domination when most of the world powers were European. It suited them to maintain an image of the world with Europe at the center and looking much larger than it really was.&#8221;
+
+[1]: http://www.diversophy.com/petersmap.htm "Diversophy: An explanation and guide of the Peters World Map"
+[2]: http://thewestwing.tktv.net/Episodes2/quotes/16.html "TKtv: Quotes from Somebody's Going to Emergency, Somebody's Going to Jail"
+[3]: http://www.nbc.com/The_West_Wing/ "NBC.com: The West Wing"

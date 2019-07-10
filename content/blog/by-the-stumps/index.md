@@ -1,0 +1,16 @@
+---
+title: By The Stumps
+tags: ["v1"]
+date: 2002-04-14T19:18:56
+---
+
+[The origin of London&#8217;s place names][1] (numerous but scanty details) and [London Place names][2] (fewer names with more detail). Books: [A Dictionary of London Place-names][3] and [Discovering London Street Names][4] (currently out of print).
+
+Grappling with Stephen Inwood&#8217;s [A History of London][5]. Some rate it over Peter Ackroyd&#8217;s [London: The Biography][6]. Either way, reading both would be extreme overkill.
+
+[1]: http://www.krysstal.com/londname.html "London Place Names on krysstal.com"
+[2]: http://www.buchwald.dircon.co.uk/planam.html
+[3]: http://www.amazon.co.uk/exec/obidos/ASIN/0192801066/ohsky "A Dictionary of London Place-names on amazon.co.uk"
+[4]: http://www.amazon.co.uk/exec/obidos/ASIN/0747803099/ohsky "Discovering London Street Names on amazon.co.uk (currently out of print)"
+[5]: http://www.amazon.co.uk/exec/obidos/ASIN/0333671546/ohsky "A History of London on amazon.co.uk"
+[6]: http://www.amazon.co.uk/exec/obidos/ASIN/0099422581/ohsky "London: The Biography on amazon.co.uk"

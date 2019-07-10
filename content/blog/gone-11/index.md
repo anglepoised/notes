@@ -1,0 +1,9 @@
+---
+title: Gone 11
+tags: ["v1"]
+date: 2002-05-25T00:36:00
+---
+
+[Late bar info via SMS][1]. May prevent further ill-considered Tatty Bogle outings.
+
+[1]: http://www.liquid-life.com/gone11/instructions.htm "Liquid Life's late bar SMS information service, Gone 11"

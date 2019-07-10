@@ -1,0 +1,14 @@
+---
+title: Majestic Seven Fingers
+tags: ["v1"]
+date: 2003-06-01T18:37:57
+---
+
+> &#8220;My name is Julio, Julio Gottstein,&#8221; he said, his smoldering eyes aflame in the victory he would soon celebrate. &#8220;And soon, I shall have you.&#8221;
+>
+> Her heart pattered and swayed with passion as his rough hand took hers, and led her from the bar to her sparse, yet highly sexual studio apartment upstairs. Her eyes, clouded in lust, could see nothing but his strong, opulent frame &#8211; though he was easily four inches shorter than her, he seemed monumental in all aspects of his being.
+
+Yup, the [winners][1] of the [Nerve][2] Bad Erotica Contest have been announced.
+
+[1]: http://www.nerve.com/fiction/baderotica/baderotica/ "Nerve.com: With the intensity of a thousand pulsing love pods..."
+[2]: http://www.nerve.com/

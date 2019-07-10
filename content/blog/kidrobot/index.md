@@ -1,0 +1,16 @@
+---
+title: Kidrobot
+tags: ["v1"]
+date: 2002-04-03T13:50:59
+---
+
+[Premium collectible Urban-style action figures][1] for sale (from those nice people at [Minidisco][2]).
+
+> &#8220;The figures we&#8217;ve got are designed by an emerging group of underground artists in Hong Kong, Japan and the U.S. who fuse urban street culture and hip-hop style with amazing results. Call it HK Vinyl, Urban Vinyl, or Hong Kong Style- however you describe it, this is some of the coolest stuff we&#8217;ve ever seen.&#8221;
+
+The [Michael Lau][3] and [Eric So][4] figures are excellent.
+
+[1]: http://www.kidrobot.com/
+[2]: http://www.minidisco.com/
+[3]: http://www.kidrobot.com/michaellau.html
+[4]: http://www.kidrobot.com/ericso.html

@@ -1,0 +1,11 @@
+---
+title: Words Of Advice
+tags: ["v1"]
+date: 2002-04-16T18:37:22
+---
+
+[Feeding off the naked lunch][1] &#8211; Irvine Welsh on Burroughs, Trocchi, the &#8220;relationship between drugs and the artistic muse&#8221; and new play [William Burroughs Caught in Possession of The Rime of the Ancient Mariner][2]. Related: [Band of Holy Joy][3].
+
+[1]: http://www.thetimes.co.uk/article/0,,585-264005,00.html "Feeding off the naked lunch at The Times"
+[2]: http://www.bandofholyjoy.co.uk/SEX.HTML "William Burroughs Caught in Possession of The Rime of the Ancient Mariner info at Band of Holy Joy fansite"
+[3]: http://www.bandofholyjoy.co.uk/

@@ -1,0 +1,17 @@
+---
+title: Metroplex
+tags: ["v1"]
+date: 2003-05-03T00:24:29
+---
+
+The Times on [large-scale construction debacles][1]:
+
+> Life is too short to read every tome penned by Scandinavian and German social scientists. But Megaprojects and Risk, written by Bent Flyvbjerg, Nils Bruzelius and Werner Rothengatter, is a cracker. In lurid and startling detail it examines dozens of vast construction schemes around the world. Some were privately financed, but most drew heavily on the unwitting generosity of taxpayers. In the vast majority of cases the authors found that the costs were often double the estimates or more, the environmental damage far more extensive than anticipated and the demonstrable public &#8220;benefits&#8221; frequently half or less of what was promised.
+
+Related: Megaprojects and Risk at [Amazon UK][2] and [Cambridge University Press][3]; [sample chapter][4] (PDF). Not even slightly related: [London Bridge Tower][5] development, aka The Shard of Glass.
+
+[1]: http://www.timesonline.co.uk/article/0,,7-647761,00.html "The Times: A scandal of monumental proportions"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/0521009464/ohsky "Amazon.co.uk: Megaprojects and risk by Flyvbjerg, Bruzelius and Rothengatter"
+[3]: http://books.cambridge.org/0521009464.htm "Cambridge University Press: Megaprojects and Risk"
+[4]: http://assets.cambridge.org/0521804205/sample/0521804205WS.pdf "Megaprojects and Risk: An Anatomy of Ambition (PDF)"
+[5]: http://www.londonbridgetower.com/ "London Bridge Tower (aka Shard of Glass)"

@@ -1,0 +1,16 @@
+---
+title: Porn Coconut Co
+tags: ["v1"]
+date: 2002-08-27T16:47:42
+---
+
+[Extract][1] from [Once More, With Feeling][2], in which two twentysomethings from the Erotic Review decide to make the &#8220;greatest porn film ever seen&#8221;.
+
+> &#8220;Two hours later, we cut the evil uncles from the script&#8230; as we pack up our props and Vicky throws the party hats in the bin, she becomes emotional again &#8211; over the supermarket chicken. In the end, what did this animal&#8217;s life amount to? Bred in battery conditions, stuffed with hormones, then killed by machine for somebody&#8217;s Sunday lunch. And then it wasn&#8217;t even anybody&#8217;s lunch. It was bought to be fisted by a sex worker. And he didn&#8217;t turn up, so the chicken (shall we call him Terry?) was thrown in a bin. Yes, you&#8217;re right, we could have taken Terry home and eaten him &#8211; but we don&#8217;t have an oven in our rented flat, and he&#8217;s already covered in preparatory KY jelly.&#8221;
+
+Related: [The Naughty Twins][3], [Observer review][4].
+
+[1]: http://www.observer.co.uk/magazine/story/0,11913,775906,00.html "The Observer: The XXX files"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/1841154369/ohsky "Amazon.co.uk: Once More, With Feeling"
+[3]: http://www.thenaughtytwins.com/ "The Naughty Twins: Just when you thought it was safe to call the plumber..."
+[4]: http://books.guardian.co.uk/reviews/politicsphilosophyandsociety/0,6121,780284,00.html "The Observer: The porn brokers"

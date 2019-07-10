@@ -1,0 +1,21 @@
+---
+title: A Small Good Thing
+tags: ["v1"]
+date: 2003-01-17T03:00:34
+---
+
+[Guardian profile of Nicholson Baker][1]:
+
+> &#8230;Baker pulls out his laptop and props it up on his knee: &#8220;At first I&#8217;ll just sit here for a while and yawn and eat an apple,&#8221; he says. &#8220;But then I&#8217;ll get my laptop out. When it is black in here, which it really is, absolutely and totally dark, and I&#8217;m down here with this small fire and I&#8217;ve got my fingers tapping away at the keyboard, I feel like I can type anything I want.&#8221; He lowers the contrast on the screen so that it is the colour of slate, and each keystroke produces a fluorescent letter: &#8220;I can now work here in the dark. I don&#8217;t even have to know that I&#8217;m typing. I just think and my thinking is being recorded. That is part of the feeling, of being in the darkness and following the thoughts wherever they go.&#8221;
+
+Also, a [movie adaptation of The Fermata][2] is apparently heading towards pre-production with Neil Gaiman working on the script and [Robert Zemeckis][3] producing.
+
+Related: [Spoken][4] and [written][5] excerpts from Baker&#8217;s latest novel, [A Box of Matches][6]; [Nicholson Baker fan page][7].
+
+[1]: http://books.guardian.co.uk/departments/generalfiction/story/0,6000,872378,00.html "The Guardian: Particular obsessions"
+[2]: http://www.neilgaiman.com/exclusive/essay06.asp "NeilGaiman.com: Neil Gaiman's film Work"
+[3]: http://uk.imdb.com/Name?Zemeckis,+Robert "IMDb: Robert Zemeckis"
+[4]: http://www.npr.org/display_pages/features/feature_921674.html "NPR: Nicholson Baker reads extracts from A Box of Matches"
+[5]: http://www.randomhouse.com/randomhouse/catalog/display.pperl?isbn=0375502874&view=excerpt "Random House Trade: An excerpt from A Box of Matches by Nicholson Baker"
+[6]: http://www.amazon.co.uk/exec/obidos/ASIN/0701174021/ohsky "Amazon.co.uk: A Box of Matches by Nicholson Baker"
+[7]: http://j-walk.com/nbaker

@@ -1,0 +1,11 @@
+---
+title: Computers
+tags: ["v1"]
+date: 2002-03-17T13:55:38
+---
+
+[An Illustrated History][1].
+
+> &#8220;Discover the fascinating history of computers, interfaces, and computer design in this illustrated guide that includes pictures of nearly every computer ever made, an informative text describing the computer&#8217;s evolution up to the present day, and an A-Z index of the most influential computer firms.&#8221;
+
+[1]: http://www.taschen.com/pages/en/catalogue/books/architecture_design/all/facts/02976.htm

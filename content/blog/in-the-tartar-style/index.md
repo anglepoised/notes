@@ -1,0 +1,10 @@
+---
+title: In The Tartar Style
+tags: ["v1"]
+date: 2003-01-26T01:21:50
+---
+
+Radio 4&#8217;s recent [adaptation of Philip Pullman&#8217;s His Dark Materials trilogy][1] is now available as an [unabridged 26 CD (35 hour) box set][2].
+
+[1]: http://www.bbc.co.uk/radio4/arts/hisdarkmaterials/index.shtml "BBC Radio 4: Arts and Drama: His Dark Materials"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/1855495767/ohsky "Amazon.co.uk: His Dark Materials Audio CD Box Set (for hardcore fans only, I'd imagine)"

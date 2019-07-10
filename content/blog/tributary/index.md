@@ -1,0 +1,11 @@
+---
+title: Tributary
+tags: ["v1"]
+date: 2002-11-16T18:33:21
+---
+
+The [Uncharted Audio][1] people are playing the [disused Aldwych tube station][2] as part of [Seed Record&#8217;s 2nd birthday celebrations][3].
+
+[1]: http://www.unchartedaudio.com/news/ "Uncharted Audio: News"
+[2]: http://www.starfury.demon.co.uk/uground/aldwych.html "Underground History: Aldwych Underground Station"
+[3]: http://ardisson.net/seed/ "ardisson.net: Seed Records Birthday Lineup"
