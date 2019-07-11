@@ -12,6 +12,12 @@ export default function HTML(props) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         <link color="#d8423d" href="/safari-pinned-tab.svg" rel="mask-icon" />
+        <link
+          href="/feed/index.xml"
+          rel="alternate feed"
+          title="anglepoised notes"
+          type="application/atom+xml"
+        ></link>
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
