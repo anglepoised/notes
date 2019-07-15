@@ -8,7 +8,7 @@ After 20 years of on-again, off-again blogging, it's become clear that writing e
 
 I recently stumbled over archives from both my original 2001 to 2004 era linkblog and my circa 2007 tumblelog. I had much fun creating both of those, so I'm going back to that style with a modern [IndieWeb](https://indieweb.org/) twist.
 
-This time around I'm using [Gatsby](https://indieweb.org/), along with [`gatsby-starter-blog`](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/) to get going. Super easy to set up, but that may be because I've spent the last 5 years working on similar stacks. I only hit one small roadblock when setting up:
+This time around I'm using [Gatsby](https://www.gatsbyjs.org/), along with [`gatsby-starter-blog`](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/) to get going. Super easy to set up, but that may be because I've spent the last 5 years working on similar stacks. I only hit one small roadblock when setting up:
 
 ```sh
 ERROR #85907  GRAPHQL
