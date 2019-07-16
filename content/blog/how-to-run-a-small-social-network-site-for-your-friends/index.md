@@ -1,0 +1,9 @@
+---
+title: How to run a small social network site for your friends
+tags: ["fediverse", "linklog"]
+date: "2019-07-16T08:13:16.898Z"
+---
+
+> This document exists to lay out some general principles of running a small social network site that have worked for me. These principles are related to community building more than they are related to specific technologies. This is because the big problems with social network sites are not technical: the problems are social problems related to things like policy, values, and power.
+
+— <cite>[Darius Kazemi, _How to run a small social network site for your friends_](https://runyourown.social/)</cite>
