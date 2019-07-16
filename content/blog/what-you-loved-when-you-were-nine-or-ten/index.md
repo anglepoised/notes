@@ -1,0 +1,11 @@
+---
+title: what you loved when you were nine or ten
+date: 2010-03-25T10:42:44+00:00
+tumblr_permalink: /post/472284829/ive-found-that-your-chances-for-happiness-are
+tags: ["linklog"]
+format: "quote"
+---
+
+> I’ve found that your chances for happiness are increased if you wind up doing something that is a reflection of what you loved most when you were somewhere between nine and eleven years old. At that age, you know enough of the world to have opinions about things, but you’re not old enough yet to be overly influenced by the crowd or by what other people are doing or what you think you “should” be doing. If what you do later on ties into that reservoir in some way, then you are nurturing some essential part of yourself.
+
+— <cite>[kio stark, _what you loved when you were nine or ten_](https://fencedlot.wordpress.com/2010/03/24/what-you-loved-when-you-were-nine-or-ten/)</cite> (via <a href="http://tumblr.nickandjess.co.uk/">jessandnick</a>)

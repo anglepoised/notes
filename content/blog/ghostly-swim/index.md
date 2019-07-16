@@ -1,0 +1,11 @@
+---
+title: Ghostly Swim
+date: 2008-05-22T12:30:00+00:00
+tumblr_permalink: /post/35669787/ghostly-swim-a-free-adult-swimghostly
+tags: ["linklog"]
+format: "video"
+---
+
+[Ghostly Swim][1]: a free [adult swim]/Ghostly International compilation featuring The Chap, Tycho, Matthew Dear and lots of people I&rsquo;ve never heard of.
+
+[1]: http://www.adultswim.com/music/ghostly-swim

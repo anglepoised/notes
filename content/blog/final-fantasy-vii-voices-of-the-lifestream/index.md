@@ -1,0 +1,13 @@
+---
+title: "Final Fantasy VII: Voices of the Lifestream"
+date: 2007-09-14T16:18:53+00:00
+tumblr_permalink: /post/11818338/home-final-fantasy-vii-voices-of-the
+tags: ["linklog"]
+format: "link"
+---
+
+[Final Fantasy VII: Voices of the Lifestream, An OverClocked ReMix Album][1]
+
+> &ldquo;An OverClocked ReMix Album featuring free fan arrangements from the soundtrack to Square&rsquo;s legendary Final Fantasy VII for the Sony Playstation.&rdquo;
+
+[1]: http://ff7.ocremix.org/

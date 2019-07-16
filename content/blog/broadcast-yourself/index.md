@@ -1,0 +1,11 @@
+---
+title: Broadcast Yourself
+date: 2010-03-19T18:48:52+00:00
+tumblr_permalink: /post/459270483/for-years-viacom-continuously-and-secretly
+tags: ["linklog"]
+format: "quote"
+---
+
+> For years, Viacom continuously and secretly uploaded its content to YouTube, even while publicly complaining about its presence there. It hired no fewer than 18 different marketing agencies to upload its content to the site. It deliberately &ldquo;roughed up&rdquo; the videos to make them look stolen or leaked. It opened YouTube accounts using phony email addresses. It even sent employees to Kinko&rsquo;s to upload clips from computers that couldn&rsquo;t be traced to Viacom. And in an effort to promote its own shows, as a matter of company policy Viacom routinely left up clips from shows that had been uploaded to YouTube by ordinary users.
+
+— <cite>[Zahavah Levine, _Broadcast Yourself_](http://youtube-global.blogspot.com/2010/03/broadcast-yourself.html)</cite>

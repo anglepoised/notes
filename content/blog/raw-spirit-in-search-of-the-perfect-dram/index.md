@@ -1,0 +1,11 @@
+---
+title: "Raw Spirit: In Search of the Perfect Dram"
+date: 2011-01-13T10:54:00+00:00
+tumblr_permalink: /post/2727638856/i-love-this-assimilative-aspect-of-whisky-i-love
+tags: ["linklog"]
+format: "quote"
+---
+
+> I love this assimilative aspect of whisky. I love the fact that single malts, those apparent paradigms of purity, actually show far more variety in taste than any blend, that they are much more influenced by outside factors than any other type of alcoholic drink made without the same seemingly limiting strictures of law and tradition. I love the fact that no other drink I’ve ever heard of has the same sort of ability to absorb.
+
+— <cite>[Iain Banks, _Raw Spirit: In Search of the Perfect Dram_](https://www.goodreads.com/book/show/567702.Raw_Spirit)</cite>

@@ -1,0 +1,13 @@
+---
+title: The Wire with a laugh track
+date: 2009-05-16T08:40:54+00:00
+tumblr_permalink: /post/108545956/the-wire-with-a-laugh-track
+tags: ["linklog"]
+format: "video"
+---
+
+`youtube: https://www.youtube.com/watch?v=WDIi0dzmvpE`
+
+[The Wire with a laugh track][1].
+
+[1]: https://www.youtube.com/watch?v=WDIi0dzmvpE

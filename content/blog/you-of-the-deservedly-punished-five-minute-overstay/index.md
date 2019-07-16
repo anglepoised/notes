@@ -1,0 +1,11 @@
+---
+title: You of the deservedly punished five-minute overstay
+date: 2013-03-16T07:16:48+00:00
+tumblr_permalink: /post/45483548575/there-were-times-when-she-wanted-to-say-get-down
+tags: ["linklog"]
+format: "quote"
+---
+
+> There were times when she wanted to say: Get down on your knees! Be grateful! A billion people living on a dollar a day, as many who can’t find clean drinking water, you live in a country where there is a promise to feed, clothe, shelter and doctor you, from the moment of your birth to the moment of your death, for free, where the state won’t come and beat or imprison you or conscript you, where the life expectancy is one of the longest in the world, where the government does not lie to you about Aids, where the music is not bad and the only bad thing is the climate, and you find it in yourself to complain about parking? Woe, woe! Down on your knees in gratitude that you can even notice this minor irritation! Praise God for the fact that you resent getting this ticket, instead of rending your clothes with grief because you lost another child to dysentery or malaria! Sing hosannas when you fill out the little green form in the envelope stuck to your windshield! For you, you of the deservedly punished five-minute overstay, you of the misinterpreted residents’ bay area, you of the ignored Loading Only sign, are of all people who have lived the most fortunate!
+
+— <cite>[John Lanchester, _Capital_](https://www.goodreads.com/book/show/16241160-capital)</cite>

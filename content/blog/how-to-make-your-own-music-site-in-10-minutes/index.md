@@ -1,0 +1,15 @@
+---
+title: How To Make Your Own Music Site in 10 Minutes
+date: 2008-07-06T07:30:50+00:00
+tumblr_permalink: /post/41158314/how-to-make-your-own-music-site-in-10-minutes
+tags: ["linklog"]
+---
+
+[joelaz][1]:
+
+> What you’ll be creating is an automated music tumblelog. The site will monitor the songs you’re listening to in iTunes or other popular MP3 players. When you listen to a new song that hasn’t been posted to your music tumblelog, the site will automatically scour the internet for a MP3 matching that new track. If it finds one, it will be posted to your site as a link with artist and track info. Visitors to the site can listen to individual tracks or play up to 15 songs per page as a playlist.
+
+This is brilliant. I&rsquo;m a little late to the party; mine is called [In the Beams][2].
+
+[1]: http://joelaz.com/post/28132796/how-to-make-your-own-music-site-in-10-minutes
+[2]: http://inthebeams.tumblr.com/

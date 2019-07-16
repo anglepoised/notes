@@ -1,0 +1,17 @@
+---
+title: anglepoised.muxtape.com
+date: 2008-04-06T10:09:00+00:00
+tumblr_permalink: /post/30934648/anglepoisedmuxtapecom
+tags: ["linklog"]
+format: "link"
+---
+
+[anglepoised.muxtape.com][1]
+
+Finally got round to making one. What fun!
+
+Mine has [The Teenagers](http://www.theteenagers.net/), [Deerhoof](http://deerhoof.killrockstars.com/), Beck (against my [better judgement](http://en.wikipedia.org/wiki/Beck#Personal_life), but remixed by [The Chap](http://thechap.org/) which evens things out a little), [Black Devil Disco Club](http://www.myspace.com/blackdevildiscoclub26), [Bastards of Love](http://bastardsoflove.com/) (remixed by [LJ Kruzer](http://www.ljkruzer.co.uk/)), [Fisk Industries](http://www.fisk-industries.co.uk/), [¡Forward, Russia!](http://www.forwardrussia.com/), [Death From Above 1979](http://www.myspace.com/deathfromabove1979) (remixed by [Justice](http://www.myspace.com/etjusticepourtous)), [GusGus](http://www.myspace.com/gusgus), [Buraka Som Sistema](http://www.myspace.com/burakasomsistema), [Huoratron](http://www.huoratron.com/) and [Von Südenfed](http://www.myspace.com/vonsudenfed).
+
+Much noisier than I was expecting it to be.
+
+[1]: http://anglepoised.muxtape.com/

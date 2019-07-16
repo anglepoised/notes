@@ -1,0 +1,13 @@
+---
+title: visual complexity
+date: 2007-10-17T18:59:12+00:00
+tumblr_permalink: /post/15999704/visualcomplexitycom-a-visual-exploration-on
+tags: ["linklog"]
+format: "link"
+---
+
+> &ldquo;intends to be a unified resource space for anyone interested in the visualization of complex networks.&rdquo;
+
+[visualcomplexity.com][1]
+
+[1]: http://www.visualcomplexity.com/vc/

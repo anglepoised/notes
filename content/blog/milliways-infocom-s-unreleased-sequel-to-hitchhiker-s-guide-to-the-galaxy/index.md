@@ -1,0 +1,13 @@
+---
+title: "Milliways: Infocom’s Unreleased Sequel to Hitchhiker’s Guide to the Galaxy"
+date: 2008-04-18T20:47:00+00:00
+tumblr_permalink: /post/32183335/milliways-infocoms-unreleased-sequel-to
+tags: ["linklog"]
+format: "link"
+---
+
+[Milliways: Infocom&#8217;s Unreleased Sequel to Hitchhiker&#8217;s Guide to the Galaxy &#8211; Waxy.org][1]
+
+> &ldquo;From an anonymous source close to the company, I&rsquo;ve found myself in possession of the "Infocom Drive&rdquo; — a complete backup of Infocom&rsquo;s shared network drive from 1989. This is one of the most amazing archives I&rsquo;ve ever seen, a treasure chest documenting the rise and fall of the legendary interactive fiction game company.&ldquo;
+
+[1]: http://waxy.org/2008/04/milliways_infocoms_unreleased_sequel_to_hitchhikers_guide_to_the_galax/

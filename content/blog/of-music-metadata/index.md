@@ -1,0 +1,11 @@
+---
+title: of music & metadata
+date: 2008-12-14T20:12:36+00:00
+tumblr_permalink: /post/64839459/musics-metadata-could-once-be-ignored-the-way-we
+tags: ["linklog"]
+format: "quote"
+---
+
+> Music&rsquo;s metadata could once be ignored. The way we valued music in the 1980s and the 1990s is part of a world that no longer exists: when music&rsquo;s economic value has to be reassessed, the way we reassess the music as a whole changes as well. The way we value music might be increasingly moving to metadata.
+
+— <cite>[Dan Visel, _of music & metadata_](http://futureofthebook.org/blog/2008/12/04/music_is_metadata/)</cite>
