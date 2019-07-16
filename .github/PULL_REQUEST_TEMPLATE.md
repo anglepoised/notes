@@ -1,0 +1,5 @@
+- [ ] Date accurate
+- [ ] Tags added
+- [ ] Spelling
+- [ ] Grammar
+- [ ] Links
