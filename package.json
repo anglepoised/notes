@@ -1,5 +1,5 @@
 {
-  "name": "notes.anglepoised.com",
+  "name": "anglepoised-notes",
   "version": "1.0.0",
   "description": "Anglepoised Notes blog",
   "author": "Paul Love <paul@anglepoised.com>",
@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/anglepoised/notes/issues"
   },
-  "homepage": "https://notes.anglepoised.com/",
+  "homepage": "https://anglepoised.com/",
   "engines": {
     "node": "10.16.0"
   },

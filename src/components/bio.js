@@ -24,17 +24,15 @@ const Bio = () => {
       site {
         siteMetadata {
           author
-          social {
-            twitter
-          }
         }
       }
     }
   `);
 
-  const { author, social } = data.site.siteMetadata;
+  const { author } = data.site.siteMetadata;
   return (
     <div
+      className="h-card"
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5)
@@ -53,13 +51,13 @@ const Bio = () => {
           borderRadius: `50%`
         }}
       />
-      <p>
-        Written by <strong>{author}</strong> who lives and works in Edinburgh
+      <p className="p-note">
+        Written by{" "}
+        <a className="p-name u-url" href="https://anglepoised.com/" rel="me">
+          <strong>{author}</strong>
+        </a>{" "}
+        who lives and works in <span className="p-locality">Edinburgh</span>{" "}
         building useful things.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
       </p>
     </div>
   );
