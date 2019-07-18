@@ -3,10 +3,7 @@ module.exports = {
     title: `Anglepoised Notes`,
     author: `Paul Love`,
     description: `Order coupled with pleasing decoration.`,
-    siteUrl: `https://anglepoised.com`,
-    social: {
-      twitter: `anglepoised`
-    }
+    siteUrl: `https://anglepoised.com`
   },
   plugins: [
     {
