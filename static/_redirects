@@ -1,3 +1,7 @@
+# feed redirects and rewrites
+/atom.xml	/feed/
+/rss/	/feed/
+/feed/ /feed/index.xml 200
 # hexo site post redirects
 /2012/08/Chat-tools-HipChat-and-Flowdock/ /chat-tools-hipchat-and-flowdock/
 /2012/08/Issue-tracking-basics/ /issue-tracking-basics/
@@ -12,7 +16,9 @@
 /2014/03/Waste/ /waste/
 /2014/06/The-journey-is-the-goal/ /the-journey-is-the-goal/
 /2014/07/Dangerous-Instrument/  /dangerous-instrument/
+/2014/07/30/hmtl-using-codeship-talk/   /hmtl-using-codeship-talk/
 /2014/07/HMTL-Using-Codeship-talk/  /hmtl-using-codeship-talk/
+/2014/07/07/hmtl-vagrant-talk/     /hmtl-vagrant-talk/
 /2014/07/HMTL-Vagrant-talk/ /hmtl-vagrant-talk/
 /2014/12/It-doesnt-matter-that-the-tools-are-dumb/  /it-doesnt-matter-that-the-tools-are-dumb/
 /2015/09/Continuous-deployment-of-static-sites-from-Codeship-to-WebFaction-with-rsync/  /continuous-deployment-of-static-sites-from-codeship-to-webfaction-with-rsync/
