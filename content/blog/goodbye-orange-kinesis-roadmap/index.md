@@ -10,7 +10,7 @@ I recently stumbled over archives from both my original 2001 to 2004 era linkblo
 
 This time around I'm using [Gatsby](https://www.gatsbyjs.org/), along with [`gatsby-starter-blog`](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/) to get going. Super easy to set up, but that may be because I've spent the last 5 years working on similar stacks. I only hit one small roadblock when setting up:
 
-```sh
+```shell
 ERROR #85907  GRAPHQL
 
 There was an error in your GraphQL query:
