@@ -43,7 +43,7 @@ The dates refer to when I first started using something rather than the release,
 - Internet Explorer 6.0
 - [XHTML 1.1 and CSS for layout](http://alistapart.com/article/journey)
 - [Web Design in a Nutshell](http://shop.oreilly.com/product/9781565925151.do)
-- [EditPlus](http://notes.anglepoised.com/www.editplus.com/)
+- [EditPlus](http://www.editplus.com/)
 - ASP.NET, SQL Server and the dark world of [RedDot](https://en.wikipedia.org/wiki/RedDot)
 
 ## 2002
