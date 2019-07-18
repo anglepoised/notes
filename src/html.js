@@ -13,7 +13,7 @@ export default function HTML(props) {
         />
         <link color="#d8423d" href="/safari-pinned-tab.svg" rel="mask-icon" />
         <link
-          href="/feed/index.xml"
+          href="/feed/"
           rel="alternate feed"
           title="anglepoised notes"
           type="application/atom+xml"

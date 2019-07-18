@@ -69,7 +69,7 @@ class Layout extends React.Component {
           }}
         >
           <div style={{ float: "right" }}>
-            <a href="/feed/index.xml">RSS</a>
+            <a href="/feed/">RSS</a>
           </div>
           <a href="https://twitter.com/anglepoised" rel="me">
             Twitter
