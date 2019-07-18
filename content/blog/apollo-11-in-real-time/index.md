@@ -1,0 +1,11 @@
+---
+title: Apollo 11 in Real Time
+tags: ["linklog", "space"]
+date: 2019-07-18T10:26:07.380Z
+---
+
+> This website replays the Apollo 11 mission as it happened, 50 years ago. It consists entirely of historical material, all timed to Ground Elapsed Time--the master mission clock. Footage of Mission Control, film shot by the astronauts, and television broadcasts transmitted from space and the surface of the Moon, have been painstakingly placed to the very moments they were shot during the mission, as has every photograph taken, and every word spoken.
+
+A remarkable reconstruction of the first Moon landing.
+
+— <cite>[_Apollo 11 in Real Time_](https://apolloinrealtime.org/11/)</cite>
