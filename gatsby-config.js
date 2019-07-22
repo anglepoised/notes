@@ -131,6 +131,12 @@ module.exports = {
       }
     },
     `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://anglepoised.com`
+      }
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
