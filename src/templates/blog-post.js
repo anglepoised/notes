@@ -10,7 +10,19 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
+    const siteUrl = this.props.data.site.siteMetadata.siteUrl;
     const { previous, next } = this.props.pageContext;
+    const postUrl = siteUrl + post.fields.slug;
+    const dateOptions = {
+      weekday: "long",
+      year: "numeric",
+      month: "long",
+      day: "numeric"
+    };
+    const dateLocal = new Date(post.frontmatter.date).toLocaleDateString(
+      "en-GB",
+      dateOptions
+    );
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -18,27 +30,17 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
-        <h1
-          style={{
-            marginTop: rhythm(1),
-            marginBottom: 0
-          }}
-        >
-          {post.frontmatter.title}
-        </h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1)
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-
-        {post.frontmatter.tags ? (
-          <div>
+        <article className="h-entry">
+          <h1
+            className="p-name"
+            style={{
+              marginTop: rhythm(1),
+              marginBottom: 0
+            }}
+          >
+            {post.frontmatter.title}
+          </h1>
+          <a href={postUrl} className="u-url">
             <p
               style={{
                 ...scale(-1 / 5),
@@ -46,18 +48,35 @@ class BlogPostTemplate extends React.Component {
                 marginBottom: rhythm(1)
               }}
             >
-              Posted in: {post.frontmatter.tags.join(", ")}
+              <time className="dt-published" dateTime={post.frontmatter.date}>
+                {dateLocal}
+              </time>
             </p>
-          </div>
-        ) : null}
-
-        <hr
-          style={{
-            marginBottom: rhythm(1)
-          }}
-        />
-        <Bio />
-
+          </a>
+          <div
+            className="e-content"
+            dangerouslySetInnerHTML={{ __html: post.html }}
+          />
+          {post.frontmatter.tags ? (
+            <div>
+              <p
+                style={{
+                  ...scale(-1 / 5),
+                  display: `block`,
+                  marginBottom: rhythm(1)
+                }}
+              >
+                Posted in: {post.frontmatter.tags.join(", ")}
+              </p>
+            </div>
+          ) : null}
+          <hr
+            style={{
+              marginBottom: rhythm(1)
+            }}
+          />
+          <Bio />
+        </article>
         <ul
           style={{
             display: `flex`,
@@ -94,6 +113,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
         author
       }
     }
@@ -101,9 +121,12 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
         description
         tags
       }
