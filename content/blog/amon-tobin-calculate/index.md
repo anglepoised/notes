@@ -1,0 +1,13 @@
+---
+title: Amon Tobin - Calculate
+date: 2011-11-20T16:06:40+00:00
+tumblr_permalink: /post/13063795000/amon-tobin-calculate-by-jimjam-graphics
+tags: ["linklog"]
+format: "video"
+---
+
+`vimeo: https://vimeo.com/31395235`
+
+[Amon Tobin &#8211; Calculate][1] (by JimJam Graphics)
+
+[1]: https://vimeo.com/31395235

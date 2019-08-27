@@ -1,0 +1,13 @@
+---
+title: Kwari
+date: 2007-09-06T20:12:49+00:00
+tumblr_permalink: /post/10917944/kwari-first-person-shooter-skill-based-cash
+tags: ["linklog"]
+format: "link"
+---
+
+[Kwari ™ &#8211; first person shooter skill-based cash for kills online gaming][1]
+
+> &ldquo;Every time you hit another player in Kwari you make money. Every time you are hit by another player it costs you. Every shot counts. How much is down to the stake level you play in.&rdquo;
+
+[1]: http://www.kwari.com/

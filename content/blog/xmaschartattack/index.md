@@ -1,0 +1,13 @@
+---
+title: xmaschartattack
+date: 2007-10-17T09:16:53+00:00
+tumblr_permalink: /post/15931924/xmaschartattack-groups-at-lastfm
+tags: ["linklog"]
+format: "link"
+---
+
+[xmaschartattack – Groups at Last.fm][1]
+
+> &ldquo;We searched the site and found three up-and-coming bands we know are a million times better than anything Simon Cowell will inflict on us. We want you to decide which one we take into the Christmas Charts this year.&rdquo;
+
+[1]: http://www.last.fm/group/xmaschartattack/

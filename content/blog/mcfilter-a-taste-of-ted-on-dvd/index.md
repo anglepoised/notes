@@ -1,0 +1,20 @@
+---
+title: "McFilter: A Taste of TED on DVD"
+date: 2008-04-25T12:39:09+00:00
+tumblr_permalink: /post/32833209/mcfilter-a-taste-of-ted-on-dvd
+tags: ["linklog"]
+format: "link"
+---
+
+[McFilter: A Taste of TED on DVD][1]
+
+> There are six talks on the DVD. I picked ones that I enjoyed watching and that seem to be well thought of on the web:
+>
+> 1.  Dan Gilbert asks “Why are we happy?”
+> 2.  Malcolm Gladwell on spaghetti sauce
+> 3.  Sir Ken Robinson say schools kill creativity
+> 4.  Hans Rosling shows the best stats you’ve ever seen
+> 5.  Barry Schwartz on the paradox of choice
+> 6.  Gever Tulley on five dangerous things for kids
+
+[1]: http://www.mcqn.net/mcfilter/archives/computers/a_taste_of_ted_on_dvd.html

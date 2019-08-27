@@ -1,0 +1,11 @@
+---
+title: The Unbearable Triviality Of Social Networking
+date: 2011-04-18T19:30:47+00:00
+tumblr_permalink: /post/4724646249/space-travel-gave-us-the-ability-to-see-our-own
+tags: ["linklog"]
+format: "quote"
+---
+
+> Space travel gave us the ability to see our own world from afar, revealing to us the fragility of our world and the insignificance of human existence when seen from a cosmic scale. Many astronauts describe being profoundly changed by seeing the &ldquo;blue marble&rdquo; for themselves. Perhaps these vertiginous experiences, these sudden shifts in perspective will occur more frequently with the advance of technology. Perhaps the opposite will occur and with the decline in mass media we will become increasingly insular and narcissistic. Perhaps our reaction to being able to see the sum of all human life will be to shield our eyes from it. We live in interesting times.
+
+— <cite>[jdietrich, _The Unbearable Triviality Of Social Networking_](https://news.ycombinator.com/item?id=2459366)</cite>

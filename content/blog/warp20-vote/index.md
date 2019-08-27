@@ -1,0 +1,13 @@
+---
+title: Warp20 (Vote)
+date: 2009-03-11T11:27:25+00:00
+tumblr_permalink: /post/85496972/warp20-vote
+tags: ["linklog"]
+format: "link"
+---
+
+[Warp20 (Vote)][1]
+
+> &ldquo;Vote for your favourite ever Warp tracks here. Your top 10 (by different artists) will combine with our top 10 to make a historic album for release this Autumn.&rdquo;
+
+[1]: http://www.warp20.net/
