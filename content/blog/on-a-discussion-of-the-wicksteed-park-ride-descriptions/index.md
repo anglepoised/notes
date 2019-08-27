@@ -1,0 +1,12 @@
+---
+title: On a discussion of the Wicksteed Park ride descriptions
+date: 2007-11-09T15:47:00+00:00
+tumblr_permalink: /post/18908920/on-a-discussion-of-the-wickstead-park-ride
+tags: ["linklog"]
+format: chat
+---
+
+<i>Son:</i> Daddy, Daddy! Look at the diagonal bracing on the torsion rods!<br>
+<i>Father:</i> Aye, son. But not just that &#8211; I think you&#8217;ll find on descending the six-lane slide that the rolled steel joists have been galvanised for protection.<br>
+<i>Son:</i> Brilliaaaant!<br>
+<i>Father:</i> Aye. But make sure to hold tight to the aluminium angle-supported safety rail while you ascend the staircase, son, or you&#8217;ll fall, and the pigment flowing forth from your cracked head certainly won&#8217;t enhance your appearance.<br>
