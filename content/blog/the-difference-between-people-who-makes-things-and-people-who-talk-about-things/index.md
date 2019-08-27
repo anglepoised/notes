@@ -3,9 +3,7 @@ title: "The difference between people who makes things and people who talk about
 date: 2009-04-13T18:55:24+00:00
 tumblr_permalink: /post/95820087/twitter-drew-mclellan-the-difference-between
 tags: ["linklog"]
-format: "quote"
+format: "tweet"
 ---
 
-> The difference between ppl who make things and ppl who talk about things is that the ppl who make things know what they're talking about.
-
-— <cite>[Drew McLellan](https://twitter.com/drewm/status/1509710452)</cite>
+https://twitter.com/drewm/status/1509710452
