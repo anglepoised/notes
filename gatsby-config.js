@@ -41,6 +41,12 @@ module.exports = {
             }
           },
           {
+            resolve: "@weknow/gatsby-remark-twitter",
+            options: {
+              hideMedia: false
+            }
+          },
+          {
             resolve: "gatsby-remark-embed-video",
             options: {
               width: 800,
