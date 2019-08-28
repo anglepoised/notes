@@ -1,0 +1,21 @@
+---
+title: Tumblr MP3 Player
+date: 2008-07-23T14:33:36+00:00
+tumblr_permalink: /post/43272384/tumblr-mp3-player-by-dan-kantor
+tags: ["linklog"]
+format: "link"
+---
+
+[Tumblr MP3 Player by Dan Kantor][1]
+
+[shrinkwrapped](http://tumblefeed.thair.net/post/43265591/tumblr-mp3-player-by-dan-kantor):
+
+> [david](http://www.davidslog.com/43190571/tumblr-mp3-player-by-dan-kantor):
+>
+> > This is cool! [Dan Kantor](http://blog.dankantor.com/post/43158314/tumblr-mp3-player) made a tumblelog widget that plays through all of your Audio posts.
+>
+> Yay! This is just the sort of thing we need for [WoopWoop](http://woopwoop.tumblr.com).
+
+Just what I was thinking.
+
+[1]: http://blog.dankantor.com/post/43158314/tumblr-mp3-player
