@@ -1,0 +1,18 @@
+---
+title: Captain Ahab – I Wanna Love You Like a Robot
+date: 2008-05-15T09:09:00+00:00
+tumblr_permalink: /post/34879045/captain-ahab-i-wanna-love-you-like-a-robot-let
+tags: ["linklog"]
+format: "audio"
+---
+
+`youtube: https://www.youtube.com/watch?v=0u0O_a0WV3M`
+
+[Captain Ahab &#8211; I Wanna Love You Like a Robot][1].
+
+> Let me hear you say 1!<br>
+> Let me hear you say 0!
+
+I&rsquo;m not transcribing the rest.
+
+[1]: https://www.youtube.com/watch?v=0u0O_a0WV3M
