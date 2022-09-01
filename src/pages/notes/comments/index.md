@@ -1,0 +1,22 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Comments
+tags: ["meta"]
+pubDate: 2012-04-06
+---
+
+A timely article from Smashing, [Publish What You Learn](http://www.smashingmagazine.com/2012/03/30/publish-what-you-learn/):
+
+> The collaboration on apps like GitHub should be exactly what happens on blog posts. The readers posting comments should read the entire article, and should offer constructive, polite criticism and suggestions, without any unnecessary negativity.
+
+In the past I’ve generally been against allowing comments on blogs but, given the (admittedly pretty nebulous) goals and subject matter I have in mind for this site, I find myself unexpectedly agreeing with the above. To that end, I’ve flipped the comments back on for this blog. I don’t expect much in the way of feedback but think there should be a mechanism for providing it, just in case.
+
+The tl;dr at the end of the article makes quite a good mini-manifesto.
+
+> - When you learn something, write about it, and don’t do it just to make money off it.
+> - Don’t be afraid to make mistakes.
+> - Teaching others will help you learn.
+> - Encourage collaboration by allowing a free flow of constructive comments.
+> - If you make a mistake, fix it.
+
+I do like having some guidelines to refer to.

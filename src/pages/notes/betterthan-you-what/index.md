@@ -1,0 +1,82 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: "betterthan: You What?"
+tags:
+  [
+    "betterthan",
+    "development",
+    "fabric",
+    "git",
+    "html5boilerplate",
+    "hyde",
+    "process",
+    "smacss",
+    "sublimetext",
+    "vagrant",
+  ]
+pubDate: 2012-03-29 09:00:00
+---
+
+I’ve found that attempting to use new tools and techniques during real production doesn’t really work for me. I get tied up in doing the work and find it hard to focus on learning how to do things in new and interesting ways.
+
+Undirected mucking about doesn’t work particularly well for me either. I can rarely shake the feeling that it’s all slightly pointless (even though it really isn’t).
+
+So my plan is to trick myself by using a recent small, self-contained and reasonably well-built site and retrofitting it where reasonable and rebuilding where not. The idea behind this is that everything I do will have purpose; Learning new things, getting some appreciation for the effort required and value of each new thing and, possibly, folding back any changes into the original site.
+
+I like names. Names are good. I thought about calling this whole process nearlyperfect but that’s really just asking for trouble.
+
+So I’ve settled on **betterthan**.
+
+Here’s a list of things I plan to try, in roughly chronological order.
+
+## [Sublime Text](http://www.sublimetext.com/)
+
+I’ve been ‘evaluating’ Sublime Text for a few months but didn’t want to cough up for a license until I’d decided whether to stick with it, switch back to the stalwart TextMate or have another crack at Vim.
+
+Textmate has been my editor of choice since I switched to OS X in 2007, but the 1.x release is feeling more than a little clunky. MacroMates have [started work on TextMate 2.0](http://blog.macromates.com/2011/textmate-2-0-alpha/) and it’s all looking rather nice but I can’t be hanging around for another few months waiting for them to finish. Sorry, MacroMates. Maybe next time.
+
+So, [vim](http://www.vim.org/). “Sounds powerful”, I thought. But then I watched Torrez’ enthusiasm [spark](http://notes.torrez.org/2012/03/q.html) and [gutter after a while](http://notes.torrez.org/2011/11/novimber-wrap-up.html) and realised I’d probably go through the same process. Vim tries to solve a problem I don’t really have (a common pattern). In this case, it was the desire to have a consistent environment whenever files I found files that needed editing that weren’t on my local machine. How many times have I needed to do this over the past year? Maybe twice and it made me feel dirty every time. So no vim for me (unless it’s through [Sublime Text’s Vintage Mode](http://www.sublimetext.com/docs/2/vintage.html)).
+
+Now, please admire my shiny new Sublime Text license.
+
+## [Git](http://git-scm.com/)
+
+Git has been part of my toolkit for a couple of years but I’m always left with the nagging feeling that I’m not using it properly or as well as I probably could. I work on feature branches and aim to maintain as clean a commit history as possible, but I don’t squash my commits, do any rebasing or anything fancy like that. Time to learn.
+
+Part of this will be looking at [git-flow](https://github.com/nvie/gitflow). I’ve been poking at it for a couple of weeks and so far I like the way it pushes me into working in a more organised fashion.
+
+## [Fabric](http://fabric.readthedocs.org/)
+
+Fabric is something else I’ve been using in a half-arsed fashion for a while. I’ve used scripts by my accomplished [Pythonic colleague Rolo](http://wildfish.com/) and have put a few basic things together myself, but I’m keen to go beyond the basics.
+
+I hope to automate as much as is reasonable for this project and, when done, spin out the results into a reusable front-end focussed fabfile.
+
+I might get away with this as long as people don’t look too closely at my Python.
+
+## [HTML5 Boilerplate](http://html5boilerplate.com/) and [Normalize.css](http://necolas.github.com/normalize.css/)
+
+I’ve been following HTML5BP and have worked on projects that used it as a jumping-off point point but am slightly ashamed to admit that I’m yet to use it to start a production build myself. The same goes for Normalize.css; I’ve been relying the classic [Reset CSS](http://meyerweb.com/eric/tools/css/reset/) but have found it to be a little brutal.
+
+Hopefully this will be a little easier now that [Normalize.css has been added to HTML5BP](http://heybigname.com/2011/06/23/html5-boilerplate-adds-normalize-css/).
+
+## [Scalable and Modular Architecture for CSS (SMACSS)](http://smacss.com/)
+
+I gave this a first reading a few weeks ago and was surprised how many of the concepts are similar to those I’ve been implementing and discussing with others over the past few months. I’d argue that implementing a sensible architecture is just as important for small sites as it is for the larger ones.
+
+## [Specialmoves Front-end Coding Standards](https://github.com/specialmoves/coding-standards-front-end)
+
+These aren’t particularly well known but I hope that will change; they strike a good balance between enforcement and pragmatism. They’re based in part on the techniques in SMACSS.
+
+## [Responsive Web Design](http://www.alistapart.com/articles/responsive-web-design/)
+
+I’ve been toying with this over the past year but have been using the cheats’ method i.e. scatting a few media queries across a site to create breakpoints and help ensure that the layout holds together. So far I haven’t done a full responsive build from the ground up, either working from designs where this is the intent or attempting to do so where responsive isn’t the intent. I want to know what problems I’m going to face.
+
+## [Hyde](http://ringce.com/hyde)
+
+For those moments when clients say, “Hey, don’t worry, it’s a small site so no back-end required, let’s just keep it static”. I need a something to give logic to templates and sites but have no desire to roll my own SSG. Hyde may not be the right choice and is currently caught between [old](https://github.com/lakshmivyas/hyde) and [new](https://github.com/hyde/hyde) releases but one must start somewhere (and for me that place is not with a blog).
+
+## [Vagrant](http://vagrantup.com/)
+
+Using a virtualized development environment is probably overkill for the project in question but one of my biggest problems is getting Django sites up and running in a timely fashion.
+
+Vagrant seems like a sensible way of trying to avoid some of the issues to try and it’s probably a good idea to fiddle about with something relatively simple and non-critical, like a toy Hyde site for example.

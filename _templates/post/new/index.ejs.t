@@ -1,11 +1,12 @@
 ---
-to: content/blog/<%= h.changeCase.param(title) %>/index.md
+to: src/pages/notes/<%= h.changeCase.param(title) %>/index.md
 sh: "git checkout -b post/<%= h.changeCase.param(title) %>"
 ---
 ---
+layout: "../../../layouts/BlogPost.astro"
 title: <%= title %>
 tags: ["tag"]
-date: <%= new Date().toISOString(); %>
+pubDate: <%= new Date().toISOString(); %>
 ---
 
 `youtube: https://www.youtube.com/watch?v=jNQXAC9IVRw`

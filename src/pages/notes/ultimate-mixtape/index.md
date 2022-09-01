@@ -1,0 +1,19 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Ultimate Mixtape
+tags: ["v1"]
+pubDate: 2003-03-19T22:57:47
+---
+
+Foundation have announced details of next year&#8217;s All Tomorrow&#8217;s Parties festival, [The Directors Cut UK 2004][1]. There&#8217;s no word on the line-up so far (as is traditional) but three curators from previous UK ATP events ([Mogwai][2], [Tortoise][3] and [Shellac][4]) have been invited back to curate a day each.
+
+This year&#8217;s ATP starts on the 4th of April and with Public Enemy, Aphex Twin, A Guy Called Gerald, El-P, The Fall, Venetian Snares and lots of people from Skam Records playing, it should be another stormer. Tickets officially sold out a while back, but some people are [still trading chalet spaces][5].
+
+(Barely) related: [brief history of Camber][6].
+
+[1]: http://www.atpfestival.com/events/news.php?event=1&view=34 "ATP Festival: The Director's Cut UK announcement"
+[2]: http://www.mogwai.co.uk/ "Official Mogwai website"
+[3]: http://www.brainwashed.com/tortoise/ "Brainwashed: Tortoise"
+[4]: http://www.southern.com/southern/band/SHLAC/ "Southern Records: Shellac"
+[5]: http://groups.msn.com/alltomorrowspartiesfestival "MSN Groups: ATP (2003) message board"
+[6]: http://www.villagenet.co.uk/dr-syn/villages/camber.php "VillageNet: Camber (Sands and Holidays)"

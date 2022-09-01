@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Gamers in Exile
+tags: ["v1"]
+pubDate: 2002-06-15T22:57:26
+---
+
+[Gamer.tv][1] are [looking for game-literate people][2] to appear as contestants on their new television gaming quiz show.
+
+[1]: http://www.gamer.tv/ "Gamer.tv"
+[2]: http://www.gamer.tv/page/feature/3174176.htm "Gamer.tv: New Gaming Quiz Show"

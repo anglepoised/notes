@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: London Word Festival 2008.
+pubDate: 2008-01-10T22:53:45+00:00
+tumblr_permalink: /post/23480417/london-word-festival-20-february-14-march
+tags: ["linklog"]
+format: "link"
+---
+
+[London Word Festival | 20 February &#8211; 14 March 2008.][1]
+
+Saul Williams, dan le sac Vs Scroobius Pip, Richard Herring, Simon Munnery, Toby Litt, some people discussing Oulipo and much, much more.
+
+[LWF events on upcoming.org](http://upcoming.yahoo.com/tag/londonwordfestival/).
+
+[1]: http://www.londonwordfestival.com/

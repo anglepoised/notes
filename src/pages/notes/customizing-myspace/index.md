@@ -1,0 +1,14 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Customizing Myspace
+pubDate: 2008-03-13T18:12:00+00:00
+tumblr_permalink: /post/28770013/customizing-myspace
+tags: ["linklog"]
+format: chat
+---
+
+<i>Paul:</i> I reckon the only thing to do is get in there and give it a crack<br>
+<i>Paul:</i> can&#8217;t guarantee it&#8217;ll take 2 hours but will try me best<br>
+<i>Mat:</i> that&#8217;s the spirit<br>
+<i>Paul:</i> i may have to self-euthanize afterwards, though<br>
+<i>Mat:</i> that&#8217;s fine, its all in the cost<br>

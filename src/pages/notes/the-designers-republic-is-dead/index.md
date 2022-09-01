@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The Designers Republic Is Dead
+pubDate: 2009-01-24T11:36:00+00:00
+tumblr_permalink: /post/72778800/cr-blog-blog-archive-the-designers-republic-is
+tags: ["linklog"]
+format: "link"
+---
+
+Designers Republic goes under.
+
+> &ldquo;I&rsquo;ve never liked that agency model &#8211; it&rsquo;s not where creativity lies. DR accidentally ended up there in order to service bigger clients. I&rsquo;m not being ungrateful&hellip;
+
+[The Designers Republic Is Dead; Long Live The Designers Republic][1]
+
+[1]: http://www.creativereview.co.uk/crblog/the-designers-republic-is-dead-long-live-the-designers-republic/

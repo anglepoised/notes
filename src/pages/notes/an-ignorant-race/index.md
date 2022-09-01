@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: An ignorant race
+tags: ["v1"]
+pubDate: 2002-03-22T02:37:50
+---
+
+Japan’s psychedelic earth worshippers [Acid Mothers Temple][1] perform a live score to the cult Japanese Manga classic “[Urotsukidoji][2]” – Legend Of The Overfiend at the [SBC on the 5th April](http://www.sbc.org.uk/cgi-bin/framebuilder.cgi?target=http://www.sbc.org.uk/music/sub_music/performance/14793.html?version=1). Related: [Reality Film][3].
+
+[1]: http://www.acidmothers.com/
+[2]: http://uk.imdb.com/Title?0108461
+[3]: http://www.realityfilm.co.uk/

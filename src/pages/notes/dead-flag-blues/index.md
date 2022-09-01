@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Dead Flag Blues
+tags: ["v1"]
+pubDate: 2002-07-02T11:07:33
+---
+
+[iCandy][1] reviews [Six Feet Under][2] at [Screenburn][3]. Related: [official Six Feet Under website][4].
+
+[1]: http://icandy.ohskylab.com/ "iCandy"
+[2]: http://screenburn.org/reviews/archives/00000027.php "iCandy reviews Six Feet Under at Screenburn"
+[3]: http://screenburn.org/ "Screenburn"
+[4]: http://www.hbo.com/sixfeetunder/ "Official Six Feet Under website at HBO"

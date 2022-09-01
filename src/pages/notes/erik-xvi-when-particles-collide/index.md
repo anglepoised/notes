@@ -1,0 +1,15 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Erik XVI – When Particles Collide
+pubDate: 2011-10-20T16:58:24+00:00
+tumblr_permalink: /post/11697089577/erik-xvi-when-particles-collide-also-taken-from
+tags: ["linklog"]
+format: "audio"
+---
+
+[Erik XVI &#8211; When Particles Collide][1].
+
+Also taken from Highpoint Lowlife&rsquo;s [Physic or Surgery][2].
+
+[1]: http://soundcloud.com/sharevari/erik-xvi-when-particles
+[2]: http://highpointlowlife.com/

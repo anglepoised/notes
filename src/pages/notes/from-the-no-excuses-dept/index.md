@@ -1,0 +1,15 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: From the no-excuses dept.
+tags: ["v1"]
+pubDate: 2002-04-08T12:00:20
+---
+
+Strunk&#8217;s [The Elements of Style][1] available online at the excellent [Bartleby.com][2]. Other useful texts: Emily Post&#8217;s [Etiquette in Society, in Business, in Politics and at Home][3], Frazer&#8217;s [The Golden Bough][4], T.S. Eliot&#8217;s [The Sacred Wood][5] and Henry Gray&#8217;s [Anatomy of the Human Body][6].
+
+[1]: http://www.bartleby.com/141/
+[2]: http://www.bartleby.com
+[3]: http://www.bartleby.com/95/
+[4]: http://www.bartleby.com/196/
+[5]: http://www.bartleby.com/200/
+[6]: http://www.bartleby.com/107/

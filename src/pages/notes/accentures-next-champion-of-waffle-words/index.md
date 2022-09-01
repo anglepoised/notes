@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Accenture’s next champion of waffle words
+pubDate: 2009-02-20T14:34:57+00:00
+tumblr_permalink: /post/79963337/accentures-next-champion-of-waffle-words
+tags: ["linklog"]
+format: "link"
+---
+
+> &ldquo;Mr Foster says that what must be done is to teach organisations to "expand their talent management agenda from a narrow and tactical focus on human resources activities around the employee life&hellip;
+
+— <cite>[Accenture&#8217;s next champion of waffle words](http://www.ft.com/cms/s/0/48e4569a-cb56-11dc-97ff-000077b07658.html)</cite>

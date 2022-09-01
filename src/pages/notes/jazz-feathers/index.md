@@ -1,0 +1,19 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Jazz Feathers
+tags: ["v1"]
+pubDate: 2002-04-25T17:39:08
+---
+
+Jay Rubin&#8217;s [Haruki Murakami and the Music of Words][1] looks worthwhile (if far from definitive or overly insightful).
+
+Related: [critical Guardian review][2]; [a Murakami novel, short stories and essays][3]; [Beginners Guide To Murakami][4]; [Exorcising Ghosts][5] (fan site); [Elephant Still Missing][6] (weblog); and [J&#8217;s Bar Yahoo! Group][7] (UppubDate: J&#8217;s Bar have relocated to [The Dolphin Hotel][8]).
+
+[1]: http://www.amazon.co.uk/exec/obidos/ASIN/1860469523/ohsky
+[2]: http://books.guardian.co.uk/critics/reviews/0,5917,683287,00.html "The Guardian reviews Haruki Murakami and the Music of Words"
+[3]: http://www.geocities.com/yaymurakami/ "Haruki Murakami texts available online"
+[4]: http://www.japanfile.com/books/features/murakami.shtml "The Beginners Guide To Murakami Haruki"
+[5]: http://www.exorcising-ghosts.co.uk/ "Exorcising Ghosts: Murakami resource"
+[6]: http://www.exultrade.com/indira/hardboiled/ "Elephant Still Missing: A Murakami Detox Support Group"
+[7]: http://groups.yahoo.com/group/jsbar/
+[8]: http://communities.msn.co.uk/TheDolphinHotel/

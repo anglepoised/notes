@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: "A Wild Sheep Chase: In Search of Haruki Murakami"
+pubDate: 2008-06-25T20:09:21+00:00
+tumblr_permalink: /post/39829578/bbc-iplayer-imagine-a-wild-sheep-chase-in
+tags: ["linklog"]
+format: "link"
+---
+
+[BBC iPlayer &#8211; Imagine &#8211; A Wild Sheep Chase: In Search of Haruki Murakami][1]
+
+> &ldquo;Alan Yentob explores the mysterious, offbeat, sexually charged world of Japan&rsquo;s most popular and internationally acclaimed writer.
+>
+> Haruki Murakami is incomparable, a literary novelist tipped for the Nobel Prize, who writes cool, witty, and often surreal bestsellers. Notoriously enigmatic and media-shy Murakami has always shunned radio and television. However, he agreed to a rare and frank off-camera interview with the producer for this programme.&rdquo;
+
+[1]: https://www.bbc.co.uk/programmes/b00ck232

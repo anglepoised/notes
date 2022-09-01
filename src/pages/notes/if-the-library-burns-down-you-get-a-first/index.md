@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: If the library burns down, you get a first
+tags: ["v1"]
+pubDate: 2004-07-20T10:57:06
+---
+
+The Guardian on [urban campus myths][1] and the annual [<acronym title="The International Society of Contemporary Legend Research">ISCLR Conference</acronym>][2]:
+
+> There was this student who flipped during his finals and killed himself by shoving two sharpened pencils up his nostrils into his brain. Death was instantaneous, apparently. No really, it happened. And did you know that the tower of Durham Cathedral is closed during exams ever since a student from the university chucked herself off the top&#8230;?
+
+[1]: http://education.guardian.co.uk/students/news/story/0,12891,1262893,00.html "The Guardian: Legends of the halls"
+[2]: http://www.panam.edu/faculty/mglazer/isclr/Wales-Conference.htm "ISCLR: The 22nd Contemporary Legend Conference"

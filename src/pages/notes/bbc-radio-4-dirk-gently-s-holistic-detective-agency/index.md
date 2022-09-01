@@ -1,0 +1,14 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: BBC Radio 4 – Dirk Gently’s Holistic Detective Agency
+pubDate: 2007-10-07T20:19:12+00:00
+tumblr_permalink: /post/14601490/bbc-radio-4-dirk-gentlys-holistic-detective
+tags: ["linklog"]
+format: "link"
+---
+
+[BBC Radio 4 &#8211; Dirk Gently&#8217;s Holistic Detective Agency][1]
+
+> Douglas Adams&rsquo;s Dirk Gently comes to Radio 4 Wednesdays at 6.30pm, from 3rd October 2007.
+
+[1]: http://www.bbc.co.uk/radio4/dirkgently/

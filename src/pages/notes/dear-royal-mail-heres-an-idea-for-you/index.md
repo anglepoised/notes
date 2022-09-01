@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: "Dear Royal Mail, here’s an idea for you"
+pubDate: 2009-07-21T10:06:00+00:00
+tumblr_permalink: /post/145978825/notes-dear-royal-mail-heres-an-idea-for-you
+tags: ["linklog"]
+format: "link"
+---
+
+[notes: Dear Royal Mail, here&#8217;s an idea for you][1]
+
+> &ldquo;How about you make something that would take away that hassle, but still let us send postcards to the people we love &#8211; printed objects that would arrive through the letterbox and make those people smile? Hmm?&rdquo;
+
+Please do this, Royal Mail. Or someone else?
+
+[1]: https://gilest.org/dear-royal-mail.html

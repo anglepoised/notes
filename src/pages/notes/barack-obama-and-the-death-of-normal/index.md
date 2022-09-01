@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Barack Obama And The Death Of Normal
+pubDate: 2012-11-08T09:13:01+00:00
+tumblr_permalink: /post/35263272362/america-is-different-now-more-so-with-every
+tags: ["linklog"]
+format: "quote"
+---
+
+> America is different now, more so with every election cycle. Ronald Reagan won his mandate in an America in which 89 percent of the voters were white. That number is down to 72 percent and falling. Fifty thousand new Latino citizens achieve the voting age every month. America will soon belong to the men and women — white and black and Latino and Asian, Christian and Jew and Muslim and atheist, gay and straight — who can comfortably walk into a room and accept with real comfort the sensation that they are in a world of certain difference, that there are no real majorities, only pluralities and coalitions.
+
+— <cite>[David Simon, _Barack Obama And The Death Of Normal_](http://davidsimon.com/inevitabilities-and-barack-obama/)</cite>

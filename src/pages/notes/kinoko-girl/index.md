@@ -1,0 +1,15 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Kinoko Girl
+tags: ["v1"]
+pubDate: 2002-10-18T11:19:01
+---
+
+Mildly obsessed with [Junko Mizuno&#8217;s art][1]. The [t-shirts featuring her work][2] are particularly fine.
+
+Related: [interview at Pulp][3], more info at [We Love Fine][4].
+
+[1]: http://www.mizuno-junko.com/ "Mizuno Junko Official Website"
+[2]: http://www.welovefine.com/fine/shop/html/shoppingjk.html "Mighty Fine Shopping: Junko Mizuno t-shirts (warning - background music!)"
+[3]: http://www.pulp-mag.com/archives/5.06/feature_mizuno_01.shtml "Pulp Magazine: 'til her debut as a manga artist"
+[4]: http://www.welovefine.com/junko/ "Junko Mizuno at We Love Fine"

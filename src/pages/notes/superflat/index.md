@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: SuperFlat
+tags: ["v1"]
+pubDate: 2003-01-20T22:57:35
+---
+
+[Takashi Murakami&#8217;s][1] enjoyable [Kaikai Kiki exhibition][2] at the Serpentine Gallery in Hyde Park finishes on the 26th of January. I wouldn&#8217;t recommend going with a hangover, mind.
+
+Related: [images from the exhibition][3], [a recent Guardian interview][4] and [the WINK installation][5] for the Vanderbilt Hall in Grand Central Terminal.
+
+[1]: http://www.kaikaikiki.co.jp/index-e.html "Kaikai Kiki Home Page (English version)"
+[2]: http://www.serpentinegallery.org/current.html "The Serpentine Gallery: Current Exhibition"
+[3]: http://www.bbc.co.uk/dna/collective/A875171 "BBC Collective: Images from Kaikai Kiki exhibition"
+[4]: http://www.guardian.co.uk/japan/story/0,7369,836007,00.html "The Guardian: Turning manga-nese"
+[5]: http://www.creativetime.org/takashi/html_index.html "Creative Time, New York: Takashi Murakami's WINK installation for Grand Central Terminal's Vanderbilt Hall"

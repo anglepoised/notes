@@ -1,0 +1,93 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Security, passwords and whatnot
+tags: ["lastpass", "passwords", "pwgen", "security", "ssh"]
+pubDate: 2012-06-14
+---
+
+I’ve been slightly concerned about my rather lax security habits for a year or so. My state escalated from ‘slightly concerned’ to ‘mildly freaked out’ after the reading about the recent [LinkedIn](http://arstechnica.com/security/2012/06/8-million-leaked-passwords-connected-to-linkedin/) and [Last.fm](http://arstechnica.com/security/2012/06/another-hack-last-fm-warns-users-to-change-their-passwords/) breaches. Now feels like a good time to sort this.
+
+My worst security habit is the common one of using the same password for multiple services (and generally pretty simple passwords at that). This is, of course, [a terrible idea](http://lifehacker.com/5505400/how-id-hack-your-weak-passwords).
+
+I realised I should make some changes to avoid sleepless nights and am putting my notes here in case they’re of use to anyone else (although please remember that I’m about as far from being a security expert as it’s possible to be).
+
+If you spot any glaring (or, indeed, subtle) holes in anything I’ve written here, please shout.
+
+The tl:dr;
+
+- set up two-factor authentication for services that support it (Google Apps and/or Gmail as a priority)
+- split passwords into two categories; those I have to remember and type, and those I can handle with a password manager
+- passwords don’t need to remembered are randomly generated 20 character strings and are kept in a password manager.
+- passwords I do need to be remember are generated using the correcthorsebatterystaple method
+- use SSH keys and passphrases, not usernames and passwords
+- don’t set up weak passwords for client, even if they nag about it
+
+## Two-factor authentication
+
+I set up [two-factor ](http://en.wikipedia.org/wiki/Two-factor_authentication) (sometimes two-step) authentication on my Google Apps account a few months ago. It’s not a universal panacea for your password woes and using it in practice is a mild pain in the arse but it’s worth the hassle.
+
+If you have a Google (either standard or Apps) account, consider enabling it. Here’s [an advocacy piece and guide from Jeff Atwood](http://www.codinghorror.com/blog/2012/04/make-your-email-hacker-proof.html).
+
+The phone and SMS verification methods feel dodgy (borne out somewhat by [this sorry tale](http://news.ycombinator.com/item?id=4100362)). I’m using the iOS version of the [authenticator app](http://support.google.com/accounts/bin/answer.py?hl=en&answer=1066447) instead and have created some back-up codes for emergencies.
+
+I’ve also configured LastPass to work with Google’s two-step system. This feels a bit like having all my security eggs in one basket (like all sane people I worry about my [Google account getting suspended](http://news.ycombinator.com/item?id=3839568)) so at some point I may change to one of the [other authentication methods LastPass allows](http://helpdesk.lastpass.com/security-options/#Multifactor+Authentication+Options).
+
+I’ll enable authentication on any other services that start supporting it.
+
+## Passwords
+
+There are plenty of options for password management, including [1Password](https://agilebits.com/onepassword), [KeePass](http://keepass.info/) and [LastPass](http://lastpass.com/).
+
+I went with LastPass because it has handy iOS apps, supports two-factor authentication and has a nice in-browser workflow. The Pro version is \$12 a year and is required to use the mobile apps.
+
+I’m using a two-pronged strategy for passwords:
+
+- randomly-generated, 20 character passwords created with LastPass for anything I don’t need to remember (most websites, apps etc).
+- [correcthorsebatterystaple-style passwords](http://tech.dropbox.com/?p=165) for anything where a password manager doesn’t really work i.e. I need to be typing it in. This includes my main machine login, Apple ID (irritating iOS App updates) and my LastPass master password itself.
+
+I created a free account with LastPass a few months ago, installed the browser extension in Chrome and Firefox and have used it to record passwords I actually own and use and create passwords for any new accounts. I hadn’t bothered changing any old passwords until now.
+
+I then took the following steps:
+
+- Configured LastPass’ random password generator to use 20 characters and a mix of uppercase, lowercase and numbers. I left out special characters, though: too many sites choke on them or accept only a limited subset. They can also be a pain to escape in the odd occassion when they need to be used in other contexts. I figure the compromise is worth it.
+- Changed the passwords for all the accounts I’d managed to collect with LastPass. That was fun. It took about 8 hours. When I came across a site that would only accept passwords shorter than 20 characters, I considered whether the account was worth keeping. If it was, I temporarily changed the LastPass settings to the maximum number of characters allowed for that site and used that instead. If the account wasn’t worth keeping, I ditched it straight away.
+- Searched through my archived mail for any of the common, lazy passwords. It was fairly alarming to note how many times I’d used these passwords and had them sent in the clear. For each site that had sent out plaintext passwords, I added each to LastPass and changed to a random password. I then closed as many accounts from this list as I could. If they’ve ever sent plaintext passwords then I’m not going to trust them. I thought it was worth changing the password before closing the account, just in case they set a deactivated flag against the account instead of purging data properly. I also binned the emails mentioning the passwords. There’s probably not much point in this but, well, why not?
+- Went hunting through other random locations that I might have used to save sensitive information like staging server details, database connection strings and the like. I found a few in Google Docs, some in project-specific nvALT notes and a lot in email. The shame. These were all moved to the LastPass vault as secure notes and I attempted to remove the original source as thoroughly as possible.
+- Closed as many other redundant, unused or time-wasting accounts as I could. That felt good.
+
+## Local machine security
+
+The main admin user password on my Mac has been changed to a correcthorsebatterystaple style one. This is probably the most irritating thing in the world. The action of logging in is so hardwired that it’ll take weeks to adjust. Has to be done, though.
+
+A few other notes on local security:
+
+- [Little Snitch](http://www.obdev.at/products/littlesnitch/index.html) is pretty much the first thing I install on a new machine. It should provide some protection against keyloggers and also help secure the annoyingly large collection of Windows virtual machines necessary for testing.
+- Orbicule’s [Undercover](http://www.orbicule.com/undercover/) is the second thing I install. It’s more theft-recovery than security so I hope I never have cause to use it. I [set the machine’s firware password](http://orbicule.blogspot.co.uk/2007/05/what-you-need-to-know-about-apple.html) and [check that it’s playing nicely with Little Snitch](http://www.orbicule.com/undercover/mac/faq.php). [Prey](http://preyproject.com/) is a free, cross-platform alternative.
+- I’ve been using the [bottom left Hot Corner](http://www.macworld.com/article/1049080/lockscreen.html) for many years to trigger a [blank screensaver](http://superuser.com/questions/328668/where-can-i-get-a-black-screen-screensaver-for-os-x-lion) and lock the system on a 5-second delay. I use this whenever I step away from my machine.
+- I keep quite a lot of moderately sensitive information (mostly pictures of cats and unicorns) in [Dropbox](https://dropbox.com/). I should really be using [Knox](https://agilebits.com/knox) to lock this down. Next project, then.
+
+## Client password security
+
+Clients (in the pay-the-bills sense) can sometimes be a little disorganised and the tempation is to create passwords that are easier for them to remember. However, I’ve decided that overall security is more important than their convenience, so I’m setting up any web-based accounts I create for clients with my standard randomly generated 20-digit password and sending it to them via the [LastPass sharing system when possible](http://helpdesk.lastpass.com/password-manager-basics/sharing/).
+
+Of course, I could just ask them to set up their own accounts. That’d probably be easier.
+
+There are some situations where this doesn’t work or isn’t as clean. If I need a password for a staging server or something similar, I’m doing that automatically in a script on my local machine using [pwgen](http://sourceforge.net/projects/pwgen/). There are alternative programs ([openssl](http://www.tech-recipes.com/rx/1264/generate-passwords-with-openssl/) is a strong one, being avilable on most systems) but pwgen has some useful flags and is easily installed via [Homebrew](https://github.com/mxcl/homebrew/). Presuming you’re using OS X and have [Homebrew installed already](https://github.com/mxcl/homebrew/wiki/Installation), you can get pwgen up and running with:
+
+```shell
+$ brew install pwgen
+```
+
+A random 20-character password can then be generated with:
+
+```shell
+$ pwgen -Bs 20 1
+```
+
+## SSH
+
+Using usernames and passwords for SSH is another one of my lazy habits. Using SSH keys and passphrases is generally considered a more secure option. Try GitHub’s [Working with SSH-Key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases).
+
+If you’re a Webfaction customer, try their [Using SSH-Keys Guide](http://docs.webfaction.com/user-guide/access.html#using-ssh-keys).
+
+My thanks to [James](http://jamesholloway.org/) for giving this post a quick once-over. Any remaining errors are of course entirely down to me.

@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Donationware March 2013
+tags: ["donationware", "openelec", "raspberrypi", "xbmc"]
+pubDate: 2013-03-16
+---
+
+I haven’t been keeping up with the [donationware](/post/20532949171/donationware) idea as well as I’d hoped. There’s a surprise. I’m blaming being stuck on one of those interminable projects where all the tool choices were made a long time ago and time for side-projects has been fairly limited.
+
+So, instead I’ve been busy attempting to pay for music I’d previously “borrowed”. A brief digression: I’ve deleted any music that I haven’t played or didn’t get on with and have been gradually buying FLAC versions of music I’d like to keep. I’m not enough of an audiophile to actually _listen_ to FLACs but I am just obsessive enough to buy them and convert to a more practical format. I’ve been buying directly from artists or labels where possible. This is oddly satisfying and - having spent some time setting up a [Bandcamp-style label shop](http://shop.unchartedaudio.com/) a couple of years ago - rather instructive.
+
+Back to donationware. This month I’ve gone with the (not strictly work related but fun and rather impressive) [OpenELEC](http://www.openelec.tv/), “a small Linux distribution built from scratch as a platform to turn your computer into a complete [XBMC](http://xbmc.org/) media center”. It’s a fine piece of work which runs quite happily on a [Raspberry Pi](http://www.raspberrypi.org/). More on this when I’ve ironed out a couple of remaining kinks.

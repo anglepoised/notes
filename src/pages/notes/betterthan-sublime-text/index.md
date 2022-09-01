@@ -1,0 +1,73 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: "betterthan: Sublime Text"
+tags: ["betterthan", "sublimetext"]
+pubDate: 2012-04-16
+---
+
+I’m extremely happy with [Sublime Text 2](http://www.sublimetext.com/). It’s filled the big editor-shaped hole left by the slow development of [TextMate](http://macromates.com/). Posts on customing Sublime Text have been done to death over the past year, so this will be no more than a quick overview of my current settings. For more detailed info check [Customise Sublime Text 2](http://rathersplendid.net/home/customise-sublime-text-2) and the [Sublime Text Forums](http://www.sublimetext.com/forum/).
+
+So, here are my embryonic Sublime Text changes. They’re generally tweaks for doing front-end work, with a couple of basic Django additions. Even though Sublime Text is pretty extensible, I’ve tried to avoid adding or changing anything until I’ve identified a real need for it.
+
+## Packages
+
+### [Package Control](http://wbond.net/sublime_packages/package_control)
+
+This is essential. Install it first, then use it to install and manage more packages.
+
+### [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+
+This is nearly essential, unless you’re really fond of dropping into iTerm or Finder every few minutes to perform basic file operations.
+
+### [HTML5 and jQuery packages](http://www.sublimetext.com/forum/viewtopic.php?f=5&t=2751)
+
+Very front-end focussed, of course. I’m considering whether it’s worth creating a [Polyglot](http://dev.w3.org/html5/html-xhtml-author-guide/html-xhtml-authoring-guide.html) fork. That could work nicely with the [specialmoves coding standards](http://specialmoves.github.com/coding-standards-front-end/).
+
+### [ZenCoding](http://code.google.com/p/zen-coding/wiki/SublimeTextZenCodingEn)
+
+This is the only try-it-out-and-see-what-sticks package I’m allowing myself at present.
+
+### [Prefixr](http://wbond.net/sublime_packages/prefixr)
+
+Runs a block of CSS through the [Prefixr](http://prefixr.com/) API.
+
+### [Djaneiro](https://github.com/squ1b3r/Djaneiro) and [SetDjangoSyntax](https://bitbucket.org/pjv/setdjangosyntax)
+
+Djaneiro adds Django support and SetDjangoSyntax, as you’d imagine, attemps to set syntax to Django when appropriate. The latter requires Djaneiro.
+
+## Theme
+
+I’m using [Made of Code](http://madeofcode.com/posts/29-photo-my-new-textmate-theme-8220-made-of-code-8221-mdash-download-9-feb-2010-update-t).
+
+## Settings
+
+Fairly minimal here.
+
+```json
+"auto_complete_commit_on_tab": true,
+"ensure_newline_at_eof_on_save": true,
+"rulers":
+[
+    150
+],
+"translate_tabs_to_spaces": true,
+"trim_trailing_white_space_on_save": true,
+"word_wrap": false
+```
+
+The whitespace settings can be problematic when working on projects with people who aren’t as fastidious about such things. If that happens, they can be [over-ridden in per-project settings](http://www.sublimetext.com/docs/2/projects.html).
+
+## Keyboard Bindings
+
+Again, I’ve kept this pretty minimal.
+
+```json
+({ "keys": ["super+alt+["], "command": "reindent" },
+{ "keys": ["super+k", "super+t"], "command": "title_case" })
+```
+
+Very minimal, in fact. This is mostly because the Sublime Text defaults are generally sane.
+
+The reindent command is stolen from TextMate. My muscle memory had a hard time coping without that one.
+
+I’m not sure why the title case isn’t set as a default, as there are matching upper case and lower case shortcuts.

@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: You Are Fallen
+tags: ["v1"]
+pubDate: 2002-11-16T12:10:13
+---
+
+[Accompanying minisite][1] for Douglas Gordon&#8217;s [What Have I Done][2] exhibition (developed by [Airside][3]).
+
+[1]: http://www.hayward.org.uk/whathaveidone/ "Douglas Gordon: What Have I Done"
+[2]: http://www.hayward.org.uk/hayward/exhibition/forth/dougset.html "Hayward Gallery: Forthcoming Exhibitions - Douglas Gordon"
+[3]: http://www.airside.co.uk/

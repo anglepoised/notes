@@ -1,0 +1,17 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Parson’s Nose
+tags: ["v1"]
+pubDate: 2002-10-23T12:07:43
+---
+
+[LJ Kruzer][1] is playing [Not Clickable in Warrington][2] at [The Foundry][3] tonight (Wed 23rd October), with [Thorsten Sideb0ard][4] and [The Legendary Jesse Belle][5].
+
+The LJ Kruzer debut album is out soon on Uncharted Audio; in the meantime, there&#8217;s a new mp3 (Hatchet) [available at his website][6].
+
+[1]: http://www.ljkruzer.co.uk/
+[2]: http://www.8bitrecs.com/notclickable.shtml "8bitrecs: NCiW Flyer"
+[3]: http://www.foundry.tv/ "The Foundry: Nearest tube Old Street, exit 3"
+[4]: http://www.8bitrecs.com/ "8bitrecs: Thorsten Sideb0ard"
+[5]: http://www.state51.co.uk/jessebelle/biog.html
+[6]: http://www.ljkruzer.co.uk/ "LJ Kruzer (website soon to be less shit)"

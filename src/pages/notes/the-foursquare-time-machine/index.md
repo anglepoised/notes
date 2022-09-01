@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The Foursquare Time Machine
+pubDate: 2013-06-14T09:11:00+00:00
+tumblr_permalink: /post/52936477060/now-you-can-relive-the-thrill-of-the-time-you-went
+tags: ["linklog"]
+format: "quote"
+---
+
+> Now you can relive the thrill of the time you went from your house to a coffee shop to your job to a sandwich place to the grocery store to your house to a friend’s house to a bar and then back to your house.
+
+— <cite>[Doug Aamoth, _Foursquare Time Machine Feature Lets You Retrace Your Steps All Laser-Like_](http://techland.time.com/2013/06/13/foursquare-time-machine-feature-lets-you-retrace-your-steps-all-laser-like/)</cite> on <a href="https://foursquare.com/timemachine">The Foursquare Time Machine</a> (actually quite good).

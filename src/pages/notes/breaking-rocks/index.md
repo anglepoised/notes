@@ -1,0 +1,10 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Breaking Rocks
+tags: ["v1"]
+pubDate: 2002-07-02T11:52:23
+---
+
+Plaid DJ mixes [available for download][1], including the unreleased Futura Connect (Mouse on Mars, Autechre, Pierre Bastien, Squarepusher), the Tork Radio mix (Satie, Debussy, Boards of Canada) and the Midsummer Mix (featuring Roland Alphonso&#8217;s bizarre dub version of the James Bond theme).
+
+[1]: http://www.sciences.univ-nantes.fr/scnat/enseignement/BIOLOGIE/SV/liquid/mix.htm "Plaid mixes: Futura Connect, Tork Radio and Midsummer mix"

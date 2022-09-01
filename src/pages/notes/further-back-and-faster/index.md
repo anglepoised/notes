@@ -1,0 +1,17 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Further Back And Faster
+tags: ["v1"]
+pubDate: 2002-10-12T19:19:21
+---
+
+[Sherry and Robbie Williams karaoke][1]? [Elsie Mo][2] and [the][3] [Mountain][4] [Goats][5], more like. Also witnessed more of the creeping [gentrification][6] of Newcastle-under-Lyme, caught some Japanese illustration at [The Spitz][7] and had [Final Fantasy][8] regained its stranglehold over free time (for a short while, at least). No guns, alas.
+
+[1]: http://www.parallaxview.nu/index.asp?2002_10_06_archive.txt#82801614 "Parallax View: 'It's got to be at least two weeks...'"
+[2]: http://www.tynemill.co.uk/castle1.htm "Castle Rock Brewery: Elsie Mo (at The New Barrack Tavern, Hillsborough)"
+[3]: http://www.4ad.com/artists/mountain_goats/ "4AD: new Mountain Goats minisite for new album 'Tallahassee'"
+[4]: http://www.ica.org.uk/index.cfm?articleid=8961 "ICA: Doctor Tiger's Deathless Promise"
+[5]: http://www.themountaingoats.net/ "the Mountain Goats website"
+[6]: http://members.lycos.co.uk/gentrification/whatisgent.html "GentrificationWeb: What is Gentrification?"
+[7]: http://www.spitz.co.uk/ "The Spitz: Yabuno Kensei and 326 - Mi tsu ru"
+[8]: http://www.squaresoft.com/playonline/FFX/ "Squaresoft: Final Fantasy X - the only thing worth doing in The Potteries"

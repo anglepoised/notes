@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Moog Cook Book
+tags: ["v1"]
+pubDate: 2002-05-02T11:46:52
+---
+
+The [Cook Book CD: Libro de Cocina y Musica][1].
+
+> &#8220;An indie-pop Japan-o-phile compilation of songs accompanied by vegetarian recipes contributed by the artists. Surprise! It doesn&#8217;t suck.&#8221;
+
+[1]: http://www.audiogalaxy.com/pages/review.php?&band_id=110466 "Review of the Cook Book CD on Audiogalaxy"

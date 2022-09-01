@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Known Unknowns
+tags: ["quote"]
+pubDate: 2014-03-10 15:44:18
+---
+
+> Only the unknown terrifies men. Once confronted, it is no longer the unknown.
+
+— <cite>[Antoine de Saint-Exupéry, _Wind, Sand and Stars_](https://www.goodreads.com/book/show/8837.Wind_Sand_and_Stars)</cite>
+
+Let's hope so.

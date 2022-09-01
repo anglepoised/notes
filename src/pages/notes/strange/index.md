@@ -1,0 +1,10 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Strange
+tags: ["linklog", "quote"]
+pubDate: "2007-06-06T13:17:00"
+---
+
+> I've not read &lsquo;The God Delusion&rsquo; but I do not need to: I simply imagine the kind of arguments he makes and then demolish them one by one.
+
+— <cite>[Simon Munnery, _Strange_](https://www.newstatesman.com/blogs/simon-munnery/2007/06/phone-fight-someone-shouting)</cite>

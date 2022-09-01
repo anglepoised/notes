@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Red Shadow
+tags: ["v1"]
+pubDate: 2002-05-13T18:33:12
+---
+
+Hiroyuki Nakano&#8217;s &#8220;comic spin on the classic samurai tale&#8221; is [showing between Sat 18 May &#8211; Thu 23 May][1] at the [ICA][2]. Related: [Red Shadow IMDb entry][3]; [official Red Shadow site][4].
+
+[1]: http://www.ica.org.uk/index.cfm?articleid=4482 "Red Shadow at the ICA"
+[2]: http://www.ica.org.uk/ "Institute of Contemporary Arts"
+[3]: http://uk.imdb.com/Title?0294280 "Red Shadow on IMDb UK"
+[4]: http://www.toei.co.jp/movie/rs/ "The official Red Shadow website"

@@ -17,40 +17,14 @@
   },
   "private": true,
   "dependencies": {
+    "@astrojs/mdx": "^0.11.0",
+    "@astrojs/rss": "^1.0.0",
+    "@astrojs/sitemap": "^1.0.0",
     "@babel/core": "^7.6.0",
     "@storybook/react": "^5.2.1",
     "@storybook/theming": "^5.2.1",
-    "@weknow/gatsby-remark-twitter": "^0.2.3",
-    "babel-loader": "^8.0.6",
-    "gatsby": "^2.13.3",
-    "gatsby-image": "^2.2.4",
-    "gatsby-plugin-canonical-urls": "^2.1.2",
-    "gatsby-plugin-feed": "^2.3.2",
-    "gatsby-plugin-manifest": "^2.2.1",
-    "gatsby-plugin-offline": "^2.2.0",
-    "gatsby-plugin-react-helmet": "^3.1.0",
-    "gatsby-plugin-sharp": "^2.2.2",
-    "gatsby-plugin-sitemap": "^2.2.2",
-    "gatsby-plugin-typography": "^2.3.0",
-    "gatsby-remark-audio": "^1.0.2",
-    "gatsby-remark-copy-linked-files": "^2.1.0",
-    "gatsby-remark-embed-video": "^1.7.1",
-    "gatsby-remark-images": "^3.1.2",
-    "gatsby-remark-prismjs": "^3.3.1",
-    "gatsby-remark-responsive-iframe": "^2.2.1",
-    "gatsby-remark-smartypants": "^2.1.0",
-    "gatsby-source-filesystem": "^2.1.2",
-    "gatsby-transformer-remark": "^2.5.0",
-    "gatsby-transformer-sharp": "^2.2.1",
-    "prismjs": "^1.16.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1",
-    "react-typography": "^0.16.19",
-    "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.54",
-    "typography": "^0.16.19",
-    "typography-theme-wordpress-2016": "^0.16.19"
+    "astro": "^1.1.3",
+    "babel-loader": "^8.0.6"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.0.0",
@@ -63,24 +37,21 @@
     "npm-scripts-info": "^0.3.9",
     "prettier": "^1.18.2"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "main": "n/a",
   "scripts": {
     "?build": "Run all build tasks.",
     "build": "npm-run-all build:*",
-    "?build:gatsby": "Build static version of Gatsby site for distribution.",
-    "build:gatsby": "gatsby build",
+    "?build:astro": "Build static version of Astro site for distribution.",
+    "build:astro": "astro build",
     "?build:storybook:": "Build storybook for distribution.",
     "build:storybook": "build-storybook --output-dir public/_components --config-dir .storybook",
     "precz": "yarn run lint-changes",
     "?cz": "Commit with commitizen",
     "cz": "git-cz",
-    "?develop": "Start Gatsby development server.",
-    "develop": "gatsby develop",
+    "?dev": "Start Astro development server.",
+    "dev": "astro dev",
     "?format": "Runs all code formatters.",
-    "format": "yarn internal:prettier \"./*.{js,json,md}\" \"./**/*.{js,json,md}\" --write",
+    "format": "yarn internal:prettier \"./*.{js,json,md,mdx}\" \"./**/*.{js,json,md,mdx}\" --write",
     "?info": "Display information about the scripts.",
     "info": "npm-scripts-info",
     "internal:prettier": "prettier",
@@ -89,17 +60,17 @@
     "?lint": "Lint all files",
     "lint": "npm-run-all lint:*",
     "lint:commits": "./node_modules/.bin/commitlint --from=origin/master",
-    "lint:format": "yarn internal:prettier --list-different \"./*.{js,json,md}\" \"./**/*.{js,json,md}\"",
-    "?new-post": "Generate a new post scaffold",
-    "new-post": "hygen post new",
+    "lint:format": "yarn internal:prettier --list-different \"./*.{js,json,md,mdx}\" \"./**/*.{js,json,md,mdx}\"",
+    "?post": "Generate a new post scaffold",
+    "post": "hygen post new",
+    "?preview": "Serve built Astro site.",
+    "preview": "astro preview",
     "?start": "Run development server",
-    "start": "yarn run develop",
-    "?serve": "Serve built Gatsby site.",
-    "serve": "gatsby serve",
+    "start": "yarn run dev",
     "?storybook": "Run storybook.",
     "storybook": "start-storybook -p 9001",
     "?test": "Run tests.",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "echo \"Write tests!\""
   },
   "config": {
     "commitizen": {
@@ -115,6 +86,6 @@
   },
   "lint-staged": {
     "*.{js,json}": "yarn internal:prettier --list-different",
-    "*.md": "yarn internal:prettier --list-different"
+    "*.{md,mdx}": "yarn internal:prettier --list-different"
   }
 }

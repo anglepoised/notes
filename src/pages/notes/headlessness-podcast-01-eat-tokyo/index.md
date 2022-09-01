@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: "Headlessness podcast 01: Eat Tokyo"
+pubDate: 2008-04-06T18:20:49+00:00
+tumblr_permalink: /post/30964950/headlessness-podcast-01-eat-tokyo
+tags: ["linklog"]
+---
+
+[James][1] is podcasting again. Grand.
+
+> Updates will be intermittent and will follow no format whatsoever. The first podcast is a short music mix I’m calling [Eat Tokyo][1].
+
+[1]: http://headlessness.com/post/30890273

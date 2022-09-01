@@ -1,0 +1,8 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Thieves steal brick wall
+tags: ["linklog"]
+pubDate: "2007-06-07T18:40:00"
+---
+
+[Islington Gazette - Thieves steal brick wall](http://www.islingtongazette.co.uk/content/islington/gazette/news/story.aspx?brand=ISLGOnline&category=news&tBrand=northlondon24&tCategory=newsislg&itemid=WeED06%20Jun%202007%2010%3A30%3A04%3A903&t=YzE3Y2Q0MDJiYzEzM2RhMTBhOThjNWJhZDY5MTBlMjY1MTEwYWIwYyw0ZjlOazFqdQ==&b=t:_uATxAF3eBh8Q-yEMv79Rg)

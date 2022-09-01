@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Middle Of Nowhere
+tags: ["v1"]
+pubDate: 2002-06-24T22:48:15
+---
+
+[Keele University&#8217;s h2g2 entry][1].
+
+> &#8220;The last thing for which Keele is famous is its unofficial wood parties. About twice a year, word will be passed along the grapevine of an upcoming &#8216;Woods Party&#8217;. These have to be seen to be believed. Two clearings are converted into dance floors, proper club sound systems are somehow installed, and lasers, lights and the works are set up&#8230; People arrive, make fires and watch a film to the accompaniment of liquor &#8211; and possibly other substances. The light of dawn usually falls on bleary eyed students wandering round aimlessly after getting hopelessly lost in the woods on their way home.&#8221;
+
+[1]: http://www.bbc.co.uk/dna/h2g2/alabaster/A346367 "Keele University on h2g2"

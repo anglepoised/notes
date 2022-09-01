@@ -1,0 +1,26 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Vagrant shell provisioning and usernames
+tags: ["bash", "tools", "vagrant"]
+pubDate: 2013-05-14 09:57:00
+---
+
+I've been spending a lot of time with the excellent [Vagrant](http://www.vagrantup.com/) recently but was getting mildly annoyed by starting in `/home/vagrant` when SSHing to a box, then having to `cd /vagrant` to get to the shared directory each time.
+
+I thought I'd be clever and fix this minor annoyance by adding the following line to my shell provision script:
+
+```shell
+echo 'cd /vagrant' >> ~/.bashrc
+```
+
+A bit of a lazy fix (as is using shell provisioning instead of Puppet or Chef) but I thought it'd get the job done and save me a few seconds.
+
+It didn't work, though: when I ran `vagrant up` and ssh'd in, I couldn't find my edit in `~/.bashrc`. When I tried manually adding the line in an ssh session it worked perfectly, though. Huh?
+
+I realised after an embarrassingly long time that maybe Vagrant used a different username when provisioning. Sure enough, adding a quick `whoami` to the provision script showed `root`, rather than the expected `vagrant`. Specifying the full path in the original line worked:
+
+```shell
+echo 'cd /vagrant' >> /home/vagrant/.bashrc
+```
+
+So, this is basically a reminder to myself that (a) Vagrant shell provisioning scripts run as `root` rather than `vagrant` and (b) one should never make presumptions about usernames.
