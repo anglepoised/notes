@@ -20,11 +20,7 @@
     "@astrojs/mdx": "^0.11.0",
     "@astrojs/rss": "^1.0.0",
     "@astrojs/sitemap": "^1.0.0",
-    "@babel/core": "^7.6.0",
-    "@storybook/react": "^5.2.1",
-    "@storybook/theming": "^5.2.1",
-    "astro": "^1.1.3",
-    "babel-loader": "^8.0.6"
+    "astro": "^1.1.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.0.0",
@@ -43,8 +39,6 @@
     "build": "npm-run-all build:*",
     "?build:astro": "Build static version of Astro site for distribution.",
     "build:astro": "astro build",
-    "?build:storybook:": "Build storybook for distribution.",
-    "build:storybook": "build-storybook --output-dir public/_components --config-dir .storybook",
     "precz": "yarn run lint-changes",
     "?cz": "Commit with commitizen",
     "cz": "git-cz",
@@ -67,8 +61,6 @@
     "preview": "astro preview",
     "?start": "Run development server",
     "start": "yarn run dev",
-    "?storybook": "Run storybook.",
-    "storybook": "start-storybook -p 9001",
     "?test": "Run tests.",
     "test": "echo \"Write tests!\""
   },
