@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The Shield
+tags: ["v1"]
+pubDate: 2002-03-14T02:15:31
+---
+
+> &#8220;Look closely &#8212; well, you don&#8217;t even have to look that closely &#8212; and you&#8217;ll swear you&#8217;re watching an updated version of Homicide: Life on the Street.&#8221;
+
+PalmBeachPost.com [reports][1] on [FX Network&#8217;s][2] new drama, [The Shield][3]. Should be worth watching if it&#8217;s &#8220;of [Homicide][4] quality&#8221;. No UK release date on the patchy [IMDb entry][5].
+
+[1]: http://www.gopbi.com/partners/pbpost/epaper/editions/tuesday/accent_c3d83368e5934201000c.html
+[2]: http://www.fxnetworks.com/
+[3]: http://www.fxnetworks.com/shows/originals/the_shield/ "'The road to justice is twisted'. So they say."
+[4]: http://members.aol.com/hlots98/
+[5]: http://uk.imdb.com/Title?0306390

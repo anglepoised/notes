@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Lust
+tags: ["v1"]
+pubDate: 2002-05-01T13:29:12
+---
+
+Exceptionally tiny, customizable radio-controlled cars now available in the UK from [Bit Char-G][1].
+
+> &#8220;Introducing the world&#8217;s Playstation 2 Memory Card Sized radio-controlled micro car from Japan &#8211; Bit Char-G (pronounced as &#8216;bit charge&#8217;) &#8230; so small that you can maneuver it on your desk around coffee mugs, keyboard & other objects.&#8221;
+
+[1]: http://www.bitcharg.co.uk/ "Bit Char-G UK sales"

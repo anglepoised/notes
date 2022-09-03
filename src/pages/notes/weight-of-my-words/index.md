@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Weight Of My Words
+tags: ["v1"]
+pubDate: 2002-05-27T11:47:45
+---
+
+[Urban Dictionary][1], a slang dictionary with a cheeky appropriation of the [Dictionary.com][2] design.
+
+[1]: http://www.urbandictionary.com/ "Urban Dictionary"
+[2]: http://www.urbandictionary.com/ "Dictionary.com"

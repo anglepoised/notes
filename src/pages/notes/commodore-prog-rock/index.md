@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Commodore Prog Rock
+tags: ["v1"]
+pubDate: 2002-12-02T20:42:31
+---
+
+Something to fuel any fanboy/fangirl&#8217;s healthy obsession with [Ladytron][1]: in a [recent Guardian interview][2], they namecheck Syd Barret, Serge Gainsbourg, Black Sabbath, Kate Bush and The War of the Worlds:
+
+> &#8220;Helen and Mira share a fondness for Jeff Wayne&#8217;s epic concept album, The War of the Worlds. &#8216;Danny and I slept in Jeff Wayne&#8217;s studio one night for some reason,&#8221; says Mira. &#8216;We were looking at this album cover before we went to bed and we both had nightmares. But it&#8217;s the campest combination ever: Victorian gentlemen and Martians.'&#8221;
+
+[1]: http://www.ladytron.com/
+[2]: http://www.guardian.co.uk/arts/fridayreview/story/0,12102,849591,00.html "The Guardian: Home entertainment: Ladytron"

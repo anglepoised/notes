@@ -1,0 +1,14 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: What Is a Social-Media Agency?
+pubDate: 2009-01-24T11:36:51+00:00
+tumblr_permalink: /post/72778797/made-by-many-blog-archive-what-is-a
+tags: ["linklog"]
+format: "link"
+---
+
+[Made By Many &#8221; &#8220;What Is a Social-Media Agency?&#8221;][1]
+
+> &ldquo;The old digital agency model is not helpful today. Instead, the industry can learn a lot from social start-ups (like Vimeo &#8211; who I am in love with, or SoundCloud) and work as fast as possible, being&hellip;
+
+[1]: https://www.madebymany.com/stories/what-is-a-social-media-agency

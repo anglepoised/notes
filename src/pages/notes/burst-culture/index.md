@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Burst Culture
+tags: ["quote"]
+pubDate: 2007-05-27 13:21:00
+---
+
+> The hurdle to credible publishing on the web, now, is the nine dollars it costs to buy a domain name from GoDaddy, which can be mapped on to a free Tumblr or Blogger space.
+
+— <cite>[Warren Ellis, _Burst Culture_](http://www.warrenellis.com/?p=4374)</cite>
+
+(via [lmg](http://www.timemachinego.com/linkmachinego/))

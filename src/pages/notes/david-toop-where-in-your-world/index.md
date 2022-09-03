@@ -1,0 +1,24 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: David Toop - Where in your world?
+tags: ["music"]
+pubDate: "2008-02-23T11:19:00"
+---
+
+[David Toop](http://www.davidtoop.com/) essay from the [Artificial Intelligence II](http://en.wikipedia.org/wiki/Artificial_Intelligence_%28series%29) sleeve. Republished without permission because I've never been able to find it elsewhere on the internets.
+
+## Where in your world?
+
+From the age of empire to the accelerated present, cultural movements have spread the globe with increasingly complex webs.  Evolutionary entities are created every day, fusing memories of folk + ceremonial musics of the African diaspors;  Asian classical, religious + rural traditions;  European art music + folk song;  rituals of the Pacific + Amazonas, all whirling in a primordial soup of barely understood technological innovation.
+
+The electronic listening music of the Nineties is a prime example of an art form derived from and stimulated by countless influences.  Partisan analyses of this music claim a baffling variety of prime sources (Detroit techno, New York electro + Chicago acid, Eno + Bowie, Cage + Reich, Gary Numan + Tangerine Dream) but this is beside the point.  To claim ascendancy of one source over another is to deny the labyrinthine entwinements of culture:  rooted in political history + the development of science + technology, yet tilting at the boundaries of society + language.
+
+Strange visions are buried deep under the mundanities of commerce.  Machine music has a long history which pre-dates the microchip or even the discovery of electronic power.  One intriguing aspect of this history is its role in the evolution of electronic games + virtual reality.  In his book (Virtual Worlds) Benjamin Woolley details the influence of the player piano, a pneumatically operated piano which played punched paper scores automatically, on a flight simulation trainer in 1930.  The Link Trainer was envisaged as "a novel, profitable amusement device" but automata, particularly those using sound, had their origins in magic.  The 17th Century inventor + encyclopaedist, Athanasius Kircher, used musical automata to entertain his guests but he also explored echoes + acoustic amplification in the course of devising a speaking trumpet to summon people to his shrine.  Egyptian + Syrian temples were said to have been equipped with automatic mechanisms that sounded trumpets + the Kwakiutl Indians of Vancouver Island created illusions for their secret societies with speaking tubes, polymorphic masks + other mechanical mysteries.
+
+The dramatic, magical precursors of artificial intelligence were echoed by one of the earliest electronic instruments, the Theramin.  The inventor of this strange source of "ether harmonics", Leon Theramin also indulged a passing interest in instruments which could revive the dead + electrical currents which could carry cars over a river without using a bridge.
+
+Although with a neat inversion, Jon Hassell described the soundscapes of present-future as 'possible worlds', the job assigned to + assumed by electronic music has been to depict the impossible:  from Karlheinz Stockhausen montaging + processing musics of more than 8 countries to write a "music of the whole world" to the BBC Radiophonic Workshop depicting a 30sec interlude in the life of Blodnock's stomach for The Goon Show.  These possible impossibilities of cyborgian creativity seem fabulous + new.  The current phase of computer technology, the writing machine which can compose with concrete sounds, then drive music machines, generate simulated 3-D visual worlds + communicate across great distances in an instant, is particularly intoxicating.  But in 1917 Erik Satie wrote music for Jean Cocteau's ballet (Parade).  Satie had already presaged minimalism with (Vexations), an instruction to play a fragment for piano 840 times + in another stroke of prophetic wit he anticipated ambient + Muzak with his 'furniture music'.  His score for (Parade) included sounds of a typewriter + a lottery wheel amongst other machine voices + caused a riot in the audience.  "Satie caught the harshness of contemporary life" wrote James Harding, "he mixed ragtime + music hall in a blend which expressed both the ugliness of a mechanical, commercialised age + the spirituality that is crushed beneath it."
+
+Do we still find mechanism + commerce ugly?  Is spirituality crushed beneath them?  Electronic music is one bulletin board on which such questions can be posted.
+
+David Toop. March. 1900.90.4

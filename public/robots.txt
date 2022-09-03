@@ -1,0 +1,5 @@
+# robots.txt for https://anglepoised.com/
+
+User-agent: *
+
+Sitemap: https://anglepoised.com/sitemap-index.xml

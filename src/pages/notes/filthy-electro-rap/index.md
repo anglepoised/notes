@@ -1,0 +1,18 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Filthy electro-rap
+tags: ["v1"]
+pubDate: 2002-03-19T12:18:46
+---
+
+Download Gold Chains&#8217; new [I Come From San Francisco][1] video. I want that deck. [Gold Chains][2], [DMX Crew][3], [Uncharted Audio&#8217;s][4] honcho extraordinaire Kone-R and [Misty Martinez][5] are playing live at the ICA this Saturday (23rd March) as part of the [Sequencer Variety Club][6]. Related: Gold Chains&#8217; [Stereolab][7]-sampling anthem, [Rock the Parti][8] (Audiogalaxy link); download [Gold Chains MP3s from Epitonic][9].
+
+[1]: http://www.musork.com/gcvideo/
+[2]: http://www.gold-chains-worldwide.com/
+[3]: http://www.dmxkrew.dircon.co.uk/main/dmx/df1.htm "performing their live pop show for the first time in the UK"
+[4]: http://www.unchartedaudio.com/
+[5]: http://pages.ripco.net/%7Enailhead/misty/ "the Gold Chains site says she's playing - she might not"
+[6]: http://www.ica.org.uk/index.cfm?articleid=2743
+[7]: http://www.stereolab.co.uk "samples Crest from 'Transient Random-Noise Bursts With Announcements'"
+[8]: http://www.audiogalaxy.com/list/searches.php?searchStr=gold+chains+rock+the+parti
+[9]: http://www.epitonic.com/artists/goldchains.html

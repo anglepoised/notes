@@ -1,0 +1,139 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: A personal timeline of front-end web work
+tags: ["history", "web"]
+pubDate: 2013-04-16 16:06:00
+---
+
+I've been thinking about how much the process of building websites has changed since I laid down my first crappy `frameset` nearly fifteen years ago, so thought I'd make a quick timeline to track:
+
+- Significant browser releases (for context)
+- Notable techniques
+- Reading material
+- Software (editors or tools)
+- Back-end (mostly integrating into rather than developing with)
+
+The dates refer to when I first started using something rather than the release, publication or documentation date.
+
+## 1998 and before
+
+- From Mosaic to Internet Explorer 4 and Netscape Navigator 4.0
+- HTML whatever and frames for layout
+- [Sams Teach Yourself HTML 4 in 24 Hours](https://www.informit.com/store/sams-teach-yourself-html-4-in-24-hours-9780672317248)
+- Notepad
+- Dim awareness of CGI
+
+## 1999
+
+- Internet Explorer 5.0 and Netscape Communicator 4.7
+- HTML 4.0 and tables for layout
+- [HTML Goodies](http://www.htmlgoodies.com/) and [Webmonkey](http://www.webmonkey.com/)
+- Microsoft FrontPage 98
+- Perl scripts and Microsoft Access
+
+## 2000
+
+- Internet Explorer 5.5 and Netscape 6
+- HTML 4.01 and tables for layout
+- [Dreamweaver 3 Bible](http://www.amazon.com/Dreamweaver%C2%AE-Bible-Joseph-W-Lowery/dp/0764534580)
+- Dreamweaver
+- Dreamweaver templates
+
+## 2001
+
+- Internet Explorer 6.0
+- [XHTML 1.1 and CSS for layout](http://alistapart.com/article/journey)
+- [Web Design in a Nutshell](http://shop.oreilly.com/product/9781565925151.do)
+- [EditPlus](http://www.editplus.com/)
+- ASP.NET, SQL Server and the dark world of [RedDot](https://en.wikipedia.org/wiki/RedDot)
+
+## 2002
+
+A bit of a lost year; picked up the rudiments of PHP &amp; MySQL, rolled my own [blogging thing](http://www.guardian.co.uk/technology/2002/sep/26/onlinesupplement).
+
+## 2003
+
+- Mozilla [Phoenix and Firebird](https://en.wikipedia.org/wiki/History_of_Firefox)
+- [CSS Zen Garden](http://www.csszengarden.com/) (keep the mark-up clean)
+- [Designing With Web Standards](http://www.zeldman.com/dwws/)
+- HomeSite
+- [NIH](https://en.wikipedia.org/wiki/Not_invented_here) agency CMS (not a terrible idea at the time, given the other options available)
+
+## 2004
+
+- Firefox 1.0
+- Accessibility, [image replacement](http://www.mezzoblue.com/tests/revised-image-replacement/) and [faux columns](http://alistapart.com/article/fauxcolumns).
+- [The Elements of User Experience](http://www.jjg.net/elements/)
+- [Smarty](https://en.wikipedia.org/wiki/Smarty)
+- [X-Cart](http://www.x-cart.com/) (and RedDot again, for my sins)
+
+## 2005
+
+- [Flock](https://en.wikipedia.org/wiki/Flock_%28web_browser%29)
+- Progressive enhancement, graceful degredation and [sIFR](http://www.mikeindustries.com/blog/sifr/)
+- [DOM Scripting](http://domscripting.com/) and [DHTML Utopia](http://www.sitepoint.com/books/dhtml1/)
+- [TopStyle 3.12](https://en.wikipedia.org/wiki/TopStyle)
+- Lots of static templates with no version control or, worse, [Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe)
+
+## 2006
+
+- Internet Explorer 7.0
+- Ajax, jQuery, Firebug and a smattering of CSS3
+- [Deliver First Class Web Sites](http://www.sitepoint.com/books/checklists1/)
+- Subversion
+- [eZ Publish](http://ez.no/), [Magnolia](http://www.magnolia-cms.com/) and [CodeIgniter](http://ellislab.com/codeigniter)
+
+## 2007
+
+- Safari 3 and iOS
+- Web performance, [ySlow](http://developer.yahoo.com/yslow/) and [font stacks](http://24ways.org/2007/increase-your-font-stacks-with-font-matrix/)
+- [Mobile Web Design](http://mobilewebbook.com/) and [High Performance Web Sites](http://stevesouders.com/hpws/)
+- [TextMate](http://macromates.com/), [MAMP](http://www.mamp.info/en/index.html) and [Parallels](http://www.parallels.com/)
+- [MySource Matrix](https://en.wikipedia.org/wiki/MySource_Matrix)
+
+## 2008
+
+- Firefox 3 and Google Chrome (hurrah, rapid release cycle)
+- Rapid prototyping with UX people
+- [Web Form Design](http://www.lukew.com/resources/web_form_design.asp)
+- Bad PHP
+
+## 2009
+
+- Internet Explorer 8.0 and Android
+- Dynamic script loaders, [Modernizr](http://modernizr.com/) and [cufón](http://cufon.shoqolate.com/generate/)
+- [Even Faster Web Sites](http://stevesouders.com/efws/)
+- Git, [GitHub](https://github.com/) and [VirtualBox](https://www.virtualbox.org/)
+- Lots of static templates managed with Subversion; still a marginally better approach than the alternatives but no one really likes this
+
+## 2010
+
+- Firefox 3.6
+- [HTML5 Boilerplate](http://html5boilerplate.com/), [polyfills](http://remysharp.com/2010/10/08/what-is-a-polyfill/) and [OOCSS](https://github.com/stubbornella/oocss/) (keep the styles clean)
+- [HTML5: Up and Running](http://diveintohtml5.info/)
+- [Fabric](http://fabfile.org/)
+- Worse PHP
+
+## 2011
+
+- Internet Explorer 9.0 and Firefox 4 through 9 (hurrah, rapid release cycle)
+- `@font-face`
+- [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design), [Mobile First](http://www.abookapart.com/products/mobile-first)
+- Sublime Text 2 and [Homebrew](http://brew.sh/)
+- Django and [SiteCore](http://www.sitecore.net/)
+
+## 2012
+
+- Internet Explorer 10.0
+- [Haml](http://haml.info/) and [Sass](http://sass-lang.com/)
+- [SMACSS](http://smacss.com/)
+- [Vagrant](http://www.vagrantup.com/)
+- [Sinatra](http://www.sinatrarb.com/) and a home-grown static site generator
+
+## 2013
+
+- [Blink](http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html)
+- Nothing particularly significant so far, but then it's only April
+- [Professional JavaScript for Web Developers](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-3rd-Edition.productCd-1118026691.html)
+- [modern.ie](http://www.modern.ie/)
+- [Middleman](http://middlemanapp.com/)

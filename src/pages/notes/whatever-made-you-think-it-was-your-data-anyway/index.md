@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Whatever made you think it was your data anyway?
+pubDate: 2011-11-03T13:34:47+00:00
+tumblr_permalink: /post/12283084814/if-your-data-exists-only-as-hosted-by-free
+tags: ["linklog"]
+format: "quote"
+---
+
+> If your data exists only as hosted by “free” services on the internet, you should assume not only that it’s not your data, but that it doesn’t even exist at all. That way, you’ll be less upset when one day it vanishes without trace, and you can greet personal erasure with splendid equanimity.
+
+— <cite>[Steven Poole, _Whatever made you think it was your data anyway?_](http://stevenpoole.net/blog/whatever-made-you-think-it-was-your-data-anyway/)</cite>

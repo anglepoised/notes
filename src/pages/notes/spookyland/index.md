@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Spookyland
+tags: ["v1"]
+pubDate: 2002-04-17T22:12:20
+---
+
+[Roman Dirge][1] &#8211; a Tim Burton-esque animator (to do him a disservice). Related: [Invader ZIM DivX][2].
+
+(Not strictly) related: Tim Burton&#8217;s [Stainboy movies][3], [Collective][4] (fansite) and excellent poetry and illustration collection [The Melancholy Death of Oyster Boy][5].
+
+[1]: http://www.spookyland.com/
+[2]: http://yourmom.sh/zim/
+[3]: http://atomfilms.shockwave.com/af/spotlights/stainboy/
+[4]: http://www.timburtoncollective.com/
+[5]: http://www.amazon.com/exec/obidos/ASIN/0688156819/ohsky07 "The Melancholy Death of Oyster Boy on amazon.com"

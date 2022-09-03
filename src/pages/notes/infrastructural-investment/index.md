@@ -1,0 +1,10 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Infrastructural investment
+tags: ["linklog"]
+pubDate: "2014-02-16T08:12:00"
+---
+
+> The idea that a private sector obliged to provide yearly dividends to shareholders and yearly bonuses to employees would be likely to provide infrastructural improvements that would be of benefit to future generations was always absurd. Infrastructural investment, almost by definition, is undertaken to provide profit for others, who can prosper from it, and pay taxes for their prosperity, taxes that can be reinvested in providing healthy, well-educated citizens who can in turn maintain, improve and exploit that infrastructure.
+
+— <cite>[Deborah Orr, _These storms could be a catalyst for just the kind of major works Britain needs | The Guardian_](http://www.theguardian.com/commentisfree/2014/feb/14/storms-catalyst-for-major-works-britain-needs)</cite>

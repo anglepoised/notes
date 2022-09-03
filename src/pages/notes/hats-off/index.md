@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Hats Off
+tags: ["v1"]
+pubDate: 2002-07-01T11:47:43
+---
+
+[The Zebra Face cartoons][1], from [Invisible Spies][2].
+
+> &#8220;Armed with only the face of a Zebra, and a diabetic mouth organ wielding side-kick, Zebra Face embarks on a series of eliptical adventures, battle rhyming with a host of baddies most of which boast similarly useless superhero characteristics, and who eventually succumb to Zebra Faces&#8217; supreme rhyming abilities and stripy body.&#8221;
+
+[1]: http://www.invisiblespies.com/zebraface/zebintro.html
+[2]: http://www.invisiblespies.com/ "Invisible Spies Records"

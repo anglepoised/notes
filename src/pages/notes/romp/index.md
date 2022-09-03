@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Romp
+tags: ["v1"]
+pubDate: 2002-05-01T00:39:46
+---
+
+Excerpt from Helen Cooper&#8217;s [A Chaucerian Year][1].
+
+> &#8220;Odd things happen to the hormones in May; and although people did not know about hormones, they were entirely familiar with their symptoms&#8230; but May was not entirely good. Some days in the medieval calendar were believed to bring bad luck, and early May is recurrently dangerous.&#8221;
+
+[1]: http://www.penguin.co.uk/shared/SharedDisplay/1,,48994_0,00.html "A Chaucerian Year at the Penguin Classics website"

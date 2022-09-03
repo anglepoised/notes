@@ -1,0 +1,14 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Transient Pattern
+tags: ["v1"]
+pubDate: 2003-01-15T17:37:36
+---
+
+Elihu Vedder&#8217;s [drawings for the Rub&aacute;iy&aacute;t of Omar Khayy&aacute;m][1]:
+
+> Vedder&#8217;s Rub&aacute;iy&aacute;t set the standard for the artist-designed book in America and England. Vedder created designs for the entire book &#8212; its cover and lining paper, its compelling drawings, and its eccentric hand-drawn letters.
+
+> The rub&aacute;iy&aacute;t (the plural form of quatrain, or a verse unit of four lines) were written around 1120 by the Persian mathematician, astronomer, and poet Omar Khayy&aacute;m. He left upwards of 1,000 epigrams on the transience of existence and the uselessness of mathematics, science, or religion to untangle the knotted meaning of life.
+
+[1]: http://nmaa-ryder.si.edu/collections/exhibits/vedder/ "Smithsonian American Art Museum: Elihu Vedder's designs for the Rubáiyát of Omar Khayyám"

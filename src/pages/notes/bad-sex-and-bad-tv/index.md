@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Bad sex and bad TV
+tags: ["v1"]
+pubDate: 2002-03-22T05:08:23
+---
+
+[The Breeders][1] are back with two(!) new singles (Off You &#8211; limited, 10&#8243; vinyl, mirror board sleeve &#8211; and Huffer) and a new album, Title TK. They&#8217;ve also announced some [live dates][2]. Related: [NY Times interview][3].
+
+[1]: http://4ad.com/artists/breeders/ "The Breeders section on the 4AD site"
+[2]: http://4ad.com/artists/breeders/tours.htm
+[3]: http://www.nytimes.com/2002/03/17/magazine/17BREEDERS.html "requires registration"

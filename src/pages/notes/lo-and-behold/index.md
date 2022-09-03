@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Lo and Behold
+tags: ["v1"]
+pubDate: 2002-03-09T20:44:31
+---
+
+Lo Recordings get their act together with their [new site][1], with information on Rothko, They Came From The Stars (I Saw Them), Barry 7, Luke Vibert and the rest of the Lo roster. Sign up to their [mailing list][2] and receive a [free CD][3] featuring Cursor Miner, Susumu Yokata and Rothko, Tom Jenkinson & Friends, Mileece and Si Begg vs. Hairy Butter.
+
+[1]: http://www.lorecordings.com/ "no info the forthcoming Cursor Miner album, alas."
+[2]: http://www.lorecordings.com/loandbehold/
+[3]: http://www.lorecordings.com/various/behold.html "Lo and Behold"

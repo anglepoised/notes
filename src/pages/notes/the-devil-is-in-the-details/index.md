@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The devil is in the details
+tags: ["v1"]
+pubDate: 2002-03-09T20:25:21
+---
+
+A list of [references and oddities][1] from the recent [Boards of Canada][2] album, Geogaddi.
+
+[1]: http://www.speakeasy.org/~adbrown/boc.html
+[2]: http://www.boardsofcanada.com/

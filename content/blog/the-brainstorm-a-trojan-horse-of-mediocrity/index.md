@@ -1,9 +1,0 @@
----
-title: The brainstorm - a trojan horse of mediocrity
-tags: ["advertising", "quote", "work"]
-date: 2007-05-28 12:44:00
----
-
-> A facilitators main task is to ensure that 'everyone goes home with a balloon' after a brainstorm - that they all feel that their pointless lives have been made somehow better by this semi cathartic experience and by the lovely little warm up games that they all played. Not to mention that they all got to vote on the most simplistic and incompetent ideas with a little stash of post it notes like some kind of mutant pin the tail on the donkey game. Facilitators like pariticipants to have a nice time more than they like delivering actionable output.
-
-[adliterate: The brainstorm - a trojan horse of mediocrity](http://www.adliterate.com/archives/2007/05/death_to_the_br.html)

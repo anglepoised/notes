@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: I’m guilty, but I’m not to blame
+pubDate: 2008-05-12T13:08:14+00:00
+tumblr_permalink: /post/34535559/misdoing-anything-opens-up-a-breach-in-ethics-that
+tags: ["linklog"]
+format: "quote"
+---
+
+> Misdoing anything opens up a breach in ethics that can never be closed. It removes culpability from any distortion and makes anything, no matter how heinous, a complete accident. A drunk driver who crashes a car into someone can now apologise for miscounting his alcohol intake before going on to misdrive into someone he mistook for a road. I can happily write back to my bank and explain that I&rsquo;ve merely mis-defaulted, a thug can explain in court that he simply misstabbed, British Airways can smile at the goings-on at the opening of Terminal 5 and explain that all that&rsquo;s happened is that they&rsquo;ve momentarily misrun a national airline, and, five years after the event, George Bush can look at the resounding inconclusiveness of his entry into Iraq and explain to the American people that it now appears he may have misinvaded.
+
+— <cite>[Armando Iannucci, _I&rsquo;m guilty, but I&rsquo;m not to blame_](https://www.theguardian.com/commentisfree/2008/may/11/1)</cite>

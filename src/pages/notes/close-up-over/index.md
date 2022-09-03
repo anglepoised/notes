@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Close Up Over
+tags: ["v1"]
+pubDate: 2003-01-15T18:26:47
+---
+
+A Japan Times [interview with Haruki Murakami][1], in which he discusses the conflict between closed systems and open systems in society:
+
+> The world is very chaotic today. You have to think about so many things &#8212; your stock options, the IT industry, which computer you should buy, junk bonds. You have 54 channels on DTV. You can know anything you want from the Internet. It&#8217;s so complicated, and you feel lost. But if you enter a small, closed circuit, you don&#8217;t have to think about anything. The guru or dictator will tell you what to do and think. It&#8217;s simple. So people like to enter those small, closed systems &#8212; just like the very intelligent people who gather in Aum Shinrikyo. But once you enter that system, you cannot escape. The door is closed.
+
+[1]: http://www.japantimes.co.jp/cgi-bin/getarticle.pl5?fl20021201a4.htm "The Japan Times: Haruki Murakami - Writer on the borderline"

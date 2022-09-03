@@ -1,0 +1,31 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Nothing Lost
+tags: ["v1"]
+pubDate: 2002-11-16T13:37:43
+---
+
+Last weekend, in links:
+
+- Tea, talk, a [chaos-inducing toy][1] and [Sailor Moon figure][2] (from [TFAW][3]) courtesy of the ever-spangly [Robyn][4].
+- A preview screening of the [new Harry Potter film][5] (courtesy of those nice people at [Bloomsbury][6]), followed by a complicated 15-person meal at [Kettners][7] (unfortunately not courtesy of anyone) and half a bottle of [Jose Cuervo Gold][8]. Why is it so hard to buy [grenadine][9] at 2am in Shepherd&#8217;s Bush? Or at any time in any place, come to think of it?
+- [The Lord Mayor&#8217;s Show][10] [firework display][11] by the Thames, followed by beer and nonsense at the redeveloped [Anchor][12].
+- Tasty (if messy) tapas at [Mar I Terra][13] (Blackfriars), followed by drinks at the recently refitted portrait-tastic [The Ring][14], topped off with moredulwichwine and the well-scheduled [Classic FM Chiller Cabinet][15].
+
+More like that, please.
+
+[1]: http://www.geospaceplay.com/cgi-local/shop.pl/SID=1037028660.2267105/page=electronic_toys_et1.html "GeospacePlay:Super Sonic Spaceball"
+[2]: http://www.irwintoy.com/Catalogue/Product/Default.asp?ProductID=39487&BrandID=6
+[3]: http://www.tfaw.com/ "Things From Another World"
+[4]: http://www.orbyn.com/cult/
+[5]: http://uk.imdb.com/Title?0295297 "IMDb UK: Harry Potter and the Chamber of Secrets"
+[6]: http://www.bloomsburymagazine.com/ "Bloomsbury Publishing: Cheers, Lisa! (Lisa is now obsessed with the shiny hair on the Sailor Mars toy"
+[7]: http://shopping.guardian.co.uk/food/story/0,1587,764521,00.html "The Guardian: Base instincts (Review/history of Kettners)"
+[8]: http://www.cuervo.com/ "Cuervo: How is it possible to drink tequila responsibly? Thanks, Sam!"
+[9]: http://www.webtender.com/db/ingred/82 "The Webtender: Grenadine (Used in the following 564 drinks)"
+[10]: http://www.lordmayorsshow.org/
+[11]: http://www.lordmayorsshow.org/otd/fireworks.shtml "Lord Mayor's Show: Firework display"
+[12]: http://www.portal.e-street.net/com/10025576 "e-street.com: Anchor pub"
+[13]: http://www.mariterra.com/ "Mar I Terra (Blackfriars/Southwark and Soho)"
+[14]: http://www.bbc.co.uk/london/sport/boxing/pubs.shtml "BBC London Sports: Boxing Pubs"
+[15]: http://www.classicfm.com/page.cfm?station=classicfm&s=1&program=programmes&p=14&page=chillercabinet&g=972&channel=on-air "Classic FM: The Chiller Cabinet playlist"

@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Kind Of Disco Sound
+tags: ["v1"]
+pubDate: 2002-06-24T23:31:49
+---
+
+The new [Ladytron][1] album, Light and Magic, is currently set for a [US release on September 17th][2]. No word on the UK release date yet.
+
+[1]: http://www.ladytron.com/ "official Ladytron website"
+[2]: http://www.emperornorton.com/mod/artistpage.php3?artist=ladytron "Ladytron section on Emperor Norton Records"

@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The Christening
+pubDate: 2011-08-16T14:47:22+00:00
+tumblr_permalink: /post/8996923858/the-christening
+tags: ["linklog"]
+---
+
+> I am a sperm whale. I carry up to 2.5 tonnes of an oil-like balm in my huge, coffin-shaped head. I have a brain the size of a basketball, and on that basis alone am entitled to my opinions. I am a sperm whale. When I breathe in, the fluid in my head cools to a dense wax and I nosedive into the depths. My song, available on audiocassette and compact disc is a comfort to divorcees, astrologists and those who have ‘pitched the quavering canvas tent of their thoughts on the rim of the dark crater’. The oil in my head is of huge commercial value and has been used by NASA, for even in the galactic emptiness of deep space it does not freeze. I am attracted to the policies of the Green Party on paper but once inside the voting booth my hand is guided by an unseen force. Sometimes I vomit large chunks of ambergris. My brother, Jeff, owns a camping and outdoor clothing shop in the Lake District and is a recreational user of cannabis. Customers who bought books about me also bought Do Whales Have Belly Buttons? by Melvin Berger and street maps of Cardiff. In many ways I have seen it all. I keep no pets. Lying motionless on the surface I am said to be ‘logging’, and ‘lobtailing’ when I turn and offer my great slow fluke to the horizon. Don’t be taken in by the dolphins and their winning smiles, they are the pickpockets of the ocean, the gypsy children of the open waters and they are laughing all the way to Atlantis. On the basis of ‘finders keepers’ I believe the Elgin Marbles should remain the property of the British Crown. I am my own God – why shouldn’t I be? The first people to open me up thought my head was full of sperm, but they were men, and had lived without women for many weeks, and were far from home. Stuff comes blurting out.
+
+— <cite>[Simon Armitage, _The Christening_](https://www.theguardian.com/books/2010/jun/05/seeing-stars-simon-armitage-review)</cite>

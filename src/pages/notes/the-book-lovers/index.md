@@ -1,0 +1,10 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The Book Lovers
+tags: ["v1"]
+pubDate: 2002-09-01T12:47:41
+---
+
+Foyles have started maintaining a list of their [forthcoming literary events][1]. Authors appearing this autumn include Chuck Palahniuk, Jeremy Paxman, Will Self, Donna Tartt, Michael Palin and Iain Banks.
+
+[1]: http://www.foyles.co.uk/upready3/home/events.htm "Foyles.co.uk: Forthcoming Literary Events"

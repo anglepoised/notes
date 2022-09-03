@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Googling Free
+tags: ["v1"]
+pubDate: 2002-04-13T22:24:47
+---
+
+Google announces [Web APIs][1] (will hopefully lead to people making good use of the things that they find). Related: slightly obsessive (in a good way) [Google Weblog][2].
+
+[1]: http://www.google.com/apis/
+[2]: http://google.blogspace.com/ "Google Weblog: The latest news on everyone's favorite search engine"

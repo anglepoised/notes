@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: MisoJoy
+tags: ["v1"]
+pubDate: 2002-05-25T00:22:53
+---
+
+[Review of Sukiyaki][1], a Japanese restaurant in St Albans.
+
+> &#8220;There was a time &#8211; perhaps there still is &#8211; when a bride&#8217;s way with pickles defined her negotiating strength in the marriage contract in certain countries in the Far East. On the basis of the pickles we had, the pickler in the kitchen at Sukiyaki could command her or his own price. They were delicate, poised, lightly acid little coils of vivid green cucumber and deep purple radish.&#8221;
+
+[1]: http://www.guardian.co.uk/Archive/Article/0,4273,4133921,00.html "The Guardian: Sukiyaki"

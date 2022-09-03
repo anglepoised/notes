@@ -1,0 +1,17 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: iband - Electroplankton plus iPhones
+pubDate: 2008-02-25T21:29:25+00:00
+tumblr_permalink: /post/27267258/shrinkwrappediband-electroplankton-plus
+tags: ["linklog"]
+format: "video"
+---
+
+http://www.dailymotion.com/swf/x4fig0
+
+[shrinkwrapped][1]:
+
+> iband &#8211; Electroplankton plus iPhones! (via [Mark Iddon][2])
+
+[1]: http://tumblefeed.thair.net/post/27235068
+[2]: http://markiddon.wordpress.com/2008/02/25/multiplatform-music-to-my-ears/

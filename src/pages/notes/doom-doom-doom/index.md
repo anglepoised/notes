@@ -1,0 +1,15 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Doom Doom Doom
+tags: ["v1"]
+pubDate: 2004-07-01T18:51:59
+---
+
+Ooh, [Invader Zim on DVD][1]:
+
+> Invader&#8217;s blood marches through my veins like giant radioactive rubber pants! The pants command me! Do not ignore my veins!
+
+Ah. Also, [Dungeons and Dragons][2]. You only thought it was good because your brain was half-grown, mind.
+
+[1]: http://www.amazon.com/exec/obidos/tg/detail/-/B0001LJBTE/ohsky07 "Amazon.com: Invader ZIM- Doom Doom Doom (Vol. 1)"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/B00013YQMO/ohsky "Amazon.co.uk: Dungeons And Dragons - Vol. 1"

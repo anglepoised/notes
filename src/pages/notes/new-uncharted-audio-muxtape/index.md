@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: New Uncharted Audio muxtape
+pubDate: 2008-07-01T11:32:00+00:00
+tumblr_permalink: /post/40538210/new-uncharted-audio-muxtape
+tags: ["linklog"]
+format: "link"
+---
+
+[New Uncharted Audio muxtape][1]
+
+Uncharted Audio have put together a rather tasty new muxtape: [http://unchartedaudio.muxtape.com/](http://unchartedaudio.muxtape.com/)
+
+It features tracks from [Line](http://www.last.fm/music/Line), [Octavcat](http://www.last.fm/music/Octavcat), [John Callaghan](http://www.last.fm/music/John+Callaghan), [The Council Flats Of Kingsbury](http://www.last.fm/music/The+Council+Flats+Of+Kingsbury), [Kone-R](http://www.last.fm/music/Kone-R) (remixed by [Wrongtom](http://www.last.fm/music/Wrongtom), [Hard-Fi](http://www.last.fm/music/Hard-Fi)’s tour DJ), [regolith](http://www.last.fm/music/regolith) plus a [Digitonal](http://www.last.fm/music/Digitonal) remix of [ON/OFF](http://www.last.fm/music/ON%252FOFF) (aka [Posthuman](http://www.last.fm/music/Posthuman)).
+
+[1]: http://www.last.fm/user/ohskylab/journal/2008/07/01/21rxgp_new_uncharted_audio_muxtape

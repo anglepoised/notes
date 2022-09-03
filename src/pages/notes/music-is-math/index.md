@@ -1,0 +1,11 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Music is math
+tags: ["v1"]
+pubDate: 2002-03-17T13:41:09
+---
+
+CNN article on [music hardware vs. music software][1] and related [Slashdot discussion][2] (ye olde &#8220;real&#8221; instruments vs. electronic instruments debate as well as handy software/artist suggestions).
+
+[1]: http://www.cnn.com/2002/TECH/ptech/03/15/music.computers.reut/index.html "Software synths becoming more popular than traditional hardware-based synths. You're *kidding* - really?"
+[2]: http://slashdot.org/articles/02/03/16/1437211.shtml

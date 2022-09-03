@@ -1,0 +1,16 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Some Machines Have Big Knobs
+tags: ["v1"]
+pubDate: 2003-11-17T13:58:11
+---
+
+The [video for Rock and Roll is Dead][1] (WMV, 3.5 meg) by [Kings Have Long Arms][2] and [Phil Oakey][3], in which Phil has his head attached to a robot and destroys a selection of rock luminaries with his laser eyes.
+
+Related: Cursor Miner&#8217;s [Library video][4] by [Cheeky Beef][5] (which you really should watch if you haven&#8217;t already).
+
+[1]: http://www.league-online.com/rnr.wmv "Rock and Roll is Dead"
+[2]: http://www.kingshavelongarms.co.uk/ "The magical world of Kings Have Long Arms"
+[3]: http://www.league-online.com/ "Secrets Online: Unofficial Human League site (kindly hosting the video)"
+[4]: http://www.unchartedaudio.com/releases/unch005/video/ "Uncharted Audio: Cursor Miner's Library video"
+[5]: http://www.cheekybeef.co.uk/

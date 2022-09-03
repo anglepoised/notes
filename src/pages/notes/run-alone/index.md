@@ -1,0 +1,13 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Run Alone
+tags: ["v1"]
+pubDate: 2002-10-23T10:53:54
+---
+
+Two new [Ebbs and Flows mp3s][1], including a charming cover of [tinfoillake][2] by [Cursor Miner][3]. The [LJ Kruzer][4] cover is coming soon, apparently.
+
+[1]: http://www.ebbsandflows.co.uk/ "Ebbs and Flows"
+[2]: http://www.cursorminer.com/cmmetallyrics.htm#tin "Cursor Miner: tinfoillake lyrics"
+[3]: http://www.cursorminer.com
+[4]: http://www.ljkruzer.co.uk/

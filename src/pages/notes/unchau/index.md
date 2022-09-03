@@ -1,0 +1,23 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: UNCHAU
+tags: ["v1"]
+pubDate: 2002-05-23T12:42:39
+---
+
+Some quick [Uncharted Audio][1] updates. The [sonomu launch party][2] (featuring [Cursor Miner][3], [Rothko][4], Junkboy, Simon Fisher Turner and more) takes place tonight (Thursday 23 May) at a secret warehouse location in Brick Lane.
+
+The next [Sequencer Variety Club][5] (featuring Kone-R, [Kings Have Long Arms][6] and Detroit Grand Pubas) takes place tomorrow night (Friday 24 May) at the ICA [Related: [flyer front][7], [flyer reverse][8]].
+
+The [next Uncharted Audio release][9] is a split 7&#8243; (on gorgeous white vinyl) featuring new tracks from LJ Kruzer and The Council Flats of Kingsbury. It should be appearing at the usual [Uncharted outlets][10] during the next month.
+
+[1]: http://www.unchartedaudio.com/ "Uncharted Audio"
+[2]: http://party.sonomu.net/ "sonomu's big launch party - will be special"
+[3]: http://www.cursorminer.com/ "official Cursor Miner website"
+[4]: http://www.rothkomusic.co.uk/ "official Rothko website"
+[5]: http://www.ica.org.uk/index.cfm?articleid=4522 "Sequencer Variety Club at the ICA"
+[6]: http://www.kingshavelongarms.co.uk "Kings Have Long Arms"
+[7]: http://www.unchartedaudio.com/news/archive/svc_24_may_1.jpg "Front of Sequencer Variety Club flyer"
+[8]: http://www.unchartedaudio.com/news/archive/svc_24_may_2.jpg "Reverse of Sequencer Variety Club flyer"
+[9]: http://www.unchartedaudio.com/releases/unch003/ "UNCH003: LJ Kruzer and The Council Flats of Kingsbury"
+[10]: http://www.unchartedaudio.com/links/

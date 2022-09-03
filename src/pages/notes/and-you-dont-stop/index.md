@@ -1,0 +1,31 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: And you don’t stop…
+pubDate: 2008-04-27T12:04:51+00:00
+tumblr_permalink: /post/33005131/and-you-dont-stop
+tags: ["linklog"]
+---
+
+[headlessness][1]:
+
+> _All those other muxtapes are suckas._
+>
+> I made you a hip-hop muxtape, [And you don’t stop…][2]. It has an A-side and B-side of sorts. Here’s the tracklist:
+>
+> A Tribe Called Quest &#8211; Buggin’ Out
+> Cannibal Ox &#8211; Ox Out the Cage
+> Gang Starr &#8211; Dwyck
+> The Herbaliser &#8211; 8pt Agenda
+> Talib Kweli &#8211; Move Somethin’
+> Dr Octagon &#8211; Blue Flowers
+> Viktor Vaughn &#8211; Let Me Watch
+> J-Live &#8211; All of the Above
+> The Roots &#8211; The Next Movement
+> Killarmy &#8211; Wu-Renegades
+> Quannum Projects &#8211; Storm Warning
+> El-P &#8211; Stepfather Factory
+
+Aces.
+
+[1]: http://headlessness.com/post/32998759
+[2]: http://andyoudontstop.muxtape.com/

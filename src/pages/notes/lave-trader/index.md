@@ -1,0 +1,18 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Lave Trader
+tags: ["v1"]
+pubDate: 2003-11-13T19:19:22
+---
+
+An [edited extract][1] from the Elite/Braben/Bell section in [Backroom Boys: The Secret Return Of The British Boffin][2].
+
+> Perhaps the reason they kept going was that they wanted the universe they were building to feel solid: like a science-fiction novel that rings true because all its inventions are consistent with each other. But allied to this was an idea of the pleasure they wanted to give the player. They kept asking: &#8220;Will this be fun?&#8221; They didn&#8217;t want the fun to be presented to the player as a set of arbitrary demands, a series of hoops you had to jump through just because that was the game and your score went up every time you got it right. They wanted the flying, the shooting and the trading to be fun in a way that respected the integrity of the experience you&#8217;d have when you were playing, that went with, rather than against, the deeper grain of your imagination. It&#8217;s a wish that might sound modest, but what made it cumulatively radical in its effect on the game was the indirectness it made necessary. Most video games stipulated the experience the player was going to have. They said: you stand here and we&#8217;ll throw aliens/dragons/humorous frogs at you. Bell and Braben&#8217;s sequence of inventions amounted to a gradual refusal to do anything of the kind. They were arriving at a game that left what to do and where to go entirely up to the player.
+
+Related: [Ian Bell&#8217;s Elite pages][3]; [Frontier Developments][4]; and [The Elite Club downloads][5].
+
+[1]: http://www.guardian.co.uk/weekend/story/0,3605,1064107,00.html "The Guardian: Masters of their universe"
+[2]: http://www.amazon.co.uk/exec/obidos/ASIN/0571214967/ohsky "Amazon.co.uk: Backroom Boys: The Secret Return of the British Boffin by Francis Spufford"
+[3]: http://www.iancgbell.clara.net/elite/ "Various Elite-related resources"
+[4]: http://www.frontier.co.uk/
+[5]: http://www.eliteclub.co.uk/download/ "Download First Encounters and Elite II"

@@ -1,0 +1,14 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: brand tags
+pubDate: 2008-05-11T11:26:22+00:00
+tumblr_permalink: /post/34427759/brand-tags
+tags: ["linklog"]
+format: "link"
+---
+
+[brand tags][1]
+
+> &ldquo;The basic idea of this site is that a brand exists entirely in people&rsquo;s heads. Therefore, whatever it is they say a brand is, is what it is.&rdquo;
+
+[1]: http://www.brandtags.net/
