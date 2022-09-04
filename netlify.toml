@@ -9,6 +9,19 @@ package = "netlify-plugin-html-validate"
     path = "dist"
 
 [[plugins]]
+package = "netlify-plugin-checklinks"
+  [plugins.inputs]
+  entryPoints = [
+    "dist/sitemap-index.xml",
+  ]
+  skipPatterns = [
+    "404*"
+  ]
+  todoPatterns = [
+    "feed*"
+  ]
+
+[[plugins]]
 package = "@netlify/plugin-lighthouse"
 
   [plugins.inputs]
