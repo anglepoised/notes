@@ -1,3 +1,7 @@
+[build.environment]
+   YARN_VERSION = "3.2.3"
+   YARN_CACHE_FOLDER = "/opt/buildhome/.yarn_cache"
+
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
   [plugins.inputs.thresholds]
