@@ -2,7 +2,7 @@
 package.json
 
 # Non-committed directories
-.cache
+.netlify
 node_modules
 coverage
 dist
