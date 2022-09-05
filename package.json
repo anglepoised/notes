@@ -15,6 +15,7 @@
   "engines": {
     "node": "16.17.0"
   },
+  "packageManager": "yarn@1.22.18",
   "private": true,
   "dependencies": {
     "@astrojs/mdx": "^0.11.0",
