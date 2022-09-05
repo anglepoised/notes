@@ -1,3 +1,6 @@
+[build]
+  publish = "dist"
+
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
   [plugins.inputs.thresholds]
