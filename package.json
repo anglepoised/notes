@@ -75,5 +75,6 @@
   "lint-staged": {
     "*.{js,json}": "yarn internal:prettier --list-different",
     "*.{md,mdx}": "yarn internal:prettier --list-different"
-  }
+  },
+  "packageManager": "yarn@3.2.3"
 }
