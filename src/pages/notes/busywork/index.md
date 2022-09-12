@@ -19,9 +19,9 @@ I only realised that Tumblr supported Markdown for post creation when I stumbled
 
 I know I’ll need this soon. I had planned to use [Gists](https://gist.github.com/) in the short-term but after some [light](http://automateeverything.tumblr.com/post/20166142768/better-code-syntax-highlighting-w-highlight-js) [research](http://schneems.com/post/18551760180/give-tumblr-some-code), I thought that [highlight.js](https://github.com/isagalaev/highlight.js) would be worth plumbing in.
 
-```basic
-    10 PRINT "Hello, world"
-    20 GOTO 10
+```
+10 PRINT "Hello, world"
+20 GOTO 10
 ```
 
 Lovely.
