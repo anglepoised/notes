@@ -5,7 +5,7 @@ tags: ["v1"]
 pubDate: 2004-07-20T10:57:06
 ---
 
-The Guardian on [urban campus myths][1] and the annual [<acronym title="The International Society of Contemporary Legend Research">ISCLR Conference</acronym>][2]:
+The Guardian on [urban campus myths][1] and the annual [<abbr title="The International Society of Contemporary Legend Research">ISCLR Conference</abbr>][2]:
 
 > There was this student who flipped during his finals and killed himself by shoving two sharpened pencils up his nostrils into his brain. Death was instantaneous, apparently. No really, it happened. And did you know that the tower of Durham Cathedral is closed during exams ever since a student from the university chucked herself off the top&#8230;?
 

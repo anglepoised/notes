@@ -5,7 +5,7 @@ tags: ["v1"]
 pubDate: 2002-09-26T15:44:06
 ---
 
-[Exifer for Windows][1] is a handy application for managing the metadata (<acronym title="Exchangeable Image File">EXIF</acronym>/<acronym title="International Press Telecommunications Council">IPTC</acronym>) of images taken from digital cameras.
+[Exifer for Windows][1] is a handy application for managing the metadata (<abbr title="Exchangeable Image File">EXIF</abbr>/<abbr title="International Press Telecommunications Council">IPTC</abbr>) of images taken from digital cameras.
 
 > &#8220;Because many image processing software destroys this metadata when saving such files, the idea was to create a backup of the metadata before editing it in any software, and then, after that to restore it back into the processed file. With Exifer you can do this very easily.&#8221;
 
