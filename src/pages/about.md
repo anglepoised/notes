@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "About Me"
+title: "About"
 description: "Lorem ipsum dolor sit amet"
 pubDate: 2022-09-03T10:11:28+00:00
 updatedDate: 2022-09-03T10:11:28+00:00
