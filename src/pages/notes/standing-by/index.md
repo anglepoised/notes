@@ -5,7 +5,7 @@ tags: ["v1"]
 pubDate: 2002-04-23T23:22:25
 ---
 
-![](./porkins.gif)
+![](/images/notes/standing-by.gif)
 
 [Create lego-style figures][1], like this rather poor rendition of [Porkins][2], the aptly-named (and ill-fated) [X-Wing pilot][3] from Star Wars. If only there was a jowls-with-visor head.
 
