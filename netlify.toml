@@ -12,7 +12,7 @@ package = "netlify-plugin-html-validate"
 package = "netlify-plugin-checklinks"
   [plugins.inputs]
   entryPoints = [
-    "dist/sitemap-index.xml",
+    "sitemap-index.xml",
   ]
   skipPatterns = [
     "404*"
