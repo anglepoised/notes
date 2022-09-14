@@ -5,7 +5,7 @@ tags: ["donationware", "nvalt", "markdown"]
 pubDate: 2012-05-02
 ---
 
-This month has been all about writing reports, attending meetings and avoiding paper as much as possible, so my obvious [donationware](/2012/04/05/donationware/) choice for this month is [nvALT](http://brettterpstra.com/project/nvalt/).
+This month has been all about writing reports, attending meetings and avoiding paper as much as possible, so my obvious [donationware](/notes/donationware/) choice for this month is [nvALT](http://brettterpstra.com/project/nvalt/).
 
 It’s is a fork of the original [Notational Velocity](http://notational.net/), a note-keeping app. Sort of. It’s more complicated than that, though. And more straightforward. Inevitably.
 
