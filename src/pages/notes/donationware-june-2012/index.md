@@ -13,7 +13,7 @@ Linky makes it very easy to open lots of links very quickly. Dead useful for a r
 
 ## [QuickJava](https://addons.mozilla.org/en-US/firefox/addon/quickjava/)
 
-Quickly enable/disable Java, JavaScript, Flash, Silverlight, CSS, images and animated images from the status bar. The excellent [Web Developer](/2012/04/05/donationware/) handles most of these but having access from the add-on bar makes access much easier.
+Quickly enable/disable Java, JavaScript, Flash, Silverlight, CSS, images and animated images from the status bar. The excellent [Web Developer](/notes/donationware/) handles most of these but having access from the add-on bar makes access much easier.
 
 ## [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 

@@ -12,7 +12,7 @@ For next time: [The Pilchard Works][7] and [Round The Bend (The Museum of Mechan
 [1]: http://www.tate.org.uk/stives/ "Tate St Ives"
 [2]: http://www.tate.org.uk/stives/hepworth.htm "Barbara Hepworth Museum and Sculpture Garden"
 [3]: http://www.redstonepress.co.uk/terence/evilthoughts/index.htm "David Shrigley: Evil Thoughts"
-[4]: ./squeezy.jpg "Image of a squeezy, tomato-shaped Wimpy ketchup bottle"
+[4]: /images/notes/holiday-retort.jpg "Image of a squeezy, tomato-shaped Wimpy ketchup bottle"
 [5]: http://www.wimpyburger.co.uk/ "Wimpy Burgers UK, childhood-stylee"
 [6]: http://www.recipesource.com/side-dishes/beverages/alcohol/01/rec0196.html
 [7]: http://www.cata.co.uk/cata-guest/pilchard-works/pilchard-works.htm "The Pilchard Works, Newlyn"

@@ -15,11 +15,11 @@ During the first couple of weeks of September we started running through the lau
 
 In just under one year we went from notes taken during meetings in pubs…
 
-[![Cursor Miner meeting notes 01](./5096612397_fbcca19f6d_o.jpg)](http://www.flickr.com/photos/ohskylab/5096612397/ "Cursor Miner meeting notes 01 by ohskylab, on Flickr")
+[![Cursor Miner meeting notes 01](/images/notes/month-106-01.jpg)](https://www.flickr.com/photos/ohskylab/5096612397 "Cursor Miner meeting notes 01 by ohskylab, on Flickr")
 
 …to the [final shiny item](http://unchartedaudio.com/releases/cursor-miner-requires-attention/).
 
-[![Cursor Miner Requires Attention](./5049857709_50f5a7713b_o.jpg)](http://www.flickr.com/photos/unchartedaudio/5049857709/ "Cursor Miner Requires Attention by uncharted |audio|, on Flickr")
+[![Cursor Miner Requires Attention](/images/notes/month-106-02.jpg)](http://www.flickr.com/photos/unchartedaudio/5049857709/ "Cursor Miner Requires Attention by uncharted |audio|, on Flickr")
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2218393600/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://shop.unchartedaudio.com/album/requires-attention">Requires Attention by Cursor Miner</a></iframe>
 

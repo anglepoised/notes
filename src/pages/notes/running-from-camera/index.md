@@ -5,7 +5,7 @@ tags: ["linklog"]
 pubDate: "2007-10-19T13:05:00"
 ---
 
-![](./16244880.jpg)
+![](/images/notes/running-from-camera.jpg)
 
 > The rules are simple: I put the self-timer on 2 seconds, push the button and try to get as far from the camera as I can.
 

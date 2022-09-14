@@ -7,7 +7,7 @@ pubDate: 2015-09-24 20:57:44
 
 I've moved this blog from [Ghost](https://ghost.org/) to [Hexo](https://hexo.io/).
 
-Why? I [liked Ghost's interface](/2014/03/Trying-out-Ghost/) and it's very straightforward compared with WordPress, but it has too many moving parts. I like editing posts with a real editor, or directly on GitHub for speed. Being able to hook everything up to a CI service and use pull requests makes life easier. So it's [static site generators](http://staticgen.com/) all the way for me.
+Why? I [liked Ghost's interface](/notes/trying-out-ghost/) and it's very straightforward compared with WordPress, but it has too many moving parts. I like editing posts with a real editor, or directly on GitHub for speed. Being able to hook everything up to a CI service and use pull requests makes life easier. So it's [static site generators](http://staticgen.com/) all the way for me.
 
 [Jekyll](http://jekyllrb.com/) is easily the most popular SSG ([powering GitHub pages will do that](https://jekyllrb.com/docs/github-pages/)) and it's a fine tool, but managing Ruby is a pain. The same goes for [Middleman](https://middlemanapp.com/): too Ruby. [Hugo](http://gohugo.io/) looks like it could be fun, but I'm not quite ready to leap into Go.
 

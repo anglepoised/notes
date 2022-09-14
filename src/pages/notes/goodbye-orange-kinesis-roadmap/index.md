@@ -27,6 +27,6 @@ Gatsby is overkill for a blog (compared to, say, [Eleventy](https://www.11ty.io/
 
 I'm deploying to [Netlify](https://www.netlify.com/) and it is amazingly straightforward and comes with many useful features. Highly recommended.
 
-It's been much harder wrangling posts from previous blogs into simple Markdown + Front Matter. Turns out I was [right to be concerned about Tumblr](https://anglepoised.com/hello/); getting an export from that service into a useful state was (and continues to be) a massive pain.
+It's been much harder wrangling posts from previous blogs into simple Markdown + Front Matter. Turns out I was [right to be concerned about Tumblr](/notes/hello/); getting an export from that service into a useful state was (and continues to be) a massive pain.
 
 There is still much more to do, but I can make words appear on my very own website again, and that feels good.
