@@ -5,7 +5,7 @@ tags: ["v1"]
 pubDate: 2003-01-29T01:43:09
 ---
 
-Ever since the nasty NTL people took away [<acronym title="Cartoon Network eXtra">CNX</acronym>][1] and replaced it with The Biography Channel, I&#8217;ve had to satisfy my cravings by listening to [Zorak&#8217;s puerile, vituperative loungecore songs][2] over and over and over again&#8230;
+Ever since the nasty NTL people took away [<abbr title="Cartoon Network eXtra">CNX</abbr>][1] and replaced it with The Biography Channel, I&#8217;ve had to satisfy my cravings by listening to [Zorak&#8217;s puerile, vituperative loungecore songs][2] over and over and over again&#8230;
 
 Related: [more Adultswim mp3s][3].
 

@@ -5,7 +5,7 @@ tags: ["v1"]
 pubDate: 2002-05-31T12:12:04
 ---
 
-Anglepoised, [More Beer][1] and [Uncharted Audio][2] are off to the delightful village of [Mousehole][3] in Cornwall, to <strike>escape from</strike> celebrate the Jubilee and World Cup. We&#8217;ll be paying a visit to the village of [Paul][4] and taking care to avoid [The Jamaica Inn][5] (specifically [Mr Potter&#8217;s Museum of Curiosity][6]).
+Anglepoised, [More Beer][1] and [Uncharted Audio][2] are off to the delightful village of [Mousehole][3] in Cornwall, to <s>escape from</s> celebrate the Jubilee and World Cup. We&#8217;ll be paying a visit to the village of [Paul][4] and taking care to avoid [The Jamaica Inn][5] (specifically [Mr Potter&#8217;s Museum of Curiosity][6]).
 
 There will be no updating of weblogs, arranging of social events or releasing of records by SMS, WAP etc. Promise. Back in time for the [Festival of Extreme Computing][7].
 
