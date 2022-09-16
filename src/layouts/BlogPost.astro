@@ -23,12 +23,13 @@ export interface Props {
     description: string;
     pubDate?: string;
     updatedDate?: string;
+    link?: string;
     heroImage?: string;
   };
 }
 
 const {
-  content: { title, description, pubDate, updatedDate, heroImage },
+  content: { title, description, pubDate, updatedDate, link, heroImage },
 } = Astro.props;
 ---
 
@@ -53,7 +54,15 @@ const {
     <main>
       <article>
         {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
-        <h1 class="title">{title}</h1>
+        {
+          link ? (
+            <h1 class="title">
+              <a href={link}>{title}</a>
+            </h1>
+          ) : (
+            <h1 class="title">{title}</h1>
+          )
+        }
         {
           frontmatter.pubDate && (
             <a class="permaLink" href={Astro.url}>

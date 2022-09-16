@@ -1,0 +1,12 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: London Pirate Radio Adverts 1984​-​1993, Vol. 1
+link: https://deathisnot.bandcamp.com/album/london-pirate-radio-adverts-1984-1993-vol-1
+tags: ["audio", "advertising"]
+pubDate: 2021-03-22T08:36:21.669Z
+updatedDateLocal: 2021-03-22T08:36:21.669Z
+---
+
+> The first volume in a two-part collection of pirate radio adverts & idents, taken from recordings of London stations between 1984 & 1993.
+
+Via [Thom Yorke's Guest Mix](https://www.bbc.co.uk/programmes/m000rwsq).
