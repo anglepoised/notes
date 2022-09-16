@@ -1,0 +1,10 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: The Strange, Soothing World of Instagram’s Computer-Generated Interiors
+url: https://www.newyorker.com/culture/rabbit-holes/the-strange-soothing-world-of-instagrams-computer-generated-interiors
+tags: ["architecture", "design", "metaverse"]
+pubDate: 2021-05-12T13:24:59.273Z
+updatedDateLocal: 2021-05-12T13:24:59.273Z
+---
+
+> Certain elements—plastics, curves, and soft, indoor light—are more straightforward to create with 3-D-modelling software, and relatively fast for render engines to process. These features tend to dominate the genre of computer-generated fantasy architecture. (Curves also tend to be legible to the human eye, while sharp, precise edges register as unrealistic.) This has cohered into something like an aesthetic: colorful, spacious, textured, bold. The lighting is flattering, the edges are rounded, and the pools of water ripple just so.

@@ -1,0 +1,14 @@
+---
+layout: "../../../layouts/BlogPost.astro"
+title: Scott Pilgrim vs. the World - Official 10th Anniversary Trailer
+url: https://www.youtube.com/watch?v=egkIeDQiUrc
+tags: ["film"]
+pubDate: 2021-03-26T09:09:11.680Z
+updatedDateLocal: 2021-03-26T09:09:11.680Z
+---
+
+https://www.youtube.com/watch?v=egkIeDQiUrc
+
+> Edgar Wright and Dolby Cinema announced that a never-before-seen version of Universal Pictures' 2010 hit cult classic Scott Pilgrim vs. The World will be coming to theaters on April 30. The film has been reimagined in Dolby Vision and Dolby Atmos and will play exclusively at Dolby Cinema locations in the U.S. for one week only. "Scott Pilgrim vs. The World was designed for the big screen and for the best sound systems," said Edgar Wright, the film's director, producer, and co-screenwriter. "To be able to see it with the best specs is obviously any filmmaker's dream. You want people to see it as good as it could possibly be. I suspect that if you're a fan of the movie, you're going to get such a kick out of seeing it like this."
+
+Maybe one day this will be shown outside the U.S., too.
