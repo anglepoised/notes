@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPost.astro"
 title: Ted Lasso VFX Breakdowns
-url: https://vimeo.com/492579796
+link: https://vimeo.com/492579796
 tags: ["tv"]
 pubDate: 2021-03-24T11:12:34.674Z
 updatedDateLocal: 2021-03-24T11:12:34.674Z

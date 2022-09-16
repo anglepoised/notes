@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPost.astro"
 title: Web Development History
-url: https://webdevelopmenthistory.com/
+link: https://webdevelopmenthistory.com/
 tags: ["web", "history"]
 pubDate: 2021-03-26T08:27:19.135Z
 updatedDateLocal: 2021-03-26T08:27:19.135Z

@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPost.astro"
 title: The Strange, Soothing World of Instagram’s Computer-Generated Interiors
-url: https://www.newyorker.com/culture/rabbit-holes/the-strange-soothing-world-of-instagrams-computer-generated-interiors
+link: https://www.newyorker.com/culture/rabbit-holes/the-strange-soothing-world-of-instagrams-computer-generated-interiors
 tags: ["architecture", "design", "metaverse"]
 pubDate: 2021-05-12T13:24:59.273Z
 updatedDateLocal: 2021-05-12T13:24:59.273Z

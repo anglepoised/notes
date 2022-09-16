@@ -1,7 +1,7 @@
 ---
 layout: "../../../layouts/BlogPost.astro"
 title: Scott Pilgrim vs. the World - Official 10th Anniversary Trailer
-url: https://www.youtube.com/watch?v=egkIeDQiUrc
+link: https://www.youtube.com/watch?v=egkIeDQiUrc
 tags: ["film"]
 pubDate: 2021-03-26T09:09:11.680Z
 updatedDateLocal: 2021-03-26T09:09:11.680Z
