@@ -5,7 +5,7 @@ tags: ["astro", "markdown", "meta"]
 pubDate: 2022-09-16T14:16:21.673Z
 ---
 
-Way back when this blog was built with Hexo, I used the convenient [Scaffolds feature](https://hexo.io/docs/writing#Scaffolds) as a way of bringing some convenience and consistency to blog posts.
+Way back when this blog was built with Hexo, I used the convenient [Scaffolds feature](https://hexo.io/docs/writing#Scaffolds) as a way of bringing some consistency to blog posts.
 
 I'm using [Astro](https://astro.build/) now, but can't find a similar feature. I guess this pattern has either fallen out of favour or doesn't work so well with tools that aim to do more than build [Jekyll](https://jekyllrb.com/)-style blogs. So, I thought I'd throw something together.
 
