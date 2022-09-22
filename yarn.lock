@@ -646,10 +646,10 @@
     source-map "^0.7.0"
     vfile "^5.0.0"
 
-"@netlify/plugin-lighthouse@^3.3.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-3.3.0.tgz#cdce6fcc34c7b22d06f1f9134642a4c81bd44ef4"
-  integrity sha512-IdbchgWD7sAGIuEDLbaQGfd0hEJkzCKuAniFjhqBJcQJX9gbTGXe9YiGt7wozvnvQjNRpnA8lxjrN1qFx0DlHg==
+"@netlify/plugin-lighthouse@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-3.4.1.tgz#e0eca0eae6550aac88eedd3e1773535cb513d7d4"
+  integrity sha512-5+ftm4M1h/A3rpnKMzR0O2pJ5gNB6iLhk2nnYwyPJUjL9VsMWdJm8ZYoEru81BNYuNyWcPWcyQdmHKzU0ex8og==
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.15.0"
