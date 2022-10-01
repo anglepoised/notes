@@ -26,7 +26,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
-    "@netlify/plugin-lighthouse": "^3.4.1",
+    "@netlify/plugin-lighthouse": "^3.6.0",
     "commitizen": "^4.2.5",
     "husky": "^8.0.1",
     "hygen": "^6.2.11",
