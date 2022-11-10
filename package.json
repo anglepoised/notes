@@ -60,6 +60,8 @@
     "lint": "npm-run-all lint:*",
     "lint:commits": "./node_modules/.bin/commitlint --from=origin/main",
     "lint:format": "yarn internal:prettier --list-different \"./*.{js,json,md,mdx}\" \"./**/*.{js,json,md,mdx}\"",
+    "?new:bookmark": "Generate a new bookmark scaffold",
+    "new:bookmark": "hygen bookmark new",
     "?new:post": "Generate a new post scaffold",
     "new:post": "hygen post new",
     "?preview": "Serve built Astro site.",
