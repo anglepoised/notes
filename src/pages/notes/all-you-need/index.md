@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: All you need
-tags: ["quote"]
 pubDate: 2016-08-20 14:14:45
 ---
 

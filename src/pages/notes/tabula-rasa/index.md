@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Tabula rasa
-tags: ["quote"]
 pubDate: 2016-08-09 13:31:45
 ---
 

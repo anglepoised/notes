@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: So this consultant walks into a bar...
 pubDate: 2007-11-19T15:16:21+00:00
 tumblr_permalink: /post/19764329/a-shepherd-was-herding-his-flock-in-a-remote
-tags: ["linklog"]
-format: "quote"
 ---
 
 > A shepherd was herding his flock in a remote pasture when suddenly a brand-new BMW advanced out of the dust cloud towards him&hellip;

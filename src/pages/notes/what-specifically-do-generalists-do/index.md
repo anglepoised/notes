@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: What Specifically Do Generalists Do?
 pubDate: 2008-02-06T15:58:54+00:00
 tumblr_permalink: /post/25668961/nothing-can-substitute-for-depth-of-analysis-and
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Nothing can substitute for depth of analysis, and there&rsquo;s proven value in specialization – it&rsquo;s what education, career paths, scientific research, and technological innovation are built on – but generalism is a secret talent. With so much complex information, fragmented in so many ways and developing faster and faster, it is increasingly important to have generalists around to make sense of it all, of the big picture.

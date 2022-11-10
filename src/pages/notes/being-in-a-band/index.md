@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Being in a band
 pubDate: 2010-10-15T07:47:06+00:00
 tumblr_permalink: /post/1318948800/theres-a-perversion-of-normal-ethical-standards
-tags: ["linklog"]
-format: "quote"
 ---
 
 > There&rsquo;s a perversion of normal ethical standards, indulged and encouraged by a music industry that feels more important the more it is removed from regular life. For those of us in Shellac and the other bands we admire, being in a band is just part of normal, regular life. You don&rsquo;t act like an asshole when you go to the barber. So why act like an asshole when you&rsquo;re in a band?

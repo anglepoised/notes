@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Transparency
-tags: ["quote"]
 pubDate: 2016-03-02 11:49:25
 ---
 

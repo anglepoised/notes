@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: So Book-like, You'd Think It Was a Book (but it's not)
 pubDate: 2007-11-23T07:55:27+00:00
 tumblr_permalink: /post/20039352/you-know-what-else-feels-like-real-paper-and
-tags: ["linklog"]
-format: "quote"
 ---
 
 > You know what else feels like real paper and doesn’t require cables or monthly bills? Fucking books.

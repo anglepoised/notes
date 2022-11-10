@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The Music Man
 pubDate: 2007-09-04T07:31:17+00:00
 tumblr_permalink: /post/10624635/rick-rubin-recording-industry-rock-music-new
-tags: ["linklog"]
-format: "quote"
 ---
 
 [Rick Rubin &#8211; Recording Industry &#8211; Rock Music &#8211; New York Times][1]

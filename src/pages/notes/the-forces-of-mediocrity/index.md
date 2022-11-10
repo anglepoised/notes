@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The forces of mediocrity
 pubDate: 2008-03-05T17:18:04+00:00
 tumblr_permalink: /post/28032167/remarkable-visions-and-genuine-insight-are-always
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Remarkable visions and genuine insight are always met with resistance. And when you start to make progress, your efforts are met with even more resistance. Products, services, career paths&hellip; whatever it is, the forces for mediocrity will align to stop you, forgiving no errors and never backing down until it&rsquo;s over. If it were any other way, it would be easy.

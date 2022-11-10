@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The journey is the goal
-tags: ["quote"]
 pubDate: 2014-06-18 16:24:27
 ---
 

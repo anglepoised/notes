@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: "Iain Banks: the final interview"
 pubDate: 2013-06-18T08:30:53+00:00
 tumblr_permalink: /post/53265288245/i-can-understand-that-people-want-to-feel-special
-tags: ["linklog"]
-format: "quote"
 ---
 
 > I can understand that people want to feel special and important and so on, but that self-obsession seems a bit pathetic somehow. Not being able to accept that you&rsquo;re just this collection of cells, intelligent to whatever degree, capable of feeling emotion to whatever degree, for a limited amount of time and so on, on this tiny little rock orbiting this not particularly important sun in one of just 400m galaxies, and whatever other levels of reality there might be via something like brane-theory [of multiple dimensions] … really, it&rsquo;s not about you. It&rsquo;s what religion does with this drive for acknowledgement of self-importance that really gets up my nose. &lsquo;Yeah, yeah, your individual consciousness is so important to the universe that it must be preserved at all costs&rsquo; – oh, please. Do try to get a grip of something other than your self-obsession. How Californian. The idea that at all costs, no matter what, it always has to be all about you. Well, I think not.

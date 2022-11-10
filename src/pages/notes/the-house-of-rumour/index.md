@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The House of Rumour
 pubDate: 2013-07-25T08:50:00+00:00
 tumblr_permalink: /post/56412549894/fleming-saw-the-house-of-rumour-as-the-image-of-an
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Fleming saw the House of Rumour as the image of an intelligence service; we can know it now as an ancient vision of the internet. The haunt of credulity, rash error, empty joy and unreasoning fear. The world whispers stories to itself. This is what conspire means: to breathe with.

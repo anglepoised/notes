@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: School of anti
-tags: ["quote"]
 pubDate: 2019-12-12T14:56:11.537Z
 ---
 

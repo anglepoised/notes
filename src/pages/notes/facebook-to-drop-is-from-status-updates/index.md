@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Facebook To Drop “is” From Status Updates
 pubDate: 2007-11-20T18:51:59+00:00
 tumblr_permalink: /post/19859666/facebook-announced-to-developers-last-night-that
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Facebook announced to developers last night that it will soon be dropping the word &ldquo;is&rdquo; from status message updates.

@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The rail to nowhere
 pubDate: 2010-07-14T19:35:44+00:00
 tumblr_permalink: /post/811955639/the-question-whats-the-point-has-been-asked
-tags: ["linklog"]
-format: "quote"
 ---
 
 > The question &ldquo;what&rsquo;s the point?&rdquo; has been asked about Berney Arms station ever since its creation in the 1840s. One might assume the pub was the reason for putting it there, but that isn&rsquo;t the case. It is there because Thomas Trench Berney, who owned the land, was ready to sell to the railway company only on the condition that a station be put there &ldquo;in perpetuity&rdquo;.

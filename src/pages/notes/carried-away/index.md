@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Carried Away
-tags: ["quote"]
 pubDate: 2016-05-03 08:31:52
 ---
 

@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: There will be blood
 pubDate: 2008-03-23T10:55:37+00:00
 tumblr_permalink: /post/29616275/the-credit-crunch-is-deadly-serious-but-it-will
-tags: ["linklog"]
-format: "quote"
 ---
 
 > The credit crunch is deadly serious, but it will not change the fundamental dynamic of how international capital markets work. Markets go too far: ingenious people take bigger and bigger risks, with more and more clever strategies, some of them sound, some of them, it eventually emerges, spectacularly not.

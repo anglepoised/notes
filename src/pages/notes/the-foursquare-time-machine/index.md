@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The Foursquare Time Machine
 pubDate: 2013-06-14T09:11:00+00:00
 tumblr_permalink: /post/52936477060/now-you-can-relive-the-thrill-of-the-time-you-went
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Now you can relive the thrill of the time you went from your house to a coffee shop to your job to a sandwich place to the grocery store to your house to a friend’s house to a bar and then back to your house.

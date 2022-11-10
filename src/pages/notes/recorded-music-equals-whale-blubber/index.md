@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Recorded music equals whale blubber
 pubDate: 2010-01-24T11:59:27+00:00
 tumblr_permalink: /post/350658883/i-think-records-were-just-a-little-bubble-through
-tags: ["linklog"]
-format: "quote"
 ---
 
 > I think records were just a little bubble through time and those who made a living from them for a while were lucky. There is no reason why anyone should have made so much money from selling records except that everything was right for this period of time. I always knew it would run out sooner or later. It couldn&rsquo;t last, and now it&rsquo;s running out. I don&rsquo;t particularly care that it is and like the way things are going. The record age was just a blip. It was a bit like if you had a source of whale blubber in the 1840s and it could be used as fuel. Before gas came along, if you traded in whale blubber, you were the richest man on Earth. Then gas came along and you&rsquo;d be stuck with your whale blubber. Sorry mate – history&rsquo;s moving along. Recorded music equals whale blubber. Eventually, something else will replace it.

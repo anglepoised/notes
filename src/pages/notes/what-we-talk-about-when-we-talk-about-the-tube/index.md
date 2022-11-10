@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: What We Talk about When We Talk about the Tube
 pubDate: 2013-03-04T09:35:41+00:00
 tumblr_permalink: /post/44532929472/londoners-treat-the-underground-not-as-a-stage
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Londoners treat the underground not as a stage set, a place where we&rsquo;re on display, but as a neutral space, one in which we don&rsquo;t overtly direct our attention at each other. People sneak glances at each other, of course they do, but the operative word is &ldquo;sneak&rdquo;. They don&rsquo;t look openly, in the way they would elsewhere. The main focus of people&rsquo;s attention is inward. They go into themselves. Or they go into the world of whatever entertainment they&rsquo;re carrying.

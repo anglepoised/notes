@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Clarkson stung after bank prank
 pubDate: 2008-01-07T12:12:33+00:00
 tumblr_permalink: /post/23188596/tv-presenter-jeremy-clarkson-has-lost-money-after
-tags: ["linklog"]
-format: "quote"
 ---
 
 > TV presenter Jeremy Clarkson has lost money after publishing his bank details in his newspaper column.
