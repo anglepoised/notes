@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Surfing the Avalanche
 pubDate: 2008-04-11T10:54:00+00:00
 tumblr_permalink: /post/31452298/information-architects-blog-archive-surfing

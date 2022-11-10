@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bring On The Clones
 tags: ["v1"]
 pubDate: 2002-04-21T00:35:25

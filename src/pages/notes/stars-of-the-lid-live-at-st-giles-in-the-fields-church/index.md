@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stars of the Lid live at St Giles-in-the-Fields Church
 pubDate: 2008-07-03T08:13:59+00:00
 tumblr_permalink: /post/40799874/miles-of-smiles-recordings-on-virbcom

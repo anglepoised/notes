@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Scott And Scurvy
 pubDate: 2010-03-13T09:03:40+00:00
 tumblr_permalink: /post/445095277/in-the-second-half-of-the-nineteenth-century-the

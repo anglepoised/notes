@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Your business card is CRAP!
 pubDate: 2009-04-09T12:57:38+00:00
 tumblr_permalink: /post/94503113/your-business-card-is-crap

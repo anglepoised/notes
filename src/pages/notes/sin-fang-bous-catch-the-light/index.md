@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Sin Fang Bous - Catch the Light
 pubDate: 2009-06-16T09:02:23+00:00
 tumblr_permalink: /post/124486055/sin-fang-bous-plays-catch-the-light-in-his-studio

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pay attention, that's all
 pubDate: 2008-05-19T10:08:26+00:00
 tumblr_permalink: /post/35299934/pay-attention-thats-allnotice-things-connect

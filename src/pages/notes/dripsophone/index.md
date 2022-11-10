@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dripsophone
 pubDate: 2010-02-26T06:24:04+00:00
 tumblr_permalink: /post/412795352/dripsophone-an-unreliable-water-driven

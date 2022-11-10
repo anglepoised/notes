@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Million A Shot
 tags: ["v1"]
 pubDate: 2002-12-17T19:09:51

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Turntable Hell
 tags: ["v1"]
 pubDate: 2002-03-28T12:54:09

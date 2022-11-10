@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Being in a band
 pubDate: 2010-10-15T07:47:06+00:00
 tumblr_permalink: /post/1318948800/theres-a-perversion-of-normal-ethical-standards

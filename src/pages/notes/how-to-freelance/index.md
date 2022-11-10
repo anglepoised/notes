@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How To Freelance
 pubDate: 2008-08-19T20:39:27+00:00
 tumblr_permalink: /post/46596498/freelancers-are-unlike-normal-people-and-will

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lego Summerhall
 link: https://www.summerhall.co.uk/10-years-of-summerhall-exhibition/tammy-watchorn/
 tags: ["lego", "edinburgh"]

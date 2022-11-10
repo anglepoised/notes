@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "The Future of Reading (A Play in Six Acts) [dive into mark]"
 pubDate: 2007-12-05T11:22:08+00:00
 tumblr_permalink: /post/20881435/the-future-of-reading-a-play-in-six-acts-dive

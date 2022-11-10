@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Deranged Nutty Crap
 tags: ["v1"]
 pubDate: 2003-01-20T17:34:09

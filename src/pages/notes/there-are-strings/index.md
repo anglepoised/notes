@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: There Are Strings
 tags: ["v1"]
 pubDate: 2003-01-29T23:07:04

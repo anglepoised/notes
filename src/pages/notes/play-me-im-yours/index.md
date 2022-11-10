@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Play me I’m yours
 pubDate: 2009-05-30T18:17:00+00:00
 tumblr_permalink: /post/115396586/play-me-im-yours

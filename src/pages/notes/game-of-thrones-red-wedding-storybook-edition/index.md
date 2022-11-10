@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Game of Thrones - Red Wedding (Storybook Edition)
 pubDate: 2013-06-06T16:24:14+00:00
 tumblr_permalink: /post/52306646505/game-of-thrones-red-wedding-storybook

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Symbion Project - Like One Returning from the Waves
 pubDate: 2011-10-07T08:12:42+00:00
 tumblr_permalink: /post/11134680677/symbion-project-like-one-returning-from-the

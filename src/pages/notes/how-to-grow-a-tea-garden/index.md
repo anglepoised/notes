@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How to Grow a Tea Garden
 tags: ["linklog"]
 pubDate: "2007-08-05T19:32:00"

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pasty-related Dementia
 tags: ["v1"]
 pubDate: 2003-04-20T17:04:58

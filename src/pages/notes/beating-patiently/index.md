@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Beating Patiently
 tags: ["v1"]
 pubDate: 2002-05-27T12:05:30

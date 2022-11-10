@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ricket To Tide
 tags: ["v1"]
 pubDate: 2002-04-08T15:56:01

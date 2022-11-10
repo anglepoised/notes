@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Brekfux
 tags: ["v1"]
 pubDate: 2002-05-01T15:51:03

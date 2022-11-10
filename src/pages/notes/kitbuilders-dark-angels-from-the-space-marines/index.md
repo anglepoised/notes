@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kitbuilders - Dark Angels
 pubDate: 2008-04-28T23:23:19+00:00
 tumblr_permalink: /post/33155733/kitbuilders-dark-angels-from-the-space-marines

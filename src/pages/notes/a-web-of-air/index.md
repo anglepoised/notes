@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A Web of Air
 pubDate: 2011-01-20T18:48:30+00:00
 tumblr_permalink: /post/2844521339/good-luck-she-said-obediently-although-she-did

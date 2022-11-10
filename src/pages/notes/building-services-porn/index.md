@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Building Services Porn
 pubDate: 2009-03-27T00:13:38+00:00
 tumblr_permalink: /post/90186361/building-services-porn

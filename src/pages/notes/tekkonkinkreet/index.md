@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tekkonkinkreet
 pubDate: 2007-10-17T07:13:46+00:00
 tumblr_permalink: /post/15913203/tekkonkinkreet

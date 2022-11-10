@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Playful Spaces
 pubDate: 2008-05-19T06:40:29+00:00
 tumblr_permalink: /post/35286687/this-is-a-film-about-hijacking-a-bus-stop

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The House of Rumour
 pubDate: 2013-07-25T08:50:00+00:00
 tumblr_permalink: /post/56412549894/fleming-saw-the-house-of-rumour-as-the-image-of-an

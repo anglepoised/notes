@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gritty Shaker
 tags: ["v1"]
 pubDate: 2002-10-12T20:08:09

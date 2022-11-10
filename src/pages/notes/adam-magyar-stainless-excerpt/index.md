@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Adam Magyar - Stainless (excerpt)
 tags: ["video"]
 pubDate: "2014-01-09T10:33:00"

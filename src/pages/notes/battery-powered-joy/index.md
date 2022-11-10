@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Battery Powered Joy
 tags: ["v1"]
 pubDate: 2002-07-10T13:09:31

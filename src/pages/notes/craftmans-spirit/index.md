@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Craftman’s spirit
 pubDate: 2010-01-31T07:55:00+00:00
 tumblr_permalink: /post/362852902/there-is-a-similar-craftmans-spirit-shokunin

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The rail to nowhere
 pubDate: 2010-07-14T19:35:44+00:00
 tumblr_permalink: /post/811955639/the-question-whats-the-point-has-been-asked

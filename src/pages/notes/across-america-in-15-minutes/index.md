@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Across America in 15 minutes
 pubDate: 2010-11-08T15:54:24+00:00
 tumblr_permalink: /post/1516516883/across-america-in-15-minutes-via-flippersvideo

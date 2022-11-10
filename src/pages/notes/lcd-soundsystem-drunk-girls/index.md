@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: LCD Soundsystem – Drunk Girls
 pubDate: 2010-04-21T10:56:16+00:00
 tumblr_permalink: /post/538033812/jessandnick-lcd-soundsystem-drunk-girls-hd

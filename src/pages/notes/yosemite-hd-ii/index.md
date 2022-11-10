@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Yosemite HD II
 tags: ["video"]
 pubDate: "2014-03-06T07:05:00"

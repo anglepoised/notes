@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "ASCII-O-Matic : SUBPOP RECS"
 pubDate: 2009-06-17T16:44:37+00:00
 tumblr_permalink: /post/125288780/ascii-o-matic-subpop-recs

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Harmonic 313 – Battlestar
 pubDate: 2009-05-17T07:55:00+00:00
 tumblr_permalink: /post/108945551/harmonic-313-battlestar-shot-stereoscopically

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: TwittyTunes
 tags: ["linklog"]
 pubDate: "2007-05-31T17:12:00"

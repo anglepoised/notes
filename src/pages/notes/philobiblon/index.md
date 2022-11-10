@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Philobiblon
 tags: ["v1"]
 pubDate: 2003-01-28T16:21:38

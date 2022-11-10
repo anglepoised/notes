@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner – The Man With the Transparent Face
 pubDate: 2013-06-24T10:47:00+00:00
 tumblr_permalink: /post/53749581394/cursor-miner-the-man-with-the-transparent-face

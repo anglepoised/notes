@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Impossible Deadline
 tags: ["v1"]
 pubDate: 2003-06-01T18:54:09

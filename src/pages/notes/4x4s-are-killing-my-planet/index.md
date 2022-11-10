@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: 4x4s are killing my planet
 pubDate: 2012-10-18T11:30:00+00:00
 tumblr_permalink: /post/33831468852/the-separation-of-knowledge-and-place-moves-us

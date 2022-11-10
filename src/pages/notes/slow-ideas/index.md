@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Slow Ideas
 pubDate: 2013-08-05T15:44:17+00:00
 tumblr_permalink: /post/57432026593/in-the-era-of-the-iphone-facebook-and-twitter

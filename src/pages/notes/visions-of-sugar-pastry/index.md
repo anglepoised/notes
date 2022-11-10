@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Visions of Sugar Pastry
 tags: ["v1"]
 pubDate: 2002-04-21T01:25:11

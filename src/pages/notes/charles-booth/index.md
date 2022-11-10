@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Charles Booth
 tags: ["v1"]
 pubDate: 2002-08-10T10:07:18

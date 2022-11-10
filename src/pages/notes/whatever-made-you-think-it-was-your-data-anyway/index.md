@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Whatever made you think it was your data anyway?
 pubDate: 2011-11-03T13:34:47+00:00
 tumblr_permalink: /post/12283084814/if-your-data-exists-only-as-hosted-by-free

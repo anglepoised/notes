@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Adventure Ecology Second Life Flood
 tags: ["linklog", "video"]
 pubDate: "2007-06-21T21:33:00"

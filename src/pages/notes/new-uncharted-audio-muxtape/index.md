@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: New Uncharted Audio muxtape
 pubDate: 2008-07-01T11:32:00+00:00
 tumblr_permalink: /post/40538210/new-uncharted-audio-muxtape

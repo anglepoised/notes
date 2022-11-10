@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Steal This Book
 tags: ["v1"]
 pubDate: 2002-11-16T18:20:34

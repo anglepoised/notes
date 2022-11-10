@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: FriendFeedFeed
 pubDate: 2008-03-11T19:15:39+00:00
 tumblr_permalink: /post/28578228/friendfeedfeed

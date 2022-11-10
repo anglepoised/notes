@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: As above, so below (the fold)
 pubDate: 2008-01-17T15:46:00+00:00
 tumblr_permalink: /post/23990017/as-above-so-below-the-fold

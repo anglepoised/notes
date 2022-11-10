@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Idea for a new typography term"
 pubDate: 2008-02-20T07:17:24+00:00
 tumblr_permalink: /post/26788189/ironic-sans-idea-for-a-new-typography-term

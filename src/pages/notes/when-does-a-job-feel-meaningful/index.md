@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: When does a job feel meaningful?
 pubDate: 2009-04-09T14:22:14+00:00
 tumblr_permalink: /post/94521867/when-does-a-job-feel-meaningful-whenever-it

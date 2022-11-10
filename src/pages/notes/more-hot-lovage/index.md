@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: More Hot Lovage
 tags: ["v1"]
 pubDate: 2002-06-13T15:52:18

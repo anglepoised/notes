@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Reverse Geocache Puzzle
 pubDate: 2009-11-07T18:26:13+00:00
 tumblr_permalink: /post/236151876/the-reverse-geocache-puzzle-arduiniana

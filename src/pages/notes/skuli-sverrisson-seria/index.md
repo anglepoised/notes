@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Skúli Sverrisson - Sería
 pubDate: 2013-05-26T07:03:43+00:00
 tumblr_permalink: /post/51367557977/sk%C3%BAli-sverrisson-ser%C3%ADa

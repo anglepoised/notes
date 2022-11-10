@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: In The Tartar Style
 tags: ["v1"]
 pubDate: 2003-01-26T01:21:50

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ghostly’s Favorite Albums of the Decade
 pubDate: 2009-12-24T06:40:16+00:00
 tumblr_permalink: /post/298089727/ghostlys-favorite-albums-of-the-decade-ghostly

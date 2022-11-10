@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: its amazing how out of sync teh web actually is
 pubDate: 2007-09-13T10:42:40+00:00
 tumblr_permalink: /post/11655950/fazal-its-amazing-how-out-of-sync-teh-web

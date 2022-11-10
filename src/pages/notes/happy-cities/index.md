@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Happy cities
 tags: ["linklog"]
 pubDate: "2013-11-06T09:09:00"

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: You Are A Light
 tags: ["v1"]
 pubDate: 2003-03-31T15:38:23

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Rue The Whirl
 tags: ["v1"]
 pubDate: 2002-08-26T23:46:47

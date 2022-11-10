@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Line – Number One (Cyan341 remix)
 pubDate: 2009-05-04T07:44:00+00:00
 tumblr_permalink: /post/103249164/line-number-one-cyan341-remix

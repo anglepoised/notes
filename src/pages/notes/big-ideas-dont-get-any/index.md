@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Big Ideas (don’t get any)
 pubDate: 2008-06-06T08:33:00+00:00
 tumblr_permalink: /post/37373248/big-ideas-dont-get-any-on-vimeo-sinclair-zx

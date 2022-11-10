@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: On Being Missed
 pubDate: 2008-04-05T07:51:13+00:00
 tumblr_permalink: /post/30848940/would-you-miss-your-current-project-if-you-were

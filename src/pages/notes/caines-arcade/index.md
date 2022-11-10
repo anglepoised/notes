@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Caine’s Arcade
 pubDate: 2012-04-13T07:28:14+00:00
 tumblr_permalink: /post/21015042859/caines-arcade

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The bald man is king
 pubDate: 2008-04-12T00:00:15+00:00
 tumblr_permalink: /post/31513697/jessandnick-in-the-land-of-cutting-out-people-in

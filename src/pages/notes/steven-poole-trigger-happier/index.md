@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Steven Poole: Trigger Happier"
 pubDate: 2007-11-22T14:31:00+00:00
 tumblr_permalink: /post/19995254/steven-poole-trigger-happier

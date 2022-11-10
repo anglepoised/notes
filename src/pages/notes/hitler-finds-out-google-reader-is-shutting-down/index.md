@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hitler finds out Google Reader is shutting down
 pubDate: 2013-03-14T10:46:00+00:00
 tumblr_permalink: /post/45337363022/anyone-who-thinks-social-media-is-a-valid

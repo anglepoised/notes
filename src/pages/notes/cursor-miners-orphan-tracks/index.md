@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner’s Orphan Tracks
 pubDate: 2008-04-07T09:19:00+00:00
 tumblr_permalink: /post/31015641/cursor-miners-orphan-tracks

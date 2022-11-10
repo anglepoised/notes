@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hip Hop Violin
 pubDate: 2007-08-08T08:42:19+00:00
 tumblr_permalink: /post/8007622/hip-hop-violin-paul-dateh-and-inka-one-via

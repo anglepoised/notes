@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: She Swears An Awful Lot
 tags: ["v1"]
 pubDate: 2003-04-20T01:27:36

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: History will see these cuts as one of the great acts of political folly
 pubDate: 2010-10-18T09:52:22+00:00
 tumblr_permalink: /post/1342949965/the-haste-to-cut-so-blindly-and-so-crudely-unless

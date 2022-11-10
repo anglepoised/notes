@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Acting President
 tags: ["v1"]
 pubDate: 2002-09-01T13:02:37

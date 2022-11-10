@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "The Experience Stack (Schulze & Webb)"
 pubDate: 2007-12-04T13:25:20+00:00
 tumblr_permalink: /post/20793271/the-experience-stack-schulze-webb

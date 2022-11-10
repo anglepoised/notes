@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Google can’t code
 pubDate: 2007-11-29T16:50:16+00:00
 tumblr_permalink: /post/20476891/google-may-have-hired-hixie-but-their-code-is

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Homer Simpson takes a photo of himself everyday for 39 years
 pubDate: 2007-12-17T09:02:35+00:00
 tumblr_permalink: /post/21783052/homer-simpson-takes-a-photo-of-himself-everyday

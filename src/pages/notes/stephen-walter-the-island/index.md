@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stephen Walter - The Island
 pubDate: 2012-10-15T11:46:05+00:00
 tumblr_permalink: /post/33635763425/stephen-walter-the-island-2008-the-island

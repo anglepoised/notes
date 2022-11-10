@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Underground Resistance – Transition
 pubDate: 2012-05-01T07:32:26+00:00
 tumblr_permalink: /post/22182492810/underground-resistance-transition

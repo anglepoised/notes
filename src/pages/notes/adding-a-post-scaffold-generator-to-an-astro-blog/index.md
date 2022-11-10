@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Adding a post scaffold generator to an Astro blog
 tags: ["astro", "markdown", "meta"]
 pubDate: 2022-09-16T14:16:21.673Z

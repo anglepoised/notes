@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The separation between advertisers and content creators is deteriorating incredibly quickly
 pubDate: 2008-03-26T20:12:42+00:00
 tumblr_permalink: /post/29936512/the-separation-between-advertisers-and-content

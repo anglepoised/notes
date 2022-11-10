@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: GroupTweet
 pubDate: 2008-04-13T17:07:11+00:00
 tumblr_permalink: /post/31646554/grouptweet

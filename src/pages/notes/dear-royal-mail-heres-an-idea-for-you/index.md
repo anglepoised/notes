@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Dear Royal Mail, here’s an idea for you"
 pubDate: 2009-07-21T10:06:00+00:00
 tumblr_permalink: /post/145978825/notes-dear-royal-mail-heres-an-idea-for-you

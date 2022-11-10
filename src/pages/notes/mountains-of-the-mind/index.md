@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mountains of the Mind
 pubDate: 2012-10-11T17:28:46+00:00
 tumblr_permalink: /post/33371394881/one-forgets-that-there-are-environments-which-do

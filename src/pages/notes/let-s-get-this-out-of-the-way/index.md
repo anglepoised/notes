@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Let's get this out of the way...
 pubDate: 2008-08-02T07:40:05+00:00
 tumblr_permalink: /post/44429926/i-didnt-rtfa-but-i-for-one-welcome-our-new

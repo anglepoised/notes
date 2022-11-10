@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: SHA-1 collisions
 pubDate: 2011-02-16T16:18:39+00:00
 tumblr_permalink: /post/3327932527/heres-an-example-to-give-you-an-idea-of-what-it

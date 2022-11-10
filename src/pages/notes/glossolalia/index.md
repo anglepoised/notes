@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Glossolalia
 tags: ["v1"]
 pubDate: 2003-01-28T17:00:10

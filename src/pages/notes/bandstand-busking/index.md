@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bandstand Busking
 pubDate: 2009-06-25T19:40:00+00:00
 tumblr_permalink: /post/130155754/bandstand-busking

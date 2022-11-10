@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Narrative Ponzi scheme
 pubDate: 2010-05-31T12:52:10+00:00
 tumblr_permalink: /post/649866034/in-a-way-lost-worked-liked-a-narrative-ponzi

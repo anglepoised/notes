@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Speakeasy
 tags: ["v1"]
 pubDate: 2002-06-25T23:33:59

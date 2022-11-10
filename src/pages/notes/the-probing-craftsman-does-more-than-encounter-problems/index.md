@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The probing craftsman does more than encounter problems
 pubDate: 2008-02-07T14:30:34+00:00
 tumblr_permalink: /post/25753003/in-technology-as-in-art-the-probing-craftsman

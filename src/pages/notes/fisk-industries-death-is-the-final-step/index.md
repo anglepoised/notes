@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fisk Industries – Death Is The Final Step
 pubDate: 2011-10-20T16:53:38+00:00
 tumblr_permalink: /post/11696967685/fisk-industries-death-is-the-final-step-from

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Sitting Up Straight
 tags: ["v1"]
 pubDate: 2002-06-26T18:20:06

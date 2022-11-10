@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A personal timeline of front-end web work
 tags: ["history", "web"]
 pubDate: 2013-04-16 16:06:00

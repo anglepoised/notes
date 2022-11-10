@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: I've got hips but I'm not a hipster
 tags: ["linklog"]
 pubDate: "2008-06-16T19:01:00"

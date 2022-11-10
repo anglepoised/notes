@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: London Word Festival 2008.
 pubDate: 2008-01-10T22:53:45+00:00
 tumblr_permalink: /post/23480417/london-word-festival-20-february-14-march

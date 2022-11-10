@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Highly self-indulgent
 tags: ["quote"]
 pubDate: "2007-08-21T16:55:00"

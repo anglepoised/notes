@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Syn Emergence
 pubDate: 2009-12-07T22:31:00+00:00
 tumblr_permalink: /post/273687226/syn-emergence-on-vimeo-a-beautiful-taster-of-the

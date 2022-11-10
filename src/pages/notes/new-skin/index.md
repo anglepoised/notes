@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: New Skin
 tags: ["v1"]
 pubDate: 2002-05-25T01:13:11

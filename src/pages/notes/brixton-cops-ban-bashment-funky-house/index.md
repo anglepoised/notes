@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Brixton Cops Ban Bashment & Funky House"
 pubDate: 2010-02-23T11:19:00+00:00
 tumblr_permalink: /post/406831119/brixton-cops-ban-bashment-funky-house

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Adam Buxton - The Hours
 pubDate: 2008-07-12T15:40:04+00:00
 tumblr_permalink: /post/42005253/the-hours-song-wars-exit-theme-where

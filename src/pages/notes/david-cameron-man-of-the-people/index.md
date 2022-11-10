@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: David Cameron, man of the people
 pubDate: 2010-04-24T16:07:41+00:00
 tumblr_permalink: /post/545780791/david-cameron-man-of-the-people-talking-about

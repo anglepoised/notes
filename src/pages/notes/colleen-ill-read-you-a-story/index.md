@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Colleen – I’ll Read You A Story
 pubDate: 2007-09-12T11:02:35+00:00
 tumblr_permalink: /post/11535226/colleen-ill-read-you-a-story-by-jon-nordstrom

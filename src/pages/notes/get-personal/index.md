@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Get Personal
 tags: ["v1"]
 pubDate: 2002-08-10T10:20:12

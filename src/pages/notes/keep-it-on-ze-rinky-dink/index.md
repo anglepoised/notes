@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Keep It On Ze Rinky-dink
 tags: ["v1"]
 pubDate: 2004-06-10T09:22:58

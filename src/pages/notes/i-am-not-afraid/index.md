@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: I Am Not Afraid
 tags: ["v1"]
 pubDate: 2002-09-27T20:35:48

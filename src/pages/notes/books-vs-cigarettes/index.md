@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Books vs. Cigarettes
 tags: ["v1"]
 pubDate: 2003-03-31T16:49:37

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Gamer’s Confession
 pubDate: 2008-07-06T05:34:23+00:00
 tumblr_permalink: /post/41149951/i-killed-a-man-no-too-modest-on-every-continent

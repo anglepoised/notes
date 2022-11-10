@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: What is a monome?
 pubDate: 2009-06-16T09:32:05+00:00
 tumblr_permalink: /post/124494699/welcome-to-monome-what-is-a-monome-monomes-are

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bork Bork Bork Meep Meep Meep La la La LAH!!
 pubDate: 2008-10-08T10:15:42+00:00
 tumblr_permalink: /post/53598969/bork-bork-bork-meep-meep-meep-la-la-la-lah

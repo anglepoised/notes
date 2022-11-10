@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Maximum loudness
 pubDate: 2010-01-31T07:53:05+00:00
 tumblr_permalink: /post/362850464/by-producing-music-thats-always-aiming-for

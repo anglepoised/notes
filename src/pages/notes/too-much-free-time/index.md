@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Too much free time
 pubDate: 2008-02-18T08:02:58+00:00
 tumblr_permalink: /post/26609539/every-time-you-sniff-and-say-somebody-has-too

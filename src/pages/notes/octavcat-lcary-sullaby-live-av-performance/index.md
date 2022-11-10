@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Octavcat - Lcary Sullaby, Live AV Performance, Videocrash 2 @ Koko
 pubDate: 2009-02-23T07:57:57+00:00
 tumblr_permalink: /post/80704454/octavcat-lcary-sullaby-live-av-performance

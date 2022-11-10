@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bad sex and bad TV
 tags: ["v1"]
 pubDate: 2002-03-22T05:08:23

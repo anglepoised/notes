@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Oculart
 pubDate: 2008-02-07T15:00:57+00:00
 tumblr_permalink: /post/25755107/oculart

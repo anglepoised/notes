@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fangoria 2010 - Machine
 pubDate: 2010-09-07T16:21:18+00:00
 tumblr_permalink: /post/1081666141/fangoria-2010-machine-well-done-gentlemen

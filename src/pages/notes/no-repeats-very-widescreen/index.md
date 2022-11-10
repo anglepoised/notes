@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: No repeats; very widescreen
 pubDate: 2008-01-23T19:05:54+00:00
 tumblr_permalink: /post/24476734/the-sky-is-better-than-sky-tm-no-repeats-very

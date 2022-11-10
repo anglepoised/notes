@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Chap - Even Your Friend
 pubDate: 2010-07-10T13:37:26+00:00
 tumblr_permalink: /post/793730409/the-chap-even-your-friend

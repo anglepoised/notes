@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Just sit down. And write some music.
 pubDate: 2009-03-20T17:26:41+00:00
 tumblr_permalink: /post/88234861/ive-always-said-and-ill-always-stand-by-it-no

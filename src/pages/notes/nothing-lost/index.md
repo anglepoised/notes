@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Nothing Lost
 tags: ["v1"]
 pubDate: 2002-11-16T13:37:43

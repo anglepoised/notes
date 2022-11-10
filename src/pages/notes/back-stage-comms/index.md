@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Back stage comms
 link: https://www.economist.com/international/2021/01/23/messaging-services-are-providing-a-more-private-internet
 tags: ["privacy", "society"]

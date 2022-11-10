@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Orwell Diaries
 pubDate: 2008-07-31T15:20:11+00:00
 tumblr_permalink: /post/44218884/orwell-diaries

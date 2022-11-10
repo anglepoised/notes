@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Security, passwords and whatnot
 tags: ["lastpass", "passwords", "pwgen", "security", "ssh"]
 pubDate: 2012-06-14

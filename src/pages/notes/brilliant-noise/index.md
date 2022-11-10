@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Brilliant Noise
 pubDate: 2008-09-30T14:06:00+00:00
 tumblr_permalink: /post/52440470/brilliant-noise-via-headlessness-brilliant

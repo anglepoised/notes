@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Anyone Can Play EditPlus
 tags: ["v1"]
 pubDate: 2002-09-04T12:43:34

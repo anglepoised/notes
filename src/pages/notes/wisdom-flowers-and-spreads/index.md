@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Wisdom flowers and spreads
 pubDate: 2013-03-21T14:52:28+00:00
 tumblr_permalink: /post/45914437489/never-before-have-human-beings-so-benefited-from

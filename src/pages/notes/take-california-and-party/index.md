@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Take California And Party
 tags: ["v1"]
 pubDate: 2002-07-09T23:24:48

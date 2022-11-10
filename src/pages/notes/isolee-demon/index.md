@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Isolée – Démon
 pubDate: 2013-04-17T15:54:00+00:00
 tumblr_permalink: /post/48203964679/isol%C3%A9e-d%C3%A9mon

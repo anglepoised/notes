@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hulk smash
 pubDate: 2008-06-16T13:30:00+00:00
 tumblr_permalink: /post/38612761/hulk-smash-yes-hulk-smash-yes-smash-big

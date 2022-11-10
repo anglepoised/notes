@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Go Go Mobile
 tags: ["v1"]
 pubDate: 2002-04-26T01:10:17

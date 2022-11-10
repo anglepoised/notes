@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: batshit.muxtape.com
 pubDate: 2008-06-03T12:02:35+00:00
 tumblr_permalink: /post/37004952/batshitmuxtapecom

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Huoratron - $$ Troopers
 pubDate: 2008-03-27T16:37:00+00:00
 tumblr_permalink: /post/29995887/huoratron-troopers-like-someones-mashed

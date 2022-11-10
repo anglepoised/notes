@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Trent Reznor and Saul Williams Discuss Their New Collaboration, Mourn OiNK
 pubDate: 2007-10-31T12:49:02+00:00
 tumblr_permalink: /post/17967135/i-remember-a-time-when-it-felt-like-being-on-a

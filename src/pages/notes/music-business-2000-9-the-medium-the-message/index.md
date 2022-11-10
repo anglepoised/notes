@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Music Business 2000-9: The Medium, the Message"
 pubDate: 2010-07-24T07:00:13+00:00
 tumblr_permalink: /post/853006289/recorded-music-in-the-noughties-went-from-being-a

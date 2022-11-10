@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Have You Really Thought About Utopia?
 tags: ["v1"]
 pubDate: 2003-06-07T22:35:09

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Phonographantasmascope
 pubDate: 2008-06-22T19:46:47+00:00
 tumblr_permalink: /post/39421241/phonographantasmascope-it-is-all-live-action

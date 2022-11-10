@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hecatomb
 tags: ["v1"]
 pubDate: 2002-07-11T21:17:27

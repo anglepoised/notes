@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gulls wheel through spokes of sunlight
 pubDate: 2012-10-01T13:56:38+00:00
 tumblr_permalink: /post/32667313336/gulls-wheel-through-spokes-of-sunlight-over

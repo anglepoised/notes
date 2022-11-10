@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Newsnight report about The Foundry
 pubDate: 2010-02-15T22:15:53+00:00
 tumblr_permalink: /post/391488255/newsnight-report-about-the-foundry

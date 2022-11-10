@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Venetian Snares Spaz Out
 pubDate: 2008-02-06T18:42:20+00:00
 tumblr_permalink: /post/25680816/inky-venetian-snares-spaz-out-dance-dance

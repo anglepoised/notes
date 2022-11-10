@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Slice Of Cheese
 tags: ["v1"]
 pubDate: 2002-06-26T20:17:47

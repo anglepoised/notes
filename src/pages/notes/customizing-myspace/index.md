@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Customizing Myspace
 pubDate: 2008-03-13T18:12:00+00:00
 tumblr_permalink: /post/28770013/customizing-myspace

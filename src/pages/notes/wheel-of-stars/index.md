@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Wheel of Stars
 pubDate: 2009-10-07T13:58:00+00:00
 tumblr_permalink: /post/206707616/wheel-of-stars

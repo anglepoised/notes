@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Facebook is looking for a mentor
 pubDate: 2011-02-17T12:50:01+00:00
 tumblr_permalink: /post/3343892703/i-think-facebook-is-looking-for-a-mentor-they-are

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gonzales - Let's Groove Again
 tags: ["music"]
 pubDate: "2013-11-26T17:11:00"

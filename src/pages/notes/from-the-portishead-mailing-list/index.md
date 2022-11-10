@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: From the Portishead mailing list
 tags: ["v1"]
 pubDate: 2002-03-09T20:14:50

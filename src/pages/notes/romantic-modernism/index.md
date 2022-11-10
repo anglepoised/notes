@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Romantic Modernism
 pubDate: 2010-10-01T11:49:17+00:00
 tumblr_permalink: /post/1221405342/whereas-high-modernism-wanted-to-lay-waste-to-the

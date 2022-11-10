@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Recorded music equals whale blubber
 pubDate: 2010-01-24T11:59:27+00:00
 tumblr_permalink: /post/350658883/i-think-records-were-just-a-little-bubble-through

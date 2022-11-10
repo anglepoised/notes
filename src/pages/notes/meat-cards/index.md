@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: MEAT CARDS
 pubDate: 2009-04-24T18:19:45+00:00
 tumblr_permalink: /post/99732005/meat-cards

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Internet Archive Wayback Machine – Web Pioneers
 pubDate: 2007-11-02T09:35:51+00:00
 tumblr_permalink: /post/18139505/internet-archive-wayback-machine-web-pioneers

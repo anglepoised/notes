@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Iain M Banks' Universe
 pubDate: 2013-06-15T08:32:28+00:00
 tumblr_permalink: /post/53012037881/the-culture-itself-represents-an-elegant

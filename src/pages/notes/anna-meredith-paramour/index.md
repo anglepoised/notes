@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Anna Meredith - Paramour
 tags: ["music", "video"]
 pubDate: 2019-08-28T19:21:45.263Z

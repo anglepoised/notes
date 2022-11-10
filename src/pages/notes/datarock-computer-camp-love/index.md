@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Datarock - Computer Camp Love
 pubDate: 2008-02-07T11:23:00+00:00
 tumblr_permalink: /post/25740494/datarock-computer-camp-love

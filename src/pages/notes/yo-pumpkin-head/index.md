@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Yo Pumpkin Head
 tags: ["v1"]
 pubDate: 2002-08-07T21:57:47

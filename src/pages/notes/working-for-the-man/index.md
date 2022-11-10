@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Working for the Man"
 pubDate: 2009-12-03T08:00:00+00:00
 tumblr_permalink: /post/267442835/steven-poole-working-for-the-man

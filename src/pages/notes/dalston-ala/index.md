@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dalston. Ala
 pubDate: 2010-05-14T16:25:00+00:00
 tumblr_permalink: /post/598435824/dalston-ala-from-the-village-orchestras-amid

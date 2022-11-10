@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How Facebook Exposed Us All as Freaks
 pubDate: 2008-02-01T08:48:23+00:00
 tumblr_permalink: /post/25228734/the-damage-is-done-beacon-and-tracking-regimes

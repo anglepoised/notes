@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Web Development History
 link: https://webdevelopmenthistory.com/
 tags: ["web", "history"]

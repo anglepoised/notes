@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Wevie de Crepon (aka Wevie Stonder) – Ton Wah
 pubDate: 2008-06-17T20:41:34+00:00
 tumblr_permalink: /post/38798279/wevie-de-crepon-aka-wevie-stonder-ton-wah

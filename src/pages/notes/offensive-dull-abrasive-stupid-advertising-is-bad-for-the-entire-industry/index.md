@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Offensive, dull, abrasive, stupid advertising is bad for the entire industry
 pubDate: 2008-03-16T20:03:32+00:00
 tumblr_permalink: /post/29021852/im-appalled-by-those-who-judge-advertising

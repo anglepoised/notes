@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Eat food. Not too much. Mostly plants.
 pubDate: 2008-01-06T11:08:00+00:00
 tumblr_permalink: /post/23109758/eat-food-not-too-much-mostly-plants-thats-it

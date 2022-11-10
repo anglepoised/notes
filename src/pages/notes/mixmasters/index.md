@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mixmasters
 tags: ["v1"]
 pubDate: 2002-04-03T15:54:44

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lo and Behold
 tags: ["v1"]
 pubDate: 2002-03-09T20:44:31

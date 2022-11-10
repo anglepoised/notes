@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: GhostBastards
 tags: ["v1"]
 pubDate: 2003-01-29T01:43:09

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cornelius - Fit Song
 tags: ["music"]
 pubDate: "2007-06-23T10:46:00"

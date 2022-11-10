@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cheese Kit Diptych
 tags: ["linklog", "music"]
 pubDate: "2008-04-26T10:14:00"

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The wind of nothingness blasts
 pubDate: 2007-10-29T17:52:17+00:00
 tumblr_permalink: /post/17686184/unlike-cages-piece-4-33-the-moleskine-doesnt

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Handheld twit machines
 pubDate: 2011-01-19T18:12:47+00:00
 tumblr_permalink: /post/2828674499/the-idiots-are-self-regarding-consumer-slaves

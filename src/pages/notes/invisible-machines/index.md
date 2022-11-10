@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Invisible machines
 tags: ["quote"]
 pubDate: 2016-02-16 19:39:45

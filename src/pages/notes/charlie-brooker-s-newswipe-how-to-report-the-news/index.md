@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Charlie Brooker's Newswipe - How to Report the News
 pubDate: 2010-03-12T18:17:00+00:00
 tumblr_permalink: /post/443678038/charlie-brookers-newswipe-it-starts-here-with

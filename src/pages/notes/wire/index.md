@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Wire
 tags: ["image", "photo"]
 pubDate: 2007-05-29T21:35:00

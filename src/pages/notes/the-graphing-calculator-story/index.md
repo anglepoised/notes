@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Graphing Calculator Story
 pubDate: 2010-08-09T10:43:41+00:00
 tumblr_permalink: /post/926592522/it-is-a-cliche-in-our-business-that-the-first-90

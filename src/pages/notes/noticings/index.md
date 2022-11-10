@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Noticings
 tags: ["quote"]
 pubDate: 2014-03-11 05:46:39

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The forces of mediocrity
 pubDate: 2008-03-05T17:18:04+00:00
 tumblr_permalink: /post/28032167/remarkable-visions-and-genuine-insight-are-always

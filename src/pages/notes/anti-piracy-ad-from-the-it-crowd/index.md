@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Anti-Piracy Ad from The IT Crowd
 pubDate: 2007-09-20T14:29:19+00:00
 tumblr_permalink: /post/12488477/anti-piracy-ad-from-the-it-crowd-rather

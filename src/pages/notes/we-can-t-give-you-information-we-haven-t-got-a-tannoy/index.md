@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: We can't give you information. We haven't got a Tannoy
 pubDate: 2008-03-31T19:54:06+00:00
 tumblr_permalink: /post/30388210/i-have-arrived-at-that-very-fine-line-when-i

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Chap - We work in bars
 pubDate: 2010-08-05T05:58:17+00:00
 tumblr_permalink: /post/906448911/the-chap-we-work-in-bars

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Wario Land: Shake It!"
 pubDate: 2008-09-23T14:11:41+00:00
 tumblr_permalink: /post/51393950/wario-land-shake-it-this-is-much-better-if-you

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Beatport’s Definitive History of Techno
 link: https://www.beatportal.com/features/beatports-definitive-guide-to-techno/
 tags: ["music", "techno"]

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Month 106
 tags: ["monthnotes"]
 pubDate: "2010-11-02T14:43:00"

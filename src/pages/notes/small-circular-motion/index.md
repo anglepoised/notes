@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Small Circular Motion
 tags: ["v1"]
 pubDate: 2002-05-30T13:09:29

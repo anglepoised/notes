@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Villalobos - A Film By Romuald Karmakar
 pubDate: 2009-08-27T16:13:06+00:00
 tumblr_permalink: /post/173063504/villalobos-trailer-film-by-romuald-karmakar-on

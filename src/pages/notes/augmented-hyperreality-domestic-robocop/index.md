@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Augmented (hyper)Reality - Domestic Robocop
 pubDate: 2010-04-21T08:47:06+00:00
 tumblr_permalink: /post/537865336/augmented-hyperreality-domestic-robocop-cup

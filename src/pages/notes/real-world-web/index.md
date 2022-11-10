@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Real World Web
 pubDate: 2010-04-24T16:11:50+00:00
 tumblr_permalink: /post/545788511/suddenly-struck-by-the-phrase-real-world-web-as

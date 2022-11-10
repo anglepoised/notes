@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: what you loved when you were nine or ten
 pubDate: 2010-03-25T10:42:44+00:00
 tumblr_permalink: /post/472284829/ive-found-that-your-chances-for-happiness-are

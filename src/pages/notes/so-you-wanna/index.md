@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: So You Wanna
 tags: ["v1"]
 pubDate: 2002-04-08T12:24:27

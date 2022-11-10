@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Computers offer a faster way to cure humanity’s ills
 pubDate: 2009-12-24T06:40:00+00:00
 tumblr_permalink: /post/298089723/computers-offer-a-faster-way-to-cure-humanitys

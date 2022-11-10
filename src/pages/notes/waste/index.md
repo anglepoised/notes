@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Waste
 tags: ["quotes"]
 pubDate: 2014-03-08 10:12:54

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Weird Fishes: Arpeggi by Flight404"
 pubDate: 2008-05-06T06:39:16+00:00
 tumblr_permalink: /post/33862523/weird-fishes-arpeggi-by-flight404-via-crackunit

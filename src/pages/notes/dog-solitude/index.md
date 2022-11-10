@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dog Solitude
 tags: ["v1"]
 pubDate: 2003-03-31T16:15:35

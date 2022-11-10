@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: London Design Festival 2007
 pubDate: 2007-09-11T05:41:20+00:00
 tumblr_permalink: /post/11388008/london-design-festival-2007

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gone 11
 tags: ["v1"]
 pubDate: 2002-05-25T00:36:00

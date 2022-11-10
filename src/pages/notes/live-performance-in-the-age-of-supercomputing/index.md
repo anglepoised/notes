@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Live Performance in the Age of Supercomputing
 pubDate: 2010-01-24T12:42:29+00:00
 tumblr_permalink: /post/350698375/there-is-an-interesting-difference-between-the

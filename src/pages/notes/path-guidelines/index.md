@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Path Guidelines
 pubDate: 2012-04-04 09:00:00
 tags: ["indieweb", "path", "social"]

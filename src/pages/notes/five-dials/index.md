@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Five Dials
 pubDate: 2008-06-24T05:20:21+00:00
 tumblr_permalink: /post/39603086/five-dials

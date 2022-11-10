@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: London Pirate Radio Adverts 1984​-​1993, Vol. 1
 link: https://deathisnot.bandcamp.com/album/london-pirate-radio-adverts-1984-1993-vol-1
 tags: ["audio", "advertising"]

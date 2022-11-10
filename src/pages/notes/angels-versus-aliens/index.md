@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Angels Versus Aliens
 tags: ["v1"]
 pubDate: 2002-04-21T23:21:54

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Flight of the Conchords - Hiphopopotamus vs. Rhymenoceros
 tags: ["linklog", "music"]
 pubDate: "2007-08-21T22:30:00"

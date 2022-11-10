@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Haiku Tennis Anthology
 pubDate: 2008-01-03T17:41:57+00:00
 tumblr_permalink: /post/22921069/a-teacup-of-teeth-of-different-hues-and-sizes

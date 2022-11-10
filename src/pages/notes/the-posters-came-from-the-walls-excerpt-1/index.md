@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "'The Posters Came from the Walls' excerpt 1"
 pubDate: 2009-11-19T22:21:05+00:00
 tumblr_permalink: /post/250047638/the-posters-came-from-the-walls-excerpt-1

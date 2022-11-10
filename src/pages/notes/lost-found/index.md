@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lost + Found
 tags: ["v1"]
 pubDate: 2002-06-14T23:38:19

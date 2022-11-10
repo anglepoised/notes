@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Let’s hope you’re wrong
 pubDate: 2012-10-12T09:19:22+00:00
 tumblr_permalink: /post/33421381717/msv-pressure-drop-lets-hope-youre-wrong-lou

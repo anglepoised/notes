@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Basking in Reflected Glory
 pubDate: 2009-04-02T10:36:00+00:00
 tumblr_permalink: /post/92204386/if-you-are-a-sexy-cool-charismatic-brand-you

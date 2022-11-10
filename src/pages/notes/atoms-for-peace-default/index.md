@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Atoms For Peace - Default
 pubDate: 2012-10-15T07:05:52+00:00
 tumblr_permalink: /post/33629700821/atoms-for-peace-default

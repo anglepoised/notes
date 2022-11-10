@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Neurosonics Audiomedical Labs Inc.
 pubDate: 2009-09-07T05:21:57+00:00
 tumblr_permalink: /post/181728741/neurosonics-audiomedical-labs-inc

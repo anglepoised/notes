@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Leaves and small twigs in constant motion
 pubDate: 2010-08-23T16:46:54+00:00
 tumblr_permalink: /post/998699612/leaves-and-small-twigs-in-constant-motion-wind

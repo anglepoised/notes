@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Big Red Robot
 tags: ["v1"]
 pubDate: 2002-07-03T12:12:24

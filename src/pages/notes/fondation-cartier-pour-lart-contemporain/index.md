@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fondation Cartier pour l’art contemporain
 pubDate: 2009-07-28T22:07:21+00:00
 tumblr_permalink: /post/151121250/fondation-cartier-pour-lart-contemporain

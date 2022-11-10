@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Apollo 11 in Real Time
 tags: ["linklog", "space"]
 pubDate: 2019-07-18T10:26:07.380Z

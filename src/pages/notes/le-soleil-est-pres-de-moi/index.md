@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Le Soleil Est Pres De Moi
 tags: ["v1"]
 pubDate: 2002-04-08T11:44:36

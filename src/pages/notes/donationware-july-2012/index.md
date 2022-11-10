@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Donationware July 2012
 tags: ["donationware", "xenu"]
 pubDate: 2012-08-06

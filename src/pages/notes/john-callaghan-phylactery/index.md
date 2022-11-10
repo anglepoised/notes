@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: John Callaghan - Phylactery
 pubDate: 2012-07-14T18:09:56+00:00
 tumblr_permalink: /post/27204171929/john-callaghan-phylactery

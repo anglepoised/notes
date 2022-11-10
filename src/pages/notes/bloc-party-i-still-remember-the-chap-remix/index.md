@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bloc Party – I Still Remember (The Chap remix)
 pubDate: 2013-06-20T19:31:22+00:00
 tumblr_permalink: /post/53457631447/bloc-party-i-still-remember-the-chap-remix

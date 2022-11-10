@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Barack Obama And The Death Of Normal
 pubDate: 2012-11-08T09:13:01+00:00
 tumblr_permalink: /post/35263272362/america-is-different-now-more-so-with-every

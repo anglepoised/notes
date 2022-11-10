@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: These Demented Lands
 tags: ["v1"]
 pubDate: 2003-05-03T19:19:16

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Butterick’s Practical Typography 2nd edition
 link: https://practicaltypography.com/
 tags: ["web", "typography"]

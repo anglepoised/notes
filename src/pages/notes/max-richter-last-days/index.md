@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Max Richter – Last Days
 pubDate: 2011-12-13T19:48:03+00:00
 tumblr_permalink: /post/14175997536/max-richter-last-days

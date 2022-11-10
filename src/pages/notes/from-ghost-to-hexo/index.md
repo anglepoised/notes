@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: From Ghost to Hexo
 tags: ["blogging", "ghost", "hexo", "tools"]
 pubDate: 2015-09-24 20:57:44

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: CASH Music
 pubDate: 2007-11-29T13:41:35+00:00
 tumblr_permalink: /post/20463867/we-specialize-we-offer-an-organic-product-it-is

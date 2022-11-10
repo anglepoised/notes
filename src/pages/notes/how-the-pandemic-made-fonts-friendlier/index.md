@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How the pandemic made fonts friendlier
 link: https://www.economist.com/1843/2021/05/07/how-the-pandemic-made-fonts-friendlier
 tags: ["brands", "covid-19", "fonts", "typography"]

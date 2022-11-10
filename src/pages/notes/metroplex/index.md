@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Metroplex
 tags: ["v1"]
 pubDate: 2003-05-03T00:24:29

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bahamut
 tags: ["v1"]
 pubDate: 2003-04-21T18:27:51

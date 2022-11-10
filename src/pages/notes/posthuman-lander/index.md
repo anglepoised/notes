@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Posthuman – Lander
 pubDate: 2009-10-12T05:54:22+00:00
 tumblr_permalink: /post/210801564/posthuman-lander

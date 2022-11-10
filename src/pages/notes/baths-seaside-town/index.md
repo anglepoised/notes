@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Baths - Seaside Town
 pubDate: 2012-02-16T11:33:50+00:00
 tumblr_permalink: /post/17707421676/seaside-town-baths

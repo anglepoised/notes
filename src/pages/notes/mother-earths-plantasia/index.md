@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mother Earth’s Plantasia
 link: https://pitchfork.com/reviews/albums/mort-garson-mother-earths-plantasia/
 tags: ["music"]

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Eines Morgens im November
 tags: ["v1"]
 pubDate: 2003-06-01T20:01:09

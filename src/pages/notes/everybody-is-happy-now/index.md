@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Everybody is happy now
 pubDate: 2007-11-19T13:30:04+00:00
 tumblr_permalink: /post/19756677/everybody-is-happy-now-guardian-unlimited

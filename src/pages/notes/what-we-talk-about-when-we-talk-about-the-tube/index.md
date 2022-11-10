@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: What We Talk about When We Talk about the Tube
 pubDate: 2013-03-04T09:35:41+00:00
 tumblr_permalink: /post/44532929472/londoners-treat-the-underground-not-as-a-stage

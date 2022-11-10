@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Accomplishment is unreliable
 pubDate: 2013-08-08T13:40:21+00:00
 tumblr_permalink: /post/57701429705/accomplishment-is-unreliable-succeeding

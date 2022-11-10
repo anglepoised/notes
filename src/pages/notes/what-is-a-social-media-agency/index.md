@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: What Is a Social-Media Agency?
 pubDate: 2009-01-24T11:36:51+00:00
 tumblr_permalink: /post/72778797/made-by-many-blog-archive-what-is-a

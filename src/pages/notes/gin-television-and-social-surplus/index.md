@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gin, Television, and Social Surplus
 pubDate: 2008-04-28T23:30:09+00:00
 tumblr_permalink: /post/33156299/its-better-to-do-something-than-to-do-nothing

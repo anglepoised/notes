@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: An achronological compendium of brand and brand-adjacent pieces
 link: http://www.benschott.com/brands.html
 tags: ["advertising", "branding"]

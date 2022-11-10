@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: SEO is using deodorant instead of washing
 pubDate: 2008-10-16T14:12:59+00:00
 tumblr_permalink: /post/54853599/seo-is-using-deodorant-instead-of-washing-seo-is

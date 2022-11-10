@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tom and Paul
 tags: ["image", "photo"]
 pubDate: 2007-05-27 11:32:00

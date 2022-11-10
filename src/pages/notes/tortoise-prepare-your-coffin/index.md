@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tortoise – Prepare Your Coffin
 pubDate: 2009-09-17T13:28:47+00:00
 tumblr_permalink: /post/190192391/tortoise-prepare-your-coffin

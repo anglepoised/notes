@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Small Giants
 pubDate: 2008-06-24T16:45:00+00:00
 tumblr_permalink: /post/39669433/its-a-widely-accepted-axiom-of-business-that

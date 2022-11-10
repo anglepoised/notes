@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Future Tiger
 tags: ["v1"]
 pubDate: 2002-09-28T11:43:30

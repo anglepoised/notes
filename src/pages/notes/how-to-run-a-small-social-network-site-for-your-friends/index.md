@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How to run a small social network site for your friends
 tags: ["fediverse", "linklog"]
 pubDate: "2019-07-16T08:13:16.898Z"

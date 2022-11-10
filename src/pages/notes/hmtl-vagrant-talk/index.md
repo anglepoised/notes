@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: HMTL Vagrant talk
 tags: ["talks", "tools", "vagrant"]
 pubDate: 2014-07-07 15:09:55

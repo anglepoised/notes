@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: UNCHAU
 tags: ["v1"]
 pubDate: 2002-05-23T12:42:39

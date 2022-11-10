@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Thought and Design
 tags: ["quote"]
 pubDate: 2014-02-21 07:27:00

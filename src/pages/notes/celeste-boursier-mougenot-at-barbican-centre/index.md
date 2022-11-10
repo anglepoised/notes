@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Céleste Boursier-Mougenot at Barbican Centre
 pubDate: 2010-03-05T11:34:18+00:00
 tumblr_permalink: /post/428127949/c%C3%A9leste-boursier-mougenot-at-barbican-centre

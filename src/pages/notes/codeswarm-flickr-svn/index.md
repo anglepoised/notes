@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: code_swarm - Flickr SVN
 pubDate: 2008-06-26T06:49:00+00:00
 tumblr_permalink: /post/39884919/codeswarm-flickr-svn-a-visualization-of

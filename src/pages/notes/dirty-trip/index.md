@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dirty Trip
 tags: ["v1"]
 pubDate: 2002-06-24T23:06:02

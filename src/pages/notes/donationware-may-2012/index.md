@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Donationware May 2012
 tags: ["donationware", "iterm"]
 pubDate: 2012-06-01

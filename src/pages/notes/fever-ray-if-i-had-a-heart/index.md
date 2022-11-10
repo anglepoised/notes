@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fever Ray – If I Had A Heart
 pubDate: 2012-12-22T13:39:08+00:00
 tumblr_permalink: /post/38541095029/fever-ray-if-i-had-a-heart

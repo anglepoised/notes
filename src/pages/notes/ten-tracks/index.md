@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ten Tracks
 pubDate: 2009-02-12T17:18:17+00:00
 tumblr_permalink: /post/77784369/quality-music-at-a-low-price-and-fair-pay-for

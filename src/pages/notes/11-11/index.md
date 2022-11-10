@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "11 : 11"
 tags: ["v1"]
 pubDate: 2003-01-20T15:57:26

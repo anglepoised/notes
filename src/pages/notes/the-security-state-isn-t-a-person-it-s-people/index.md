@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The security state isn’t a person, it’s people
 pubDate: 2013-08-25T11:22:15+00:00
 tumblr_permalink: /post/59290352389/the-security-state-isnt-a-person-its-people

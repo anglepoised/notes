@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: DJ D4V3PH3X - I’m A Producer
 pubDate: 2010-02-17T11:45:31+00:00
 tumblr_permalink: /post/394561662/im-a-producer-dj-d4v3ph3x

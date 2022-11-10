@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The deification of youth and stupidity
 pubDate: 2009-08-23T07:55:20+00:00
 tumblr_permalink: /post/169530967/craig-ferguson-on-the-deification-of-youth-and

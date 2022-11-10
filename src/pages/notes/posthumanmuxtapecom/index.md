@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: posthuman.muxtape.com
 pubDate: 2008-04-09T15:25:00+00:00
 tumblr_permalink: /post/31255303/posthumanmuxtapecom

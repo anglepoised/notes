@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mental Hangover
 tags: ["v1"]
 pubDate: 2003-01-15T18:16:04

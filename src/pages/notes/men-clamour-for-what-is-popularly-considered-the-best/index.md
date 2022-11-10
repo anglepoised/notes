@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Men clamour for what is popularly considered the best
 pubDate: 2012-10-15T07:10:45+00:00
 tumblr_permalink: /post/33629828958/it-is-much-to-be-regretted-that-so-much-of-the

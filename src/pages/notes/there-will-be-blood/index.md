@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: There will be blood
 pubDate: 2008-03-23T10:55:37+00:00
 tumblr_permalink: /post/29616275/the-credit-crunch-is-deadly-serious-but-it-will

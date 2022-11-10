@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: 42BELOW London Adland
 pubDate: 2009-04-21T11:33:00+00:00
 tumblr_permalink: /post/98482591/42below-london-adland-uncannily-accurate

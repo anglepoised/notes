@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mix Tape
 pubDate: 2008-07-30T11:50:07+00:00
 tumblr_permalink: /post/44062895/mix-tapes-mark-the-moment-of-consumer-culture-in

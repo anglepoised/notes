@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Attention Scum!
 tags: ["video"]
 pubDate: "2007-07-10T16:19:00"

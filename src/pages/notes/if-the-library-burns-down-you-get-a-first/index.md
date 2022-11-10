@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: If the library burns down, you get a first
 tags: ["v1"]
 pubDate: 2004-07-20T10:57:06

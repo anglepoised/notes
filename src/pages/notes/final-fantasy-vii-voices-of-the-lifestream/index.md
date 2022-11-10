@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Final Fantasy VII: Voices of the Lifestream"
 pubDate: 2007-09-14T16:18:53+00:00
 tumblr_permalink: /post/11818338/home-final-fantasy-vii-voices-of-the

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Real-world smeariness
 pubDate: 2009-05-21T19:29:09+00:00
 tumblr_permalink: /post/111097848/we-wont-need-to-spend-all-our-time-pounding-keys

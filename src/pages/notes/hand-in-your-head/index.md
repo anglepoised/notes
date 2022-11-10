@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hand In Your Head
 tags: ["v1"]
 pubDate: 2002-05-13T10:59:49

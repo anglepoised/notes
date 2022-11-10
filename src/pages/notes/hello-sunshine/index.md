@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hello Sunshine
 tags: ["v1"]
 pubDate: 2003-11-04T00:44:34

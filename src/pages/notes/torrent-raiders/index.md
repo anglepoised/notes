@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Torrent Raiders
 pubDate: 2007-11-05T12:00:41+00:00
 tumblr_permalink: /post/18408626/torrent-raiders-is-a-dynamic-network

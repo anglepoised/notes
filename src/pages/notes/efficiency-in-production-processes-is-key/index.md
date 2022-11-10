@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Efficiency in production processes is key
 pubDate: 2013-06-07T11:52:06+00:00
 tumblr_permalink: /post/52373941043/i-think-efficiency-in-production-processes-is-key

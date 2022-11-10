@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Siftables
 pubDate: 2009-02-14T09:36:00+00:00
 tumblr_permalink: /post/78241090/ted-siftables-the-toy-blocks-that-think

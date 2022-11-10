@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: John Callaghan - Loudhailer
 pubDate: 2009-10-26T10:47:39+00:00
 tumblr_permalink: /post/223713760/john-callaghan-loudhailer-recorded-as-part-of

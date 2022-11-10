@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: I pinch
 tags: ["video"]
 pubDate: 2007-05-27 11:19:00

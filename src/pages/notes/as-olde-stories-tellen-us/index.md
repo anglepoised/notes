@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: As olde stories tellen us
 tags: ["v1"]
 pubDate: 2002-03-14T00:48:46

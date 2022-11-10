@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Broadcast Yourself
 pubDate: 2010-03-19T18:48:52+00:00
 tumblr_permalink: /post/459270483/for-years-viacom-continuously-and-secretly

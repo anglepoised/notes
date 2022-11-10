@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Manhole covers
 tags: ["japan", "linklog"]
 pubDate: 2019-08-14T14:52:08.209Z

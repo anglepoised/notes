@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Codeship and curly bracket expansion
 tags: ["bash", "ci", "codeship", "dash", "shell", "testing", "ubuntu"]
 pubDate: 2016-02-16 09:05:13

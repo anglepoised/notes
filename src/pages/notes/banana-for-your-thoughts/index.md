@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Banana for your thoughts
 pubDate: 2007-05-27 11:33:00
 ---

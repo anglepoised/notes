@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Surf’s Up
 tags: ["v1"]
 pubDate: 2002-05-13T17:34:25

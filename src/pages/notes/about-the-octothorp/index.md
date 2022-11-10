@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: About the Octothorp
 pubDate: 2007-10-14T16:21:58+00:00
 tumblr_permalink: /post/15534677/you-probably-know-this-glyph-by-one-of-its-other

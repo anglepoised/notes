@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: In Cyberspace everyone can hear you scream
 tags: ["linklog", "williamgibson"]
 pubDate: "2007-07-11T20:02:00"

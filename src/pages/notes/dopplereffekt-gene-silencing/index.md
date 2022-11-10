@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dopplereffekt - Gene Silencing
 tags: ["music"]
 pubDate: "2014-02-26T01:17:00"

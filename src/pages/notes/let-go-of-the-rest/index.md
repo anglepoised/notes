@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Let go of the rest
 pubDate: 2008-08-14T17:10:18+00:00
 tumblr_permalink: /post/45968545/if-youve-got-a-list-of-20-things-you-should-be

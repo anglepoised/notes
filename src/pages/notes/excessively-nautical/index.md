@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Excessively Nautical
 tags: ["v1"]
 pubDate: 2003-01-11T05:43:21

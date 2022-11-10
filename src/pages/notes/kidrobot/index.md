@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kidrobot
 tags: ["v1"]
 pubDate: 2002-04-03T13:50:59

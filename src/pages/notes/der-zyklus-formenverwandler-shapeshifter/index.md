@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Der Zyklus - Formenverwandler (Shapeshifter)
 pubDate: 2011-11-23T22:48:47+00:00
 tumblr_permalink: /post/13223826636/der-zyklus-formenverwandler-shapeshifter

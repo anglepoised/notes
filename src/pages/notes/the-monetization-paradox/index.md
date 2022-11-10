@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The monetization paradox (or why Google is not my friend)
 pubDate: 2010-01-24T12:35:23+00:00
 tumblr_permalink: /post/350691919/heres-a-hint-if-i-wanted-to-spend-my-time

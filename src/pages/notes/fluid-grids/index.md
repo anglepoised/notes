@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fluid Grids
 pubDate: 2009-03-11T16:30:05+00:00
 tumblr_permalink: /post/85565051/instead-of-exploring-the-benefits-of-flexible-web

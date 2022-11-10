@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Top Cat – it's indefensible
 pubDate: 2012-06-01T08:10:17+00:00
 tumblr_permalink: /post/24185731986/top-cat-do-you-remember-it-top-cat-well

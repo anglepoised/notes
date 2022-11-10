@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "betterthan: Sublime Text"
 tags: ["betterthan", "sublimetext"]
 pubDate: 2012-04-16

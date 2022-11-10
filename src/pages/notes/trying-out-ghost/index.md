@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Trying out Ghost
 tags: ["blogging", "ghost", "tools", "tumblr"]
 pubDate: 2014-03-25 10:32:20

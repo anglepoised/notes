@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The freedom to learn from experience
 pubDate: 2013-04-29T08:45:26+00:00
 tumblr_permalink: /post/49167715257/the-measure-of-mental-health-is-flexibility-not

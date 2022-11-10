@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Free your mind
 pubDate: 2008-04-18T20:09:00+00:00
 tumblr_permalink: /post/32180675/if-the-breathless-advocates-of-the-free

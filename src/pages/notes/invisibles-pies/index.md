@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Invisibles Pies
 tags: ["v1"]
 pubDate: 2002-08-02T20:07:20

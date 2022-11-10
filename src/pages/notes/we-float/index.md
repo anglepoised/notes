@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: We Float
 tags: ["v1"]
 pubDate: 2003-11-04T02:05:32

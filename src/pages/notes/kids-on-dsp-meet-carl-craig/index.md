@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kids on DSP meet Carl Craig
 pubDate: 2009-08-20T19:42:38+00:00
 tumblr_permalink: /post/167538034/kids-on-dsp-meet-carl-craig-so-youre-not-just

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Reboot
 tags: ["meta"]
 pubDate: 2007-08-27 10:59:00

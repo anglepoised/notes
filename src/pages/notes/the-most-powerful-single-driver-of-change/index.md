@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The most powerful single driver of change
 pubDate: 2010-11-30T16:13:20+00:00
 tumblr_permalink: /post/1987053113/emergent-technology-is-the-most-powerful-single

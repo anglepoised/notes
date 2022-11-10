@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Pachube.com: augmented reality demo"
 pubDate: 2009-10-06T20:05:07+00:00
 tumblr_permalink: /post/206078236/pachubecom-augmented-reality-demo-this-is-a

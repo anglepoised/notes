@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kind Of Disco Sound
 tags: ["v1"]
 pubDate: 2002-06-24T23:31:49

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Rondò Veneziano - La Serenissima
 pubDate: 2010-12-07T14:06:00+00:00
 tumblr_permalink: /post/2132538964/rondo-veneziano-la-serenissima-without-the

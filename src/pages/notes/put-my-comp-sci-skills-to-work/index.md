@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Put My Comp-Sci Skills To Work
 tags: ["v1"]
 pubDate: 2002-09-26T15:51:34

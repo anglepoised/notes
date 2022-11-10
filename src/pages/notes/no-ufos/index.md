@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: No UFO’s
 tags: ["v1"]
 pubDate: 2004-06-10T09:37:43

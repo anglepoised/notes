@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Believe In Your Stealth
 tags: ["v1"]
 pubDate: 2002-07-02T18:43:53

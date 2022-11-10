@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Xenoblade Chronicles - Gaur Plain
 pubDate: 2011-11-01T15:57:36+00:00
 tumblr_permalink: /post/12198918955/xenoblade-chronicles-gaur-plain

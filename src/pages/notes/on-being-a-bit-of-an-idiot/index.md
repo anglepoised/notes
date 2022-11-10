@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: On being a bit of an idiot
 pubDate: 2008-08-20T09:46:05+00:00
 tumblr_permalink: /post/46668446/if-you-can-identify-what-are-the-valid-criticisms

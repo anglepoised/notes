@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The costs of publishing an ebook are not zero
 pubDate: 2010-02-05T12:24:31+00:00
 tumblr_permalink: /post/372247822/the-costs-of-publishing-an-ebook-are-not-zero

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Infrastructural investment
 tags: ["linklog"]
 pubDate: "2014-02-16T08:12:00"

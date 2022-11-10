@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Never Dug Disco
 tags: ["v1"]
 pubDate: 2002-11-16T19:55:25

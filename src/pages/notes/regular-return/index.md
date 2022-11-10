@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Regular Return
 tags: ["v1"]
 pubDate: 2002-04-29T11:31:08

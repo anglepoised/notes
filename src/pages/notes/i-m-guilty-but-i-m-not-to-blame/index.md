@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: I’m guilty, but I’m not to blame
 pubDate: 2008-05-12T13:08:14+00:00
 tumblr_permalink: /post/34535559/misdoing-anything-opens-up-a-breach-in-ethics-that

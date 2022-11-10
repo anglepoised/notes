@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: No more Seattles and no more Haight-Ashburys
 pubDate: 2011-11-15T18:37:32+00:00
 tumblr_permalink: /post/12842714285/there-are-no-backwaters-where-things-can-breedour

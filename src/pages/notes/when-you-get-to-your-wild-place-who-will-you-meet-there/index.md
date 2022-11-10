@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: When you get to your wild place, who will you meet there?
 pubDate: 2012-09-19T16:43:00+00:00
 tumblr_permalink: /post/31865148154/there-is-an-undertow-to-our-yearning-for

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The slow flow of corporate will
 pubDate: 2013-07-25T08:48:00+00:00
 tumblr_permalink: /post/56412447745/the-slow-flow-of-corporate-will-carried-me-through

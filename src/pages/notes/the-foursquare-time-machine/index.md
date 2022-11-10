@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Foursquare Time Machine
 pubDate: 2013-06-14T09:11:00+00:00
 tumblr_permalink: /post/52936477060/now-you-can-relive-the-thrill-of-the-time-you-went

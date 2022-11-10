@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Vagrant shell provisioning and usernames
 tags: ["bash", "tools", "vagrant"]
 pubDate: 2013-05-14 09:57:00

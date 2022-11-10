@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Embrace and extend
 tags: ["v1"]
 pubDate: 2002-03-14T12:50:54

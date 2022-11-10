@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Posthuman Discography 1999-2007
 pubDate: 2008-06-20T13:20:00+00:00
 tumblr_permalink: /post/39155633/uk-electronicaidmpost-rock-group-posthuman-have

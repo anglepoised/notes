@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Meetings Are a Matter of Precious Time
 pubDate: 2009-01-24T11:36:00+00:00
 tumblr_permalink: /post/72778799/preoccupations-meetings-are-a-matter-of-precious

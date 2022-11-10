@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Iain Banks: the final interview"
 pubDate: 2013-06-18T08:30:53+00:00
 tumblr_permalink: /post/53265288245/i-can-understand-that-people-want-to-feel-special

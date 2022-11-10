@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Apologist
 tags: ["v1"]
 pubDate: 2002-05-26T22:29:09

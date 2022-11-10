@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Book Seer
 pubDate: 2009-06-09T20:57:23+00:00
 tumblr_permalink: /post/120746742/the-book-seer

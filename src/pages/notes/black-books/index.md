@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Black Books
 tags: ["v1"]
 pubDate: 2002-04-13T23:42:31

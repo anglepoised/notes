@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ukkonen - Viva Las Huelgas
 tags: ["music"]
 pubDate: "2013-10-12T07:03:00"

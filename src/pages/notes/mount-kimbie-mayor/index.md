@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mount Kimbie - Mayor
 pubDate: 2011-10-21T15:47:31+00:00
 tumblr_permalink: /post/11734482260/mount-kimbie-mayor

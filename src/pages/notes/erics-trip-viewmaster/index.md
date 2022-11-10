@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Eric’s Trip - ViewMaster
 pubDate: 2008-07-09T20:57:17+00:00
 tumblr_permalink: /post/41657903/woopwoop-erics-trip-viewmaster-as-erics

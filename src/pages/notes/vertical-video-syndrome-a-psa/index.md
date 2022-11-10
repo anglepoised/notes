@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Vertical Video Syndrome – A PSA
 pubDate: 2012-12-25T13:47:00+00:00
 tumblr_permalink: /post/38789394068/vertical-video-syndrome-a-psa

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Capitulation
 tags: ["v1"]
 pubDate: 2002-05-02T20:37:25

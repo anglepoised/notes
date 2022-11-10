@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Faakin jingall jangall
 tags: ["v1"]
 pubDate: 2002-05-26T13:05:43

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: In the Air
 pubDate: 2008-05-30T09:39:37+00:00
 tumblr_permalink: /post/36553234/the-arguments-of-bruce-and-shulman-suppose-that

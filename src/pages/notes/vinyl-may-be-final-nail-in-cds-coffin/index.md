@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Vinyl May Be Final Nail in CD’s Coffin
 pubDate: 2007-10-30T08:08:54+00:00
 tumblr_permalink: /post/17786290/vinyl-may-be-final-nail-in-cds-coffin

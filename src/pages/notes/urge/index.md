@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Urge
 tags: ["v1"]
 pubDate: 2002-06-14T23:09:34

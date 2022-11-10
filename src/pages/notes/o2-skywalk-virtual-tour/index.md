@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: O2 Skywalk Virtual Tour
 pubDate: 2012-03-21T12:56:51+00:00
 tumblr_permalink: /post/19677652911/o2-skywalk-virtual-tour-by-hattonassociates

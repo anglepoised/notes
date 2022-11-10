@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Weight Of My Words
 tags: ["v1"]
 pubDate: 2002-05-27T11:47:45

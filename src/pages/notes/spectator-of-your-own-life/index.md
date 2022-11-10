@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Spectator of your own Life
 pubDate: 2012-08-08T18:03:40+00:00
 tumblr_permalink: /post/28991724198/spectator-of-your-own-life-the-more-you-document

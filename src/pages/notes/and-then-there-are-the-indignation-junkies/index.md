@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: And then there are the indignation junkies
 pubDate: 2013-03-21T14:50:00+00:00
 tumblr_permalink: /post/45914345990/in-some-people-a-hedonic-gratification-pattern

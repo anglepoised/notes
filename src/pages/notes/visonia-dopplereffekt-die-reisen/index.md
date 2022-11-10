@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Visonia & Dopplereffekt – Die Reisen
 pubDate: 2013-02-07T10:53:36+00:00
 tumblr_permalink: /post/42497688479/visonia-dopplereffekt-die-reisen

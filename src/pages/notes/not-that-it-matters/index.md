@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Not That It Matters
 tags: ["v1"]
 pubDate: 2002-04-08T13:10:06

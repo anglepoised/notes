@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Illegal filesharing - A suicide note from the music industry
 pubDate: 2008-07-30T08:26:22+00:00
 tumblr_permalink: /post/44046539/kids-are-time-rich-and-cash-poor-and-have-an

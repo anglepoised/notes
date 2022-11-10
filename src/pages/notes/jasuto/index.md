@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Jasuto
 pubDate: 2009-06-24T08:47:26+00:00
 tumblr_permalink: /post/129258332/jasuto

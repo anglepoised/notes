@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Their Manor
 tags: ["v1"]
 pubDate: 2003-05-03T18:44:06

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: brand tags
 pubDate: 2008-05-11T11:26:22+00:00
 tumblr_permalink: /post/34427759/brand-tags

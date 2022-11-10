@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: What Specifically Do Generalists Do?
 pubDate: 2008-02-06T15:58:54+00:00
 tumblr_permalink: /post/25668961/nothing-can-substitute-for-depth-of-analysis-and

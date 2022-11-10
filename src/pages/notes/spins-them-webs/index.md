@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Spins Them Webs
 tags: ["v1"]
 pubDate: 2002-05-14T11:22:00

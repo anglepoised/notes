@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Public limited companies are amoral
 pubDate: 2010-02-27T08:26:44+00:00
 tumblr_permalink: /post/415040356/public-limited-companies-are-amoral-theyre

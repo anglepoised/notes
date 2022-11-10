@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: UNIQLO CALENDAR
 pubDate: 2009-06-10T14:07:13+00:00
 tumblr_permalink: /post/121170010/uniqlo-calendar

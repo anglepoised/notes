@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Coda
 tags: ["v1"]
 pubDate: 2002-12-04T15:45:34

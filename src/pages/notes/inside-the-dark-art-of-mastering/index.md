@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Inside the dark art of mastering"
 pubDate: 2009-02-02T21:00:00+00:00
 tumblr_permalink: /post/75122728/ra-inside-the-dark-art-of-mastering-feature

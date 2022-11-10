@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner - Baby Universe
 tags: ["music"]
 pubDate: 2007-05-27 11:27:00

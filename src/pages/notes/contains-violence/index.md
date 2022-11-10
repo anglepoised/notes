@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Contains Violence
 pubDate: 2008-04-11T10:54:00+00:00
 tumblr_permalink: /post/31452299/lyric-hammersmith-contains-violence

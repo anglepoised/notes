@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Meet The New Boss, Worse Than The Old Boss?
 pubDate: 2012-05-31T17:54:34+00:00
 tumblr_permalink: /post/24137422348/ill-make-technologists-a-deal-ill-give-up-my

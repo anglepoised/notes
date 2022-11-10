@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: node tumblelog
 pubDate: 2007-08-29T14:29:21+00:00
 tumblr_permalink: /post/10060872/node-tumblelog

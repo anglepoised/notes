@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Commodore Prog Rock
 tags: ["v1"]
 pubDate: 2002-12-02T20:42:31

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ukkonen – Disambedience Mix
 pubDate: 2012-08-16T06:52:00+00:00
 tumblr_permalink: /post/29539124894/ukkonen-disambedience-mix

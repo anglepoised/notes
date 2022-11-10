@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Music Man
 pubDate: 2007-09-04T07:31:17+00:00
 tumblr_permalink: /post/10624635/rick-rubin-recording-industry-rock-music-new

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Animus
 tags: ["v1"]
 pubDate: 2002-11-16T17:47:03

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dicing with disaster
 pubDate: 2008-01-27T16:06:00+00:00
 tumblr_permalink: /post/24797714/under-communism-children-at-primary-school-began

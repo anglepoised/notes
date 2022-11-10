@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Prince Shops at Bardwells
 tags: ["v1"]
 pubDate: 2002-05-06T17:55:00

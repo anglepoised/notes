@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Art bollocks
 pubDate: 2009-03-06T10:13:00+00:00
 tumblr_permalink: /post/84043761/eye-opinion

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: TwitterPoster
 pubDate: 2007-11-01T09:08:28+00:00
 tumblr_permalink: /post/18206356/twitterposter

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cyan341 - Disconnected
 pubDate: 2009-07-28T06:34:35+00:00
 tumblr_permalink: /post/150678218/cyan341-disconnected-this-video-was-shot

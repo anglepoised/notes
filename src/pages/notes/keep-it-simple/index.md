@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Keep it simple
 tags: ["v1"]
 pubDate: 2002-03-09T17:47:36

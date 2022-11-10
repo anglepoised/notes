@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Brussels Meets Brighton : The MetaHub"
 pubDate: 2008-04-26T09:54:46+00:00
 tumblr_permalink: /post/32919087/brussels-meets-brighton-the-metahub

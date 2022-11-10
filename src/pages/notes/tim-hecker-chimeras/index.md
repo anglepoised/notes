@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tim Hecker - Chimeras
 tags: ["music"]
 pubDate: "2013-12-05T14:43:00"

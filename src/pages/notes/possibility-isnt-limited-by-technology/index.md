@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Possibility isn't limited by technology
 pubDate: 2008-02-07T10:40:00+00:00
 tumblr_permalink: /post/25738213/possibility-isnt-limited-by-technology-and-its

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "The London River Park: place for the people or a private playground?"
 pubDate: 2011-11-15T18:39:59+00:00
 tumblr_permalink: /post/12842786108/if-a-space-is-private-it-should-not-be-called

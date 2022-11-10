@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: of music & metadata
 pubDate: 2008-12-14T20:12:36+00:00
 tumblr_permalink: /post/64839459/musics-metadata-could-once-be-ignored-the-way-we

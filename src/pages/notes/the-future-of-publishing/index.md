@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Future of Publishing
 pubDate: 2010-03-18T15:38:00+00:00
 tumblr_permalink: /post/456798695/the-future-of-publishing-penguin-blog-usa

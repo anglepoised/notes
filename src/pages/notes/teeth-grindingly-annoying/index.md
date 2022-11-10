@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Teeth-grindingly annoying
 pubDate: 2008-11-27T21:05:01+00:00
 tumblr_permalink: /post/61882860/i-dont-want-to-explore-the-interface-i-want-to

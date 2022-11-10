@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Darkside Teaser
 pubDate: 2013-08-25T08:26:29+00:00
 tumblr_permalink: /post/59277824281/darkside

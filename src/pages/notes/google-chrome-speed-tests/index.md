@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Google Chrome Speed Tests
 pubDate: 2010-05-13T18:55:00+00:00
 tumblr_permalink: /post/595829869/google-chrome-speed-tests-via-gu-planning

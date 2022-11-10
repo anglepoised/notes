@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cut Faster
 tags: ["v1"]
 pubDate: 2002-06-15T22:06:26

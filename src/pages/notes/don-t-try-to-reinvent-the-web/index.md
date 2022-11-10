@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Don’t try to reinvent the web
 pubDate: 2007-11-21T07:51:00+00:00
 tumblr_permalink: /post/19900921/all-attempts-to-inhibit-the-flow-of-information

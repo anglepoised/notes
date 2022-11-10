@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Just Pool
 tags: ["v1"]
 pubDate: 2002-03-26T11:43:36

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Today On Xantiar
 pubDate: 2008-06-22T10:35:55+00:00
 tumblr_permalink: /post/39376717/shrinkwrapped-today-on-xantiar-another-clip

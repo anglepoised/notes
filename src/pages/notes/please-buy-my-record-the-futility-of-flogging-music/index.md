@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Please Buy My Record: The Futility Of Flogging Music"
 pubDate: 2008-09-02T13:05:03+00:00
 tumblr_permalink: /post/48403325/please-buy-my-record-the-futility-of-flogging

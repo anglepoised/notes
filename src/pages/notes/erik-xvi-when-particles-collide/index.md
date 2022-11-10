@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Erik XVI – When Particles Collide
 pubDate: 2011-10-20T16:58:24+00:00
 tumblr_permalink: /post/11697089577/erik-xvi-when-particles-collide-also-taken-from

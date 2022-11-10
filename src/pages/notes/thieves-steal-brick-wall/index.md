@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Thieves steal brick wall
 tags: ["linklog"]
 pubDate: "2007-06-07T18:40:00"

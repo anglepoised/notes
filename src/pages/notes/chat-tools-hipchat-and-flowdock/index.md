@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Chat tools: HipChat and Flowdock"
 tags: ["chat", "flowdock", "hipchat", "tools"]
 pubDate: 2012-08-08 09:47:00

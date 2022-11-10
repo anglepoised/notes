@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: By The Stumps
 tags: ["v1"]
 pubDate: 2002-04-14T19:18:56

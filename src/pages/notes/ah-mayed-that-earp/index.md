@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ah. Mayed. That. Earp.
 tags: ["v1"]
 pubDate: 2002-10-25T10:12:18

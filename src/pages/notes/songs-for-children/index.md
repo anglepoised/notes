@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Songs for children
 tags: ["v1"]
 pubDate: 2002-03-22T04:44:09

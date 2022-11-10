@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: PasswordMaker
 tags: ["linklog"]
 pubDate: 2007-05-31 12:09:00

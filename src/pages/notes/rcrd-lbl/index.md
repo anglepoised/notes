@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: RCRD LBL
 pubDate: 2007-11-15T19:04:05+00:00
 tumblr_permalink: /post/19518426/rcrd-lbl

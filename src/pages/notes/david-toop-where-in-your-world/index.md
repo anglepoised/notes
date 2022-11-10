@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: David Toop - Where in your world?
 tags: ["music"]
 pubDate: "2008-02-23T11:19:00"

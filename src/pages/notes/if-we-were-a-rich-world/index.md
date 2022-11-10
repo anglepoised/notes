@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: If we were a rich world
 pubDate: 2008-01-03T18:53:09+00:00
 tumblr_permalink: /post/22925821/if-we-were-a-rich-world-wed-innovate-our-way-out

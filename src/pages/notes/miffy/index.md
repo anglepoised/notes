@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Miffy
 tags: ["v1"]
 pubDate: 2002-03-18T03:46:54

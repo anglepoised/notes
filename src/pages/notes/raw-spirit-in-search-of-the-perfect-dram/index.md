@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Raw Spirit: In Search of the Perfect Dram"
 pubDate: 2011-01-13T10:54:00+00:00
 tumblr_permalink: /post/2727638856/i-love-this-assimilative-aspect-of-whisky-i-love

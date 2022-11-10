@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Be Clowns
 tags: ["v1"]
 pubDate: 2002-05-31T11:20:00

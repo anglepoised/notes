@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Industrialsamplecoregouchbeat
 tags: ["v1"]
 pubDate: 2002-12-01T14:08:47

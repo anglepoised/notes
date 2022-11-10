@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: That’s when innovation happens
 pubDate: 2008-02-28T19:43:55+00:00
 tumblr_permalink: /post/27542354/find-a-problem-thats-not-solved-and-try-to-solve

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How long does a Happy Meal stay fresh?
 pubDate: 2010-06-17T10:48:26+00:00
 tumblr_permalink: /post/707649340/how-long-does-a-happy-meal-stay-fresh

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Scoopex - Mental Hangover
 pubDate: 2007-11-01T08:27:08+00:00
 tumblr_permalink: /post/18099030/scoopex-1990-mental-hangover-amiga-demo

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "CASH Music: Deerhoof"
 pubDate: 2008-07-28T07:25:31+00:00
 tumblr_permalink: /post/43779584/cash-music-deerhoof

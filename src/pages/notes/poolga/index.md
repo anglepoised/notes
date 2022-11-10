@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Poolga
 pubDate: 2009-08-14T01:20:53+00:00
 tumblr_permalink: /post/162444892/poolga

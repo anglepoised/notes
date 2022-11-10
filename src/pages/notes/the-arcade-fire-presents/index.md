@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Arcade Fire presents…
 pubDate: 2007-10-07T20:17:08+00:00
 tumblr_permalink: /post/14601407/the-arcade-fire-presents

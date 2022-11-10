@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: You of the deservedly punished five-minute overstay
 pubDate: 2013-03-16T07:16:48+00:00
 tumblr_permalink: /post/45483548575/there-were-times-when-she-wanted-to-say-get-down

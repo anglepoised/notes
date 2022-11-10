@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Amnesia Razorfish - Staff Directory on Surface
 pubDate: 2009-05-17T09:35:00+00:00
 tumblr_permalink: /post/108967693/amnesia-razorfish-staff-directory-on-surface

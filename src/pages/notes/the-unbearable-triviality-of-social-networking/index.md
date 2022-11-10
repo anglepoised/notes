@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Unbearable Triviality Of Social Networking
 pubDate: 2011-04-18T19:30:47+00:00
 tumblr_permalink: /post/4724646249/space-travel-gave-us-the-ability-to-see-our-own

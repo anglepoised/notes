@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The most dangerous drug isn't meow meow. It isn't even alcohol ...
 pubDate: 2010-03-22T13:01:47+00:00
 tumblr_permalink: /post/465582009/in-its-purest-form-a-newspaper-consists-of-a

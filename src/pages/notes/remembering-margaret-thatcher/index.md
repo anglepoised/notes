@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Remembering Margaret Thatcher
 pubDate: 2013-04-10T11:32:00+00:00
 tumblr_permalink: /post/47613820403/all-of-us-that-grew-up-under-thatcher-were-taught

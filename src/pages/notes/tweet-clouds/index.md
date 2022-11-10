@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tweet Clouds
 pubDate: 2008-04-08T00:47:02+00:00
 tumblr_permalink: /post/31087543/tweet-clouds

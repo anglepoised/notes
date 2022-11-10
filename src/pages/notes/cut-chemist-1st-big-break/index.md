@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cut Chemist – 1st Big Break
 pubDate: 2008-08-20T20:18:49+00:00
 tumblr_permalink: /post/46737144/cut-chemist-1st-big-break-the-first-music

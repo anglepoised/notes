@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pluck
 tags: ["v1"]
 pubDate: 2003-01-26T01:23:43

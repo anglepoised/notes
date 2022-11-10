@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Box Elder
 tags: ["v1"]
 pubDate: 2003-05-24 12:06:32

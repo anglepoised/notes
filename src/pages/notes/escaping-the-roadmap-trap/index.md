@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Escaping the roadmap trap
 link: https://productcrunch.substack.com/p/escaping-the-roadmap-trap
 tags: ["product-management", "roadmaps"]

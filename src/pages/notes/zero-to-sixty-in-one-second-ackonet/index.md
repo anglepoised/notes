@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Zero to Sixty in One Second
 pubDate: 2013-08-25T08:26:52+00:00
 tumblr_permalink: /post/59277839030/zero-to-sixty-in-one-second-ackonet

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How Many Plants
 link: https://howmanyplants.com/
 tags: ["whimsy", "plants"]

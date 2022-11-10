@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: EVE Online - Soundtrack
 pubDate: 2013-09-07T10:27:00+00:00
 tumblr_permalink: /post/60530981535/music-from-eve-online-on-soundcloud-64643-of

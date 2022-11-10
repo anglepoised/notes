@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Freelance Friendly Network
 link: https://www.freelancefriendly.network/
 tags: ["work", "freelancing"]

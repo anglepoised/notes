@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Strange
 tags: ["linklog", "quote"]
 pubDate: "2007-06-06T13:17:00"

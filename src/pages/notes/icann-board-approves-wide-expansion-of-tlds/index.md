@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: ICANN Board Approves Wide Expansion of TLDs
 pubDate: 2008-06-26T21:14:17+00:00
 tumblr_permalink: /post/39971299/icann-board-approves-wide-expansion-of-tlds

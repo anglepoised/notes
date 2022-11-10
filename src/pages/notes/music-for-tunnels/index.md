@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Music For Tunnels
 tags: ["v1"]
 pubDate: 2003-01-21T14:36:32

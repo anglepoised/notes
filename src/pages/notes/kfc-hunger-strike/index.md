@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: KFC Hunger Strike!
 pubDate: 2007-08-21T10:22:34+00:00
 tumblr_permalink: /post/9223072/kfc-hunger-strike

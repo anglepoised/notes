@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Flatland
 tags: ["v1"]
 pubDate: 2002-03-14T00:37:25

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ways of Seeing
 pubDate: 2012-10-24T08:32:59+00:00
 tumblr_permalink: /post/34221745147/capitalism-survives-by-forcing-the-majority-whom

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Book Lovers
 tags: ["v1"]
 pubDate: 2002-09-01T12:47:41

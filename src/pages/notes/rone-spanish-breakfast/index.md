@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Rone – Spanish Breakfast
 pubDate: 2009-07-12T11:53:47+00:00
 tumblr_permalink: /post/140138112/rone-spanish-breakfast

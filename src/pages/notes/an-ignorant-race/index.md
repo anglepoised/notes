@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: An ignorant race
 tags: ["v1"]
 pubDate: 2002-03-22T02:37:50

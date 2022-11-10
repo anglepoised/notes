@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Global Pop Conspiracy Manifesto
 pubDate: 2007-11-18T12:03:52+00:00
 tumblr_permalink: /post/19686792/in-the-travelling-jamaican-sound-systems-of-the

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Developers accused of pursuing gadgetry instead of saving planet
 pubDate: 2008-06-01T12:02:15+00:00
 tumblr_permalink: /post/36772840/there-are-some-architects-and-developers-who

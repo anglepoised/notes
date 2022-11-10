@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: No Nathaniel, No
 tags: ["v1"]
 pubDate: 2002-04-23T17:43:04

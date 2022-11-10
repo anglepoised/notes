@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: It’s Going to Take A While
 pubDate: 2011-04-28T09:53:52+00:00
 tumblr_permalink: /post/5009051322/for-the-first-couple-years-you-make-stuff-its

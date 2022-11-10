@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mastodon - Cut you up with a Linoleum Knife
 pubDate: 2007-07-24T16:52:22+00:00
 tumblr_permalink: /post/6634131/mastodon-linoleum-knife-aqua-teen-hunger-force

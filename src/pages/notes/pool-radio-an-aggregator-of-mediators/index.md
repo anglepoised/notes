@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Pool Radio: An Aggregator of Mediators"
 pubDate: 2008-05-13T09:45:56+00:00
 tumblr_permalink: /post/34638682/pool-radio-an-aggregator-of-mediators-dekstop

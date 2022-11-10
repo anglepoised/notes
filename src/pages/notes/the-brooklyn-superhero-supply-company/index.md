@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Brooklyn Superhero Supply Company
 pubDate: 2009-05-14T12:25:50+00:00
 tumblr_permalink: /post/107663420/the-brooklyn-superhero-supply-company

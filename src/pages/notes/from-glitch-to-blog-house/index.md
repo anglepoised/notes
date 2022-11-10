@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "From Glitch To Blog House"
 pubDate: 2007-11-05T15:40:01+00:00
 tumblr_permalink: /post/18443328/debug-texte-philip-sherburne-from-glitch-to

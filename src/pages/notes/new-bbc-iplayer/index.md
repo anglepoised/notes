@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: New BBC iPlayer
 pubDate: 2007-12-13T11:40:57+00:00
 tumblr_permalink: /post/21485650/new-bbc-iplayer

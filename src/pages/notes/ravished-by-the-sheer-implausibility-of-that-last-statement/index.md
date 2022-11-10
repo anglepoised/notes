@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ravished By The Sheer Implausibility Of That Last Statement
 tags: ["v1"]
 pubDate: 2002-06-12T13:43:24

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "McFilter: A Taste of TED on DVD"
 pubDate: 2008-04-25T12:39:09+00:00
 tumblr_permalink: /post/32833209/mcfilter-a-taste-of-ted-on-dvd

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gablé – Purée Hip Hop
 pubDate: 2008-04-24T10:11:28+00:00
 tumblr_permalink: /post/32722416/gable-pure-e-hip-hop-daft-brilliant-from-the

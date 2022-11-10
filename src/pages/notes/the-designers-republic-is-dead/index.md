@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Designers Republic Is Dead
 pubDate: 2009-01-24T11:36:00+00:00
 tumblr_permalink: /post/72778800/cr-blog-blog-archive-the-designers-republic-is

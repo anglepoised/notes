@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Charming But Irrational
 tags: ["v1"]
 pubDate: 2002-09-04T12:14:50

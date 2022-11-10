@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The placeholder emotion
 pubDate: 2013-04-10T12:06:56+00:00
 tumblr_permalink: /post/47615059197/like-is-the-placeholder-emotion-dont-give-the

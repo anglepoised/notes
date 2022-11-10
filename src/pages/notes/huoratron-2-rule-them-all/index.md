@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: HUORATRON 2 RULE THEM ALL
 pubDate: 2008-03-27T16:31:06+00:00
 tumblr_permalink: /post/29995320/huoratron-2-rule-them-all

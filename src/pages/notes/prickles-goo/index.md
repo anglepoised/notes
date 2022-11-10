@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Prickles & Goo
 pubDate: 2009-09-07T05:24:10+00:00
 tumblr_permalink: /post/181730016/prickles-goo-alan-watts-trey-parker-matt-stone

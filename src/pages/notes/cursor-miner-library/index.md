@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner – Library
 pubDate: 2008-11-26T21:00:39+00:00
 tumblr_permalink: /post/61719713/cursor-miner-library

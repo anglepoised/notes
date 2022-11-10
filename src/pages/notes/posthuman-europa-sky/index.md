@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Posthuman - Europa Sky
 pubDate: 2009-12-26T11:36:59+00:00
 tumblr_permalink: /post/301188070/posthuman-europa-sky

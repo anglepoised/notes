@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Spinach, yeah
 pubDate: 2009-05-21T14:17:00+00:00
 tumblr_permalink: /post/110983078/spinach-yeah

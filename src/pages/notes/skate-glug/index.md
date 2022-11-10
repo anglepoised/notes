@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Skate Glug
 tags: ["v1"]
 pubDate: 2002-04-03T13:13:40

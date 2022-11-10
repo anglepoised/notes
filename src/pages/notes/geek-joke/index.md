@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Geek Joke
 tags: ["v1"]
 pubDate: 2002-05-24T12:46:40

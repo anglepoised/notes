@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Machines
 tags: ["quote"]
 pubDate: 2014-03-12 09:08:00

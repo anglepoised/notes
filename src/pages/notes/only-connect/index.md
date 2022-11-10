@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Only connect
 pubDate: 2012-10-12T09:30:57+00:00
 tumblr_permalink: /post/33421593207/it-is-harder-to-dispose-of-anything-or-to-act

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Guardian Open Platform
 pubDate: 2009-03-10T15:12:55+00:00
 tumblr_permalink: /post/85222529/guardian-open-platform-is-a-chasmic-leap-into-the

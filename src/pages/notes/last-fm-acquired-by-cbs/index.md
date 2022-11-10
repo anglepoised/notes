@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Last.fm Acquired By CBS
 tags: ["linklog"]
 pubDate: 2007-05-30 15:57:00

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Superfast Service
 tags: ["v1"]
 pubDate: 2002-04-13T22:41:17

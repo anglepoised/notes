@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Issue tracking basics
 tags: ["tools", "issue-tracking"]
 pubDate: 2012-08-17 11:47:00

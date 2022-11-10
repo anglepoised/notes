@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: FCK JN GNT
 tags: ["v1"]
 pubDate: 2003-01-21T00:33:17

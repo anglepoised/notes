@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tumview
 pubDate: 2008-02-20T20:44:34+00:00
 tumblr_permalink: /post/26842941/tumview-anglepoiseds-tumblr-anglepoised

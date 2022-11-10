@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Effecting Change
 pubDate: 2007-06-04T08:50:53+00:00
 tumblr_permalink: /post/2907803/you-do-not-have-to-spend-a-lot-of-time-and-effort

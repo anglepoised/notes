@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: No one cares about what you think
 pubDate: 2009-05-14T18:41:34+00:00
 tumblr_permalink: /post/107799136/no-one-cares-about-what-you-think-unless-you-do

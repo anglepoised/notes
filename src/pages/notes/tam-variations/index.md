@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tam Variations
 pubDate: 2009-05-15T12:41:00+00:00
 tumblr_permalink: /post/108150459/lj-kruzer-and-uncharted-audio-present-the-tam

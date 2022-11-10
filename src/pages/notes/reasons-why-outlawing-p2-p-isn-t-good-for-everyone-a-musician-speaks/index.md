@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Reasons why outlawing P2P isn't good for everyone: a musician speaks"
 pubDate: 2008-10-14T09:46:37+00:00
 tumblr_permalink: /post/54482932/i-knew-giving-the-album-away-for-free-would-be-a

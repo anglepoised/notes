@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Everyone At Valve Has Been Fired
 pubDate: 2009-05-19T11:26:36+00:00
 tumblr_permalink: /post/109940276/the-lesson-to-be-learned-here-is-that-when

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Paper Critters
 tags: ["linklog"]
 pubDate: "2007-08-16T10:52:00"

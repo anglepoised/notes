@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Once more unto the pitch
 pubDate: 2010-06-20T19:49:00+00:00
 tumblr_permalink: /post/719285716/once-more-unto-the-pitch

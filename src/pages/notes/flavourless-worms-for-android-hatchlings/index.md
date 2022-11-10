@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Flavourless worms for android hatchlings
 pubDate: 2008-03-04T07:38:31+00:00
 tumblr_permalink: /post/27909561/theres-a-word-for-this-sort-of-thing-its-not

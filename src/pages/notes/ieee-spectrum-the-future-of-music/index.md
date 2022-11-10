@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: IEEE Spectrum - The Future of Music
 tags: ["linklog"]
 pubDate: "2007-08-27T10:53:00"

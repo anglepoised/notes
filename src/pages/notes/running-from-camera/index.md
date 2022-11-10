@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Running from Camera
 tags: ["linklog"]
 pubDate: "2007-10-19T13:05:00"

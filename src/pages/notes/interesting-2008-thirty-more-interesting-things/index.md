@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Interesting 2008 – thirty more interesting things
 pubDate: 2008-06-24T13:02:00+00:00
 tumblr_permalink: /post/39644434/interesting-2008-thirty-more-interesting-things

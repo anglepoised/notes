@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A Small Good Thing
 tags: ["v1"]
 pubDate: 2003-01-17T03:00:34

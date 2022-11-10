@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Radiohead MP3 release a tactic to lift CD sales
 pubDate: 2007-10-22T13:35:40+00:00
 tumblr_permalink: /post/16637846/radioheads-much-debated-decision-to-let-fans

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Tommy Westphall universe hypothesis
 pubDate: 2008-05-27T08:54:00+00:00
 tumblr_permalink: /post/36183167/the-tommy-westphall-universe-hypothesis-an-idea

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: BLEEP – Special 5th Birthday feature
 pubDate: 2009-01-29T09:57:00+00:00
 tumblr_permalink: /post/74001616/bleep-special-5th-birthday-feature

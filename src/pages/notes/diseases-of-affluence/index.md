@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Diseases of Affluence
 pubDate: 2011-03-30T12:17:24+00:00
 tumblr_permalink: /post/4207440825/limiting-our-competence-to-our-profession-and

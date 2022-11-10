@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Transparency
 tags: ["quote"]
 pubDate: 2016-03-02 11:49:25

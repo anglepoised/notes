@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: I Have Seen the Future and I Am Opposed
 pubDate: 2011-02-17T09:42:20+00:00
 tumblr_permalink: /post/3342542467/just-as-previous-corporate-warlords-used-the

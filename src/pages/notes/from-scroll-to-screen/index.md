@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: From Scroll to Screen
 pubDate: 2011-10-14T16:17:54+00:00
 tumblr_permalink: /post/11438621600/so-far-the-great-e-book-debate-has-barely-touched

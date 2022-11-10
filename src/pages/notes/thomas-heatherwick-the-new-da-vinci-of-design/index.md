@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Thomas Heatherwick - the new Da Vinci of design
 pubDate: 2012-05-24T20:42:28+00:00
 tumblr_permalink: /post/23688265437/as-to-how-he-finds-design-solutions-he-says-the

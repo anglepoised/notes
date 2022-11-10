@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Blonde Redhead – My Impure Hair
 pubDate: 2007-09-02T12:14:07+00:00
 tumblr_permalink: /post/10442317/blonde-redhead-my-impure-hair-directed-by-mike

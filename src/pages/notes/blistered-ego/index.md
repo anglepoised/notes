@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Blistered Ego
 tags: ["v1"]
 pubDate: 2002-05-30T11:08:51

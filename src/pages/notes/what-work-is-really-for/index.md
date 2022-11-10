@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: What Work Is Really For
 pubDate: 2012-10-24T16:26:14+00:00
 tumblr_permalink: /post/34235759759/from-our-infancy-the-market-itself-has-worked-to

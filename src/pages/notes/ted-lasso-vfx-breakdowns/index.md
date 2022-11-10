@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ted Lasso VFX Breakdowns
 link: https://vimeo.com/492579796
 tags: ["tv"]

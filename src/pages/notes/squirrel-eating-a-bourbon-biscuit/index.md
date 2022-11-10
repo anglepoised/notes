@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Squirrel eating a bourbon biscuit
 tags: ["image", "photo"]
 pubDate: 2007-05-30 22:39:00

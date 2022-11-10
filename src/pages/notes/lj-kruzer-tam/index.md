@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: LJ Kruzer – Tam
 pubDate: 2009-02-02T20:44:00+00:00
 tumblr_permalink: /post/75119690/lj-kruzer-tam

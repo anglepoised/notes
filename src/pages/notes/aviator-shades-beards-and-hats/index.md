@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Aviator shades, beards and hats
 pubDate: 2009-02-18T13:45:00+00:00
 tumblr_permalink: /post/79356848/for-the-record-i-cursor-miner-have-predicted-many

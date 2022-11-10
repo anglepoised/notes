@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Connective information tissue
 pubDate: 2010-02-14T09:02:28+00:00
 tumblr_permalink: /post/388710248/those-frustrated-with-twitter-are-frustrated

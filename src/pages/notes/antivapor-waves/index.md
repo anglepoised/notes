@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Antivapor Waves
 tags: ["v1"]
 pubDate: 2002-11-26T21:29:43

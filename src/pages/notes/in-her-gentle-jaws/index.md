@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: In Her Gentle Jaws
 pubDate: 2008-03-04T16:53:02+00:00
 tumblr_permalink: /post/27946592/in-her-gentle-jaws

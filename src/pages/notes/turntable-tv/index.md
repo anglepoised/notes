@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Turntable TV
 tags: ["v1"]
 pubDate: 2002-05-13T22:02:38

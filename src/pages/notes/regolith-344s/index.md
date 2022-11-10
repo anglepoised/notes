@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Regolith - 344s
 pubDate: 2009-10-02T09:45:26+00:00
 tumblr_permalink: /post/202475551/regolith-344s

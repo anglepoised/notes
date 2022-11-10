@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Facebook To Drop “is” From Status Updates
 pubDate: 2007-11-20T18:51:59+00:00
 tumblr_permalink: /post/19859666/facebook-announced-to-developers-last-night-that
