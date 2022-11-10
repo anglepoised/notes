@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Mother Earth’s Plantasia
-link: https://pitchfork.com/reviews/albums/mort-garson-mother-earths-plantasia/
+bookmarkUrl: https://pitchfork.com/reviews/albums/mort-garson-mother-earths-plantasia/
 tags: ["music"]
 pubDate: 2021-03-22T09:36:39.489Z
 updatedDateLocal: 2021-03-22T09:36:39.489Z

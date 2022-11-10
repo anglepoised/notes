@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Debranding Is the New Branding
-link: https://www.bloomberg.com/opinion/articles/2021-03-07/debranding-is-the-new-branding-for-burger-king-warner-bros
+bookmarkUrl: https://www.bloomberg.com/opinion/articles/2021-03-07/debranding-is-the-new-branding-for-burger-king-warner-bros
 tags: ["advertising", "branding"]
 pubDate: 2021-04-01T07:32:25.693Z
 updatedDateLocal: 2021-04-03T11:10:35.693Z

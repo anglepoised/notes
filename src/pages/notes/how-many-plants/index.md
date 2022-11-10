@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: How Many Plants
-link: https://howmanyplants.com/
+bookmarkUrl: https://howmanyplants.com/
 tags: ["whimsy", "plants"]
 pubDate: 2021-05-17T06:54:38.447Z
 updatedDateLocal: 2021-05-17T06:54:38.447Z

@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/posts/post.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: "OpenSAFELY: The Origin Story"
-link: http://www.thedatalab.org/blog/189/opensafely-the-origin-story/
+bookmarkUrl: http://www.thedatalab.org/blog/189/opensafely-the-origin-story/
 tags: ["medicine", "covid-19", "data-science"]
 pubDate: 2021-05-11T06:14:45.293Z
 updatedDateLocal: 2021-05-11T06:14:45.293Z
