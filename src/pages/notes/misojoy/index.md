@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: MisoJoy
 tags: ["v1"]
 pubDate: 2002-05-25T00:22:53

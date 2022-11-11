@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Goodbye orange kinesis roadmap
 tags: ["meta"]
 pubDate: 2019-07-15T09:38:30.971Z

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Exercises in Style
 tags: ["linklog"]
 pubDate: "2007-06-10T22:38:00"

@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Web Development History
-link: https://webdevelopmenthistory.com/
+bookmarkUrl: https://webdevelopmenthistory.com/
 tags: ["web", "history"]
 pubDate: 2021-03-26T08:27:19.135Z
 updatedDateLocal: 2021-03-26T08:27:19.135Z

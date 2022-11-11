@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Burial – Cold Planet
 pubDate: 2012-11-18T11:40:40+00:00
 tumblr_permalink: /post/35980312184/burial-cold-planet

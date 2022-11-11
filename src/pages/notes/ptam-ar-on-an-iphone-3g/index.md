@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: PTAM + AR on an iPhone 3G
 pubDate: 2009-06-03T15:20:52+00:00
 tumblr_permalink: /post/117382999/ptam-ar-on-an-iphone-3g

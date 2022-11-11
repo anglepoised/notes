@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Temporary Insanity
 tags: ["v1"]
 pubDate: 2003-01-29T23:44:40

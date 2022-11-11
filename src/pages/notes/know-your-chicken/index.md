@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Know Your Chicken
 tags: ["v1"]
 pubDate: 2002-09-27T21:59:59

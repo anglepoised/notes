@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: FUCK this website
 pubDate: 2009-05-19T21:47:01+00:00
 tumblr_permalink: /post/110156707/fuck-this-website

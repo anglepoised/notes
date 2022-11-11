@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "The Village Orchestra FACT magazine interview"
 pubDate: 2009-04-17T20:05:00+00:00
 tumblr_permalink: /post/97279729/fact-magazine-downloadinterview-the-village

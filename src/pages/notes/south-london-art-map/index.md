@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: South London Art Map
 pubDate: 2011-10-20T12:21:45+00:00
 tumblr_permalink: /post/11691322868/south-london-art-map

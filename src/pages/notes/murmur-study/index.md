@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Murmur Study
 pubDate: 2009-08-11T22:03:34+00:00
 tumblr_permalink: /post/160802297/murmur-study-messages-containing-hundreds-of

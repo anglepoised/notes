@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mathematical Anti Telharsic Harfatum Septomin
 tags: ["v1"]
 pubDate: 2002-11-23T14:14:34

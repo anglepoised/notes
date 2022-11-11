@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Papercuts
 tags: ["v1"]
 pubDate: 2002-04-23T21:12:56

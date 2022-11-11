@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Deux - Game & Performance
 pubDate: 2012-05-30T05:01:29+00:00
 tumblr_permalink: /post/24048068422/deux-game-performance

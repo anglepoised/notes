@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Devo - Don’t Shoot (I’m A Man)
 pubDate: 2009-04-21T11:03:30+00:00
 tumblr_permalink: /post/98477324/new-material-from-devo-dont-shoot-im-a-man

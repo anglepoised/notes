@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Future engineer
 pubDate: 2008-08-27T17:05:41+00:00
 tumblr_permalink: /post/47641476/future-engineer

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How To Make Your Own Music Site in 10 Minutes
 pubDate: 2008-07-06T07:30:50+00:00
 tumblr_permalink: /post/41158314/how-to-make-your-own-music-site-in-10-minutes

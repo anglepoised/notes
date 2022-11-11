@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kwari
 pubDate: 2007-09-06T20:12:49+00:00
 tumblr_permalink: /post/10917944/kwari-first-person-shooter-skill-based-cash

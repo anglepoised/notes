@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Orseradish
 tags: ["v1"]
 pubDate: 2003-05-03T11:49:13

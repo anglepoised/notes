@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stereolab - Three Women
 pubDate: 2008-08-04T19:32:10+00:00
 tumblr_permalink: /post/44704495/stereolab-three-women

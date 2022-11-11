@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "WWF-UK: Get on Board"
 pubDate: 2007-10-19T07:19:38+00:00
 tumblr_permalink: /post/16224461/wwf-uk-home

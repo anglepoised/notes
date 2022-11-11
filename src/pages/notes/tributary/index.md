@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tributary
 tags: ["v1"]
 pubDate: 2002-11-16T18:33:21

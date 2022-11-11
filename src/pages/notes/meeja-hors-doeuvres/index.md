@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Meeja Hors D’Oeuvres
 tags: ["v1"]
 pubDate: 2003-03-19T23:45:25

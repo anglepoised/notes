@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pink Terror
 pubDate: 2010-03-25T06:25:21+00:00
 tumblr_permalink: /post/471988853/pink-terror

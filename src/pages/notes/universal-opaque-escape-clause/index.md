@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Universal Opaque Escape Clause
 tags: ["v1"]
 pubDate: 2004-01-24T11:32:59

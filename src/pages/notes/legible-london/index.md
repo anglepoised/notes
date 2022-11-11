@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Legible London
 pubDate: 2008-03-18T19:56:33+00:00
 tumblr_permalink: /post/29215105/legible-london

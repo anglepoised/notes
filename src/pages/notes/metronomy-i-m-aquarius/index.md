@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Metronomy - I'm Aquarius
 tags: ["music"]
 pubDate: "2013-12-22T05:32:00"

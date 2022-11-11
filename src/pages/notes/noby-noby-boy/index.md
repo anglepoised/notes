@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: NOBY NOBY BOY
 pubDate: 2010-02-27T20:29:16+00:00
 tumblr_permalink: /post/415967724/noby-noby-boy-all-meetings-should-be-like-this

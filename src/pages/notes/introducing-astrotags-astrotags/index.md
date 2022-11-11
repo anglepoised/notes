@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Introducing Astrotags
 pubDate: 2009-09-10T07:46:53+00:00
 tumblr_permalink: /post/184360051/introducing-astrotags-astrotags-are-a-new-way

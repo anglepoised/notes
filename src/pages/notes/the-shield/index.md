@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Shield
 tags: ["v1"]
 pubDate: 2002-03-14T02:15:31

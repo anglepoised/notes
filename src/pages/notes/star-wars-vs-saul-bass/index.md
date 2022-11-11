@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Star Wars vs. Saul Bass
 pubDate: 2008-03-03T19:27:01+00:00
 tumblr_permalink: /post/27863116/star-wars-vs-saul-bass

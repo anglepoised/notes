@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The pursuit of happiness
 tags: ["quotes"]
 pubDate: "2008-11-04T18:42:00"

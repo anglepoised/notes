@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lagoa Multiphysics 1.0 Teaser
 pubDate: 2010-07-21T04:03:10+00:00
 tumblr_permalink: /post/839202593/lagoa-multiphysics-10-teaser-hawt

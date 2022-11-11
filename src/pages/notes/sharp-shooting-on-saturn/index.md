@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Sharp Shooting on Saturn
 tags: ["v1"]
 pubDate: 2002-06-27T11:55:52

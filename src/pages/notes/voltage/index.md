@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Voltage
 pubDate: 2009-10-08T19:43:25+00:00
 tumblr_permalink: /post/207761553/voltage-just-like-modular-synthesizers-people

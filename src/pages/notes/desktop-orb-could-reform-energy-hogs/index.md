@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Desktop Orb Could Reform Energy Hogs
 tags: ["linklog"]
 pubDate: "2007-08-19T08:15:00"

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Enjoy Your Worries, You May Never Have Them Again
 tags: ["v1"]
 pubDate: 2004-06-23T23:01:15

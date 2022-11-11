@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: From the no-excuses dept.
 tags: ["v1"]
 pubDate: 2002-04-08T12:00:20

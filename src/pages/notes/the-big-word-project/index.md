@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "The Big Word Project"
 pubDate: 2008-02-28T12:37:15+00:00
 tumblr_permalink: /post/27512596/the-big-word-project-your-websites-define-our

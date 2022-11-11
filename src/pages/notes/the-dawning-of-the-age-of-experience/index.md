@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Dawning of the Age Of Experience
 pubDate: 2007-11-13T17:15:00+00:00
 tumblr_permalink: /post/19332813/one-of-the-best-presentations-ive-seen-jared

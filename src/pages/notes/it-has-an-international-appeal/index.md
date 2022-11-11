@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: It has an international appeal
 tags: ["v1"]
 pubDate: 2002-03-14T14:52:22

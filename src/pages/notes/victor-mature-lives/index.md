@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Victor Mature Lives
 tags: ["v1"]
 pubDate: 2002-08-02T20:02:08

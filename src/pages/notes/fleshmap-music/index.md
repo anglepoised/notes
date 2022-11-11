@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Fleshmap: Music"
 pubDate: 2010-01-14T12:48:00+00:00
 tumblr_permalink: /post/334060469/fleshmap-music

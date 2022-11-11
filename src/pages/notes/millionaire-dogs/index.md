@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Millionaire Dogs
 tags: ["v1"]
 pubDate: 2003-01-17T04:17:50

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mice Eat Cheese
 tags: ["v1"]
 pubDate: 2002-05-04T22:14:19

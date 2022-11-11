@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: visual complexity
 pubDate: 2007-10-17T18:59:12+00:00
 tumblr_permalink: /post/15999704/visualcomplexitycom-a-visual-exploration-on

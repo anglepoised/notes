@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Be Kind Rewind Sweded Trailer
 pubDate: 2008-03-17T07:00:05+00:00
 tumblr_permalink: /post/29058830/michel-gondrys-sweded-trailer-for-be-kind-rewind

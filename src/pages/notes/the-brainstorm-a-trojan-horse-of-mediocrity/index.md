@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The brainstorm - a trojan horse of mediocrity
 tags: ["advertising", "quote", "work"]
 pubDate: 2007-05-28 12:44:00

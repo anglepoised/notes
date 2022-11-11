@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Most Popular Muxtapes
 pubDate: 2008-07-08T18:58:36+00:00
 tumblr_permalink: /post/41501785/most-popular-muxtapes

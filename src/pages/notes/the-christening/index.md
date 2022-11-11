@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Christening
 pubDate: 2011-08-16T14:47:22+00:00
 tumblr_permalink: /post/8996923858/the-christening

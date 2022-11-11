@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ultimate Mixtape
 tags: ["v1"]
 pubDate: 2003-03-19T22:57:47

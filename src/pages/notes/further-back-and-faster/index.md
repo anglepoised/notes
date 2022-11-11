@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Further Back And Faster
 tags: ["v1"]
 pubDate: 2002-10-12T19:19:21

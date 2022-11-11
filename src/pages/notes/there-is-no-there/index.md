@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: There Is No There
 tags: ["v1"]
 pubDate: 2004-07-01T19:12:42

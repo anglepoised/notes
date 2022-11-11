@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Profile of Non-Format
 tags: ["linklog"]
 pubDate: "2007-08-23T12:03:00"

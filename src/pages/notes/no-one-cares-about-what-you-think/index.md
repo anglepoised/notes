@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: No one cares about what you think
 pubDate: 2009-05-14T18:41:34+00:00
 tumblr_permalink: /post/107799136/no-one-cares-about-what-you-think-unless-you-do
-tags: ["linklog"]
-format: "quote"
 ---
 
 > No one cares about what you think, unless you do what you think. No one cares what you do, unless you think about what you do. No one ever really cares what you say.

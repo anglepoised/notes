@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Some Machines Have Big Knobs
 tags: ["v1"]
 pubDate: 2003-11-17T13:58:11

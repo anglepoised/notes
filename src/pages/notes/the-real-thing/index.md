@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Real Thing
 tags: ["v1"]
 pubDate: 2002-03-26T00:35:37

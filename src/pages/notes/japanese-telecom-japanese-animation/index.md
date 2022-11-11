@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Japanese Telecom – Japanese Animation
 pubDate: 2013-03-16T07:19:54+00:00
 tumblr_permalink: /post/45483653647/japanese-telecom-japanese-animation

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Holiday Song
 tags: ["v1"]
 pubDate: 2004-06-23T22:29:08

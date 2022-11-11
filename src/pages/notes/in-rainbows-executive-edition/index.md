@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "In Rainbows: Executive Edition"
 pubDate: 2007-11-13T19:20:50+00:00
 tumblr_permalink: /post/19342827/in-rainbows-executive-edition-radiohead-and-adam

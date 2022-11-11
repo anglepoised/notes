@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: goodwithmoney
 pubDate: 2007-07-08T11:50:49+00:00
 tumblr_permalink: /post/5210425/wwwmyspacecomgoodwithmoney

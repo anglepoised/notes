@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Walking On Commerciality
 tags: ["v1"]
 pubDate: 2002-06-28T15:51:06

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Count the bubbles in your hand
 tags: ["v1"]
 pubDate: 2002-03-14T20:31:57

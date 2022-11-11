@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Leila ft. Mt. Sims - (disappointed cloud) anyway
 pubDate: 2011-12-19T16:36:05+00:00
 tumblr_permalink: /post/14460150994/leila-ft-mt-sims-disappointed-cloud-anyway

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Moog Cook Book
 tags: ["v1"]
 pubDate: 2002-05-02T11:46:52

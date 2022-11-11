@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pictures In An Exhibition
 tags: ["v1"]
 pubDate: 2002-05-30T11:38:10

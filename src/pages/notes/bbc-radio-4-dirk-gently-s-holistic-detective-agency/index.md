@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: BBC Radio 4 – Dirk Gently’s Holistic Detective Agency
 pubDate: 2007-10-07T20:19:12+00:00
 tumblr_permalink: /post/14601490/bbc-radio-4-dirk-gentlys-holistic-detective

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Everywhere And Allover
 tags: ["v1"]
 pubDate: 2002-07-09T22:16:07

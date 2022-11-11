@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Time Zone
 tags: ["v1"]
 pubDate: 2002-04-28T23:12:21

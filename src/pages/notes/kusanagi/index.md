@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kusanagi
 tags: ["v1"]
 pubDate: 2002-09-09T11:29:43

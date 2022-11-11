@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Here’s your shirt
 tags: ["v1"]
 pubDate: 2002-03-22T03:12:03

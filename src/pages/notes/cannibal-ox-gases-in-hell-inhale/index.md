@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cannibal Ox – Gases In Hell (Inhale)
 pubDate: 2013-04-11T03:25:00+00:00
 tumblr_permalink: /post/47675849890/cannibal-ox-gases-in-hell-inhale

@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Romantic Modernism
 pubDate: 2010-10-01T11:49:17+00:00
 tumblr_permalink: /post/1221405342/whereas-high-modernism-wanted-to-lay-waste-to-the
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Whereas high modernism wanted to lay waste to the material past in order to re-fashion it upon rational lines, romantic modernists had a soft spot for what had gone before. They loved country churches, tea in china cups wreathed with roses, old manor houses, abandoned fishing smacks, Gypsy caravans and, just as important, the soft English rain that smudged the outlines of all these precious things. Above all, their sensibility was local. While the other modernism saw national boundaries as just one more example of pernicious Ruritanian debris, romantic moderns celebrated the way England&rsquo;s crinkled coast enclosed the rooted and particular. Trees, stones, bodies, walls: these were no longer the flotsam that needed to be excluded from art. They were what art was all about.

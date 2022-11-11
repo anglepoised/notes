@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Game Theory
 tags: ["v1"]
 pubDate: 2002-07-02T11:11:37

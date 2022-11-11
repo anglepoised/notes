@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Leftovers
 tags: ["v1"]
 pubDate: 2002-08-07T22:04:28

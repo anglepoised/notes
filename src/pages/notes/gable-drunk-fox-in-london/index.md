@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: GaBLé - Drunk fox in London
 pubDate: 2009-09-10T08:09:21+00:00
 tumblr_permalink: /post/184369951/gabl%C3%A9-drunk-fox-in-london

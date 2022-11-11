@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Mystery of Black Devil
 pubDate: 2008-04-05T19:00:46+00:00
 tumblr_permalink: /post/30887037/the-mystery-of-black-devil-emusic-spotlight

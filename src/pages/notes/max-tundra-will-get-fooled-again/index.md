@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Max Tundra – Will Get Fooled Again
 pubDate: 2008-09-23T13:23:32+00:00
 tumblr_permalink: /post/51388090/max-tundra-will-get-fooled-again

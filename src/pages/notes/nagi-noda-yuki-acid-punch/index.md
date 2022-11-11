@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Nagi Noda – Yuki & Acid punch
 pubDate: 2007-11-03T09:57:00+00:00
 tumblr_permalink: /post/18245023/nagi-noda-yuki-acid-punch

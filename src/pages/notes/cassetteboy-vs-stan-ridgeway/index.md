@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cassetteboy vs. Stan Ridgeway
 pubDate: 2008-04-13T18:49:42+00:00
 tumblr_permalink: /post/31652832/dogtags-dogtags-dogtags-cassetteboy-vs-stan

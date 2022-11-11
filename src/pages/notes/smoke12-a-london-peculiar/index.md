@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "smoke#12: a london peculiar"
 pubDate: 2008-06-16T16:25:16+00:00
 tumblr_permalink: /post/38633130/smoke12-a-london-peculiar

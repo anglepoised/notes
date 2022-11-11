@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Powerpuff Girls Movie
 tags: ["v1"]
 pubDate: 2002-03-09T23:13:34

@@ -1,13 +1,9 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Battles - Sugarfoot ft. Jon Anderson & Prairie WWWW
+bookmarkUrl: https://www.youtube.com/watch?v=qi2jcC2XIcY
 tags: ["music", "video"]
 pubDate: 2020-12-18T11:50:35.263Z
-format: "video"
 ---
 
 `youtube: https://www.youtube.com/watch?v=qi2jcC2XIcY`
-
-[Battles - Sugarfoot ft. Jon Anderson & Prairie WWWW][1].
-
-[1]: https://www.youtube.com/watch?v=qi2jcC2XIcY

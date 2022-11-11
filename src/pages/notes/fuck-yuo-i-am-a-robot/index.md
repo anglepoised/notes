@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fuck Yuo I Am a Robot
 tags: ["linklog", "music"]
 pubDate: "2007-07-05T07:50:00"

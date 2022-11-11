@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Commoncraft - Zombies in Plain English
 pubDate: 2007-11-01T09:39:31+00:00
 tumblr_permalink: /post/18106510/commoncraft-zombies-in-plain-english-wish-id

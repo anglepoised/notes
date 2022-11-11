@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Are there any 'famous' last.fm users?
 tags: ["linklog"]
 pubDate: "2007-07-26T16:00:00"

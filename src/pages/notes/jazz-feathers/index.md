@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Jazz Feathers
 tags: ["v1"]
 pubDate: 2002-04-25T17:39:08

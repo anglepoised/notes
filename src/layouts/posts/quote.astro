@@ -1,7 +1,7 @@
 ---
-import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
+import BaseHead from "../../components/BaseHead.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
 const { frontmatter } = Astro.props;
 const dateOptions: Intl.DateTimeFormatOptions = {
   weekday: "long",
@@ -52,21 +52,15 @@ const {
   <body>
     <Header />
     <main>
-      <article>
+      <article class="h-entry">
         {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
-        {
-          link ? (
-            <h1 class="title">
-              <a href={link}>{title}</a>
-            </h1>
-          ) : (
-            <h1 class="title">{title}</h1>
-          )
-        }
+        <h1 class="p-name title">{title}</h1>
         {
           frontmatter.pubDate && (
             <a class="permaLink" href={Astro.url}>
-              <time datetime={pubDate}>{pubDateLocal}</time>
+              <time class="dt-published" datetime={pubDate}>
+                {pubDateLocal}
+              </time>
             </a>
           )
         }
@@ -75,7 +69,9 @@ const {
           frontmatter.updatedDate && (
             <div>
               Last updated on{" "}
-              <time datetime={updatedDate}>{updatedDateLocal}</time>
+              <time class="dt-updated" datetime={updatedDate}>
+                {updatedDateLocal}
+              </time>
             </div>
           )
         }

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Build Last.fm
 pubDate: 2008-02-28T15:22:25+00:00
 tumblr_permalink: /post/27523193/build-lastfm

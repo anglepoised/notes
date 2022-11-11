@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: DataPortability - Connect, Control, Share, Remix
 pubDate: 2008-01-15T19:51:13+00:00
 tumblr_permalink: /post/23840238/dataportability-connect-control-share-remix

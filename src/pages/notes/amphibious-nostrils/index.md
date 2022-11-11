@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Amphibious Nostrils
 tags: ["v1"]
 pubDate: 2002-05-05T10:47:25

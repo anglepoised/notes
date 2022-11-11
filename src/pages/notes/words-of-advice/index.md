@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Words Of Advice
 tags: ["v1"]
 pubDate: 2002-04-16T18:37:22

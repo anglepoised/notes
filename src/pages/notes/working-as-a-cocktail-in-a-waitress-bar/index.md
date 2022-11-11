@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Working As A Cocktail In A Waitress Bar
 tags: ["v1"]
 pubDate: 2002-04-19T00:23:06

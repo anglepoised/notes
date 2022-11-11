@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Designer//Slash//Model
 tags: ["linklog"]
 pubDate: "2007-07-06T09:43:00"

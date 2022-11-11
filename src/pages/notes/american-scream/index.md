@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: American Scream
 tags: ["v1"]
 pubDate: 2002-05-26T12:55:49

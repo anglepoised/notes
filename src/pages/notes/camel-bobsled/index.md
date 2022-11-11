@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Camel Bobsled
 tags: ["v1"]
 pubDate: 2002-05-04T15:42:54

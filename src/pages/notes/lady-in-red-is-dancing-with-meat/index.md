@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lady In Red (Is Dancing With Meat)
 tags: ["v1"]
 pubDate: 2003-06-01T19:45:00

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Orikaso folding tableware
 pubDate: 2008-05-11T20:26:00+00:00
 tumblr_permalink: /post/34464556/orikaso-folding-tableware-is-dead-handy-this-time

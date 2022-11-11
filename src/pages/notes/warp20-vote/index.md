@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Warp20 (Vote)
 pubDate: 2009-03-11T11:27:25+00:00
 tumblr_permalink: /post/85496972/warp20-vote

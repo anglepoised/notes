@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: MIDI Animation Rètro Game Medley
 pubDate: 2007-11-22T16:13:42+00:00
 tumblr_permalink: /post/20001444/i-dont-understand-it-but-it-rocks

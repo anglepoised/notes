@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: For Force
 tags: ["v1"]
 pubDate: 2002-04-21T00:55:00

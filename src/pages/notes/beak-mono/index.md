@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: BEAK – Mono
 pubDate: 2012-12-03T16:13:00+00:00
 tumblr_permalink: /post/37116546695/beak-mono

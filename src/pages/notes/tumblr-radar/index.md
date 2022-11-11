@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tumblr Radar
 tags: ["linklog"]
 pubDate: "2007-06-04T19:09:00"

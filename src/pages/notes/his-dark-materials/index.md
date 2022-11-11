@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: His Dark Materials
 tags: ["v1"]
 pubDate: 2003-01-26T01:21:50

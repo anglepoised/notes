@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The trees and landmarks of Springfield Park, Hackney, London
 pubDate: 2008-05-12T11:12:55+00:00
 tumblr_permalink: /post/34525547/the-trees-and-landmarks-of-springfield-park

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: SAMO© by Greg Enemy
 pubDate: 2011-10-20T12:17:25+00:00
 tumblr_permalink: /post/11691254681/samo-from-xtra-small-by-greg-enemy

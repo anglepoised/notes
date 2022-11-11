@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: I’m The Operator
 tags: ["v1"]
 pubDate: 2002-04-16T18:51:39

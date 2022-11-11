@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: BOOK CLUBHOUSE
 pubDate: 2008-02-23T16:23:22+00:00
 tumblr_permalink: /post/27089269/book-clubhouse

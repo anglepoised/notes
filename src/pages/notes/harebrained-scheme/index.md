@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Harebrained Scheme
 tags: ["v1"]
 pubDate: 2002-08-27T16:39:48

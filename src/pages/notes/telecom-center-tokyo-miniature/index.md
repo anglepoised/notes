@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Telecom Center -Tokyo Miniature-
 pubDate: 2009-09-17T06:17:32+00:00
 tumblr_permalink: /post/189996922/telecom-center-tokyo-miniature

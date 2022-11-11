@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Steel Factory Mayhem
 tags: ["v1"]
 pubDate: 2002-09-13T21:58:10

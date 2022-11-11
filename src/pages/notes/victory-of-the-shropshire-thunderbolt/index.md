@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Victory of the ‘Shropshire thunderbolt’
 pubDate: 2009-04-13T18:55:00+00:00
 tumblr_permalink: /post/95820088/victory-of-the-shropshire-thunderbolt-uk-news

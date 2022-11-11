@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Frank Ocean – Swim Good
 pubDate: 2012-01-27T10:56:17+00:00
 tumblr_permalink: /post/16573340768/frank-ocean-swim-good

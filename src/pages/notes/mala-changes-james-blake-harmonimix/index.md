@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Mala – Changes (James Blake Harmonimix)
 pubDate: 2013-06-18T09:03:00+00:00
 tumblr_permalink: /post/53266307763/mala-changes-james-blake-harmonimix

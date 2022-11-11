@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: tumblrist
 pubDate: 2008-02-04T07:26:19+00:00
 tumblr_permalink: /post/25460077/tumblrist

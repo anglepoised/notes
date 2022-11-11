@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Affiliates
 tags: ["meta"]
 pubDate: 2014-03-26 06:30:00

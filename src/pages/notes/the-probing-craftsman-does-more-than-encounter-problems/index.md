@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: The probing craftsman does more than encounter problems
 pubDate: 2008-02-07T14:30:34+00:00
 tumblr_permalink: /post/25753003/in-technology-as-in-art-the-probing-craftsman
-tags: ["linklog"]
-format: "quote"
 ---
 
 > In technology, as in art, the probing craftsman does more than encounter problems; he or she creates them in order to know them. Improving one&rsquo;s technique is never a routine, mechanical process.

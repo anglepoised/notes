@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lego Hello World
 pubDate: 2010-06-02T20:21:21+00:00
 tumblr_permalink: /post/657527939/lego-hello-world-via-horseattack

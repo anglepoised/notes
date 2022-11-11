@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bathtub IV
 pubDate: 2009-03-17T06:22:38+00:00
 tumblr_permalink: /post/87185626/bathtub-iv

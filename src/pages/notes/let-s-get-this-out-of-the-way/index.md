@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Let's get this out of the way...
 pubDate: 2008-08-02T07:40:05+00:00
 tumblr_permalink: /post/44429926/i-didnt-rtfa-but-i-for-one-welcome-our-new
-tags: ["linklog"]
-format: "quote"
 ---
 
 > I didn&rsquo;t RTFA, but I for one welcome our new, naked Natalie Portman and grits overlords, to which CmdrTaco replied, &ldquo;you must be new here.&rdquo; He&rsquo;s a Twitter sock-puppet, but so am I, you insensitive clod! In Soviet Russia, the only way to be sure is for orbit to nuke you with a beowulf cluster (yes, it runs Linux!). ??? Profit!

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Radiohead - Jigsaw Falling Into Place
 pubDate: 2007-11-13T19:26:00+00:00
 tumblr_permalink: /post/19343287/jigsaw-falling-into-place-helmet-cam-original

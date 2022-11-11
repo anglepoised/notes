@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Tiger Lillies - YMCA
 pubDate: 2007-08-07T15:40:50+00:00
 tumblr_permalink: /post/7939013/the-tiger-lillies-ymca-via-galloween

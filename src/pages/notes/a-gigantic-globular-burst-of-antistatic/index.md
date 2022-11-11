@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A Gigantic Globular Burst Of Antistatic
 pubDate: 2007-09-15T09:22:24+00:00
 tumblr_permalink: /post/11878850/a-gigantic-globular-burst-of-antistatic

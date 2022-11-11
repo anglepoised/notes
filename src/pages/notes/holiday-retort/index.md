@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Holiday Retort
 tags: ["v1"]
 pubDate: 2002-06-12T12:55:14

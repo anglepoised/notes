@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Design Museum - Super Contemporary
 pubDate: 2009-06-22T19:04:38+00:00
 tumblr_permalink: /post/128252329/design-museum-super-contemporary-interactive

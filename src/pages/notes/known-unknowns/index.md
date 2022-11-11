@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Known Unknowns
-tags: ["quote"]
 pubDate: 2014-03-10 15:44:18
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pop-art windows
 tags: ["v1"]
 pubDate: 2002-03-09T20:12:36

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: New Standard by Which to Measure Infamy
 tags: ["v1"]
 pubDate: 2002-12-01T13:52:18

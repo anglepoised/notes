@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "OSM 2008: A Year of Edits"
 pubDate: 2009-01-02T12:06:12+00:00
 tumblr_permalink: /post/67943426/osm-2008-a-year-of-edits-an-animation-showing

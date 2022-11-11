@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Holiday Girl
 tags: ["v1"]
 pubDate: 2002-05-31T12:12:04

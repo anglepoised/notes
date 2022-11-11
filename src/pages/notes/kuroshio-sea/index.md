@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Kuroshio Sea
 pubDate: 2009-07-17T11:35:15+00:00
 tumblr_permalink: /post/143431914/kuroshio-sea

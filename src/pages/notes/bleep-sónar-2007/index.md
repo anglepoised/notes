@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bleep Sónar 2007
 tags: ["linklog", "music"]
 pubDate: "2007-06-12T23:14:00"

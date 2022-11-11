@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Naturland
 tags: ["v1"]
 pubDate: 2003-01-29T14:02:46

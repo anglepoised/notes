@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Get Your Snack On
 tags: ["v1"]
 pubDate: 2002-04-17T23:34:05

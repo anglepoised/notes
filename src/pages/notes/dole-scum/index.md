@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dole Scum
 tags: ["v1"]
 pubDate: 2002-09-13T21:18:01

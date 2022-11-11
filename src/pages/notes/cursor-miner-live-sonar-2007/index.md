@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner Live @ Sonar 2007
 pubDate: 2007-06-27T19:37:16+00:00
 tumblr_permalink: /post/4408501/cursor-miner-live-sonar-2007-via-cursorminer

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Newark Wilder
 tags: ["v1"]
 pubDate: 2002-11-16T11:51:35

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Rota Link
 tags: ["v1"]
 pubDate: 2002-04-17T21:37:16

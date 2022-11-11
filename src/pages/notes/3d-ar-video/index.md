@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: 3D AR video
 pubDate: 2009-06-01T20:00:28+00:00
 tags: ["linklog"]

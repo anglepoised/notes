@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dan le Sac VS Scroobius Pip - Thou Shalt Always Kill
 tags: ["music"]
 pubDate: 2007-05-28 12:00:00

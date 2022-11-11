@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Spectacular Effect
 tags: ["v1"]
 pubDate: 2002-07-02T21:31:25

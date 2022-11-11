@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Werkha – Le Roitelet
 pubDate: 2012-10-15T07:17:51+00:00
 tumblr_permalink: /post/33630011160/werkha-le-roitelet

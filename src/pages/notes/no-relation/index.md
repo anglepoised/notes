@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: No Relation
 tags: ["v1"]
 pubDate: 2002-09-09T11:13:35

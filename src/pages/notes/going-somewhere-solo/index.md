@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Going Somewhere Solo?
 tags: ["v1"]
 pubDate: 2002-05-28T17:44:15

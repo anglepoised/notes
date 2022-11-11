@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A Slight Return
 tags: ["v1"]
 pubDate: 2002-12-02T21:02:16

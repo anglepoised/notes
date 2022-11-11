@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Orbital - Christmas Chime
 tags: ["music"]
 pubDate: "2013-12-04T20:19:00"

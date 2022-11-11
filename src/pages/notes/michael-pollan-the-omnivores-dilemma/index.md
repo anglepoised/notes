@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Michael Pollan – The Omnivore’s Dilemma
 pubDate: 2007-10-03T07:39:59+00:00
 tumblr_permalink: /post/14033751/michael-pollan-the-omnivores-dilemma

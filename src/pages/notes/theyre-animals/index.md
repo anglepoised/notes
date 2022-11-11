@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: They’re Animals
 tags: ["v1"]
 pubDate: 2002-04-08T12:08:00

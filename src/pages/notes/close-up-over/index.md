@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Close Up Over
 tags: ["v1"]
 pubDate: 2003-01-15T18:26:47

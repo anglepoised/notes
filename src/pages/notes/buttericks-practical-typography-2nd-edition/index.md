@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Butterick’s Practical Typography 2nd edition
-link: https://practicaltypography.com/
+bookmarkUrl: https://practicaltypography.com/
 tags: ["web", "typography"]
 pubDate: 2021-04-10T08:09:49.994Z
 updatedDateLocal: 2021-04-10T08:09:49.994Z

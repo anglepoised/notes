@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Break out the Mead
 tags: ["v1"]
 pubDate: 2002-04-25T12:03:57

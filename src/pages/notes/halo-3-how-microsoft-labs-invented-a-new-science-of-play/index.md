@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Halo 3 - How Microsoft Labs Invented a New Science of Play
 tags: ["linklog"]
 pubDate: "2007-08-22T11:55:00"

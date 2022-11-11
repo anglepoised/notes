@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Half-Life: Full Life Consequences"
 pubDate: 2008-02-08T15:07:36+00:00
 tumblr_permalink: /post/25844843/half-life-full-life-consequences-very-wrong-via

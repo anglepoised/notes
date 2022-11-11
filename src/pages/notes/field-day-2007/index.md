@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Field Day 2007
 tags: ["linklog"]
 pubDate: 2007-05-29 20:26:00

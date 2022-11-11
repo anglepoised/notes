@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fancy A Brew?
 tags: ["v1"]
 pubDate: 2002-10-18T10:20:29

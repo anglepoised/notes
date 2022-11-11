@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Accidents Don’t Happen
 tags: ["v1"]
 pubDate: 2003-05-04T00:01:36

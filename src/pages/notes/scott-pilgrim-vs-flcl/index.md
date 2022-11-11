@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Scott Pilgrim Vs. FLCL
 pubDate: 2010-09-04T07:24:54+00:00
 tumblr_permalink: /post/1062892541/scott-pilgrim-vs-flcl

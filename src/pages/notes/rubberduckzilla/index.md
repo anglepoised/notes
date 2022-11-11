@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: RUBBERDUCKZILLA!
 pubDate: 2009-05-16T07:35:39+00:00
 tumblr_permalink: /post/108531717/rubberduckzilla

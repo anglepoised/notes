@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Arcade Ambience Project
 pubDate: 2008-01-04T19:05:23+00:00
 tumblr_permalink: /post/23007833/arcade-ambience-project

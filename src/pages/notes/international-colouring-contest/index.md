@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: International Colouring Contest
 tags: ["v1"]
 pubDate: 2002-10-25T09:49:40

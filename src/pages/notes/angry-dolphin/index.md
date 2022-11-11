@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Angry Dolphin
 tags: ["v1"]
 pubDate: 2002-06-28T10:44:09

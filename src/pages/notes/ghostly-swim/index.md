@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ghostly Swim
 pubDate: 2008-05-22T12:30:00+00:00
 tumblr_permalink: /post/35669787/ghostly-swim-a-free-adult-swimghostly

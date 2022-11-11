@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Radiohead – House Of Cards
 pubDate: 2008-07-15T08:42:32+00:00
 tumblr_permalink: /post/42305107/petercostello-radiohead-house-of-cards

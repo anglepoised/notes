@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Vote Match
 pubDate: 2008-04-07T04:26:52+00:00
 tumblr_permalink: /post/31000140/vote-match

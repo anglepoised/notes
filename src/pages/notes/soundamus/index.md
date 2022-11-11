@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: soundamus
 pubDate: 2008-08-11T09:59:58+00:00
 tumblr_permalink: /post/45515672/soundamus

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stereogum Presents… OKX - A Tribute to OK Computer
 tags: ["linklog", "music"]
 pubDate: "2007-07-11T09:42:00"

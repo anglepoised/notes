@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "World of Warcraft geophysical survey"
 pubDate: 2008-06-27T19:25:00+00:00
 tumblr_permalink: /post/40092465/video-world-of-warcraft-geophysical-survey

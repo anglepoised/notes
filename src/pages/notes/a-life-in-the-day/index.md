@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A Life in the Day
 tags: ["v1"]
 pubDate: 2002-04-08T11:31:30

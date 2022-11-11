@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Key Words
 tags: ["v1"]
 pubDate: 2002-05-16T12:25:49

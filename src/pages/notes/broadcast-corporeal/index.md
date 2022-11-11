@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Broadcast – Corporeal
 pubDate: 2013-11-08T09:23:00+00:00
 tumblr_permalink: /post/66358890239/broadcast-corporeal

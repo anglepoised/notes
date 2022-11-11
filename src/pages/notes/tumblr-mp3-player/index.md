@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Tumblr MP3 Player
 pubDate: 2008-07-23T14:33:36+00:00
 tumblr_permalink: /post/43272384/tumblr-mp3-player-by-dan-kantor

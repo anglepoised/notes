@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: What single book is the best introduction to your field?
 pubDate: 2007-09-17T04:59:27+00:00
 tumblr_permalink: /post/12063521/what-single-book-is-the-best-introduction-to-your

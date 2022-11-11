@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: JR expo Paris de Women are Heroes
 pubDate: 2010-03-13T11:42:40+00:00
 tumblr_permalink: /post/445255139/jr-expo-paris-de-women-are-heroes

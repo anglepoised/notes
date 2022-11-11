@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Battles - Atlas
 tags: ["music"]
 pubDate: 2007-05-27 11:11:00

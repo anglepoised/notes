@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: On a discussion of the Wicksteed Park ride descriptions
 pubDate: 2007-11-09T15:47:00+00:00
 tumblr_permalink: /post/18908920/on-a-discussion-of-the-wickstead-park-ride

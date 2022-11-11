@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Flicking Your Switch
 tags: ["v1"]
 pubDate: 2002-08-27T20:19:56

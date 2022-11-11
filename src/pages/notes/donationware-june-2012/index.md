@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Donationware June 2012
 tags: ["donationware", "firefox"]
 pubDate: 2012-07-09

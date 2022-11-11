@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stephen Bayley’s opinion on the battle for Chelsea Barracks
 pubDate: 2009-06-24T08:47:00+00:00
 tumblr_permalink: /post/129258331/stephen-bayleys-opinion-on-the-battle-for-chelsea

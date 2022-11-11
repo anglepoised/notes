@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Plug Me In
 tags: ["v1"]
 pubDate: 2002-04-18T02:37:07

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: You Can Fall
 tags: ["v1"]
 pubDate: 2002-10-17T22:29:05

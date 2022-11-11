@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Last.fm Normaliser
 tags: ["linklog"]
 pubDate: "2007-06-22T21:31:00"

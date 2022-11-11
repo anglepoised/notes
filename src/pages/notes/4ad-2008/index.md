@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: 4ad 2008
 pubDate: 2008-12-06T23:14:00+00:00
 tumblr_permalink: /post/63428511/4ad-2008

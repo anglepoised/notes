@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Black Dog - Further Vexations
 pubDate: 2009-04-16T12:45:46+00:00
 tumblr_permalink: /post/96804089/the-black-dog-further-vexations

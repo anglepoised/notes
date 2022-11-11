@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Majestic Seven Fingers
 tags: ["v1"]
 pubDate: 2003-06-01T18:37:57

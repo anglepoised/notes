@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Collared
 tags: ["v1"]
 pubDate: 2002-04-21T00:31:26

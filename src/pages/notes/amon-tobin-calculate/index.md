@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Amon Tobin - Calculate
 pubDate: 2011-11-20T16:06:40+00:00
 tumblr_permalink: /post/13063795000/amon-tobin-calculate-by-jimjam-graphics

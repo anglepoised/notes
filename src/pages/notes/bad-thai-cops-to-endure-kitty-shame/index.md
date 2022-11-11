@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bad Thai cops to endure Kitty shame
 tags: ["linklog"]
 pubDate: "2007-08-06T17:53:00"

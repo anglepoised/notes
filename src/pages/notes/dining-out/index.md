@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Dining Out
 tags: ["v1"]
 pubDate: 2002-04-17T22:50:43

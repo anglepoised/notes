@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Posthuman – Mobile Mast
 pubDate: 2010-08-26T09:47:47+00:00
 tumblr_permalink: /post/1013598913/posthuman-mobile-mast-music-video-by-jimjam

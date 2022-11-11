@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Building the Next Last.fm
 pubDate: 2008-05-21T12:08:46+00:00
 tumblr_permalink: /post/35546461/lastfm-the-blog-building-the-next-lastfm

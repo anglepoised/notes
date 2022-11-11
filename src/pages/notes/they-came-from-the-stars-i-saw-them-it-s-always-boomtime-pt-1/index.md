@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: They Came From The Stars (I Saw Them) – (It’s Always) Boomtime (Pt.1)
 pubDate: 2007-11-15T14:42:38+00:00
 tumblr_permalink: /post/19496749/they-came-from-the-stars-i-saw-them-its

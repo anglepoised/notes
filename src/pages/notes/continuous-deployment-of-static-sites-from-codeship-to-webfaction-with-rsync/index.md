@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Continuous deployment of static sites from Codeship to WebFaction with rsync
 tags: ["ci", "codeship", "tools", "webfaction"]
 pubDate: 2015-09-28 16:00:42

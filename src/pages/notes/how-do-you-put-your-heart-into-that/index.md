@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: How do you put your heart into that?
 tags: ["linklog", "quote"]
 pubDate: "2007-06-07T19:27:00"

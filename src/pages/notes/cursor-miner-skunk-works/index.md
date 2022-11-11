@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner – Skunk Works
 pubDate: 2007-09-29T15:58:08+00:00
 tumblr_permalink: /post/13593085/cursor-miner-skunk-works-my-favourite-track

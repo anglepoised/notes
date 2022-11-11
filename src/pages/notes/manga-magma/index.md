@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Manga @ Magma
 tags: ["v1"]
 pubDate: 2002-03-17T14:09:00

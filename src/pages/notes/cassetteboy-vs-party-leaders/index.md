@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cassetteboy vs Party Leaders
 pubDate: 2010-05-09T07:29:41+00:00
 tumblr_permalink: /post/583438059/cassetteboy-vs-party-leaders

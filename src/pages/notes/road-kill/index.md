@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Road Kill
 tags: ["v1"]
 pubDate: 2002-12-04T15:35:39

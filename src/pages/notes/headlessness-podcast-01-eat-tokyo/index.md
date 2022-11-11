@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Headlessness podcast 01: Eat Tokyo"
 pubDate: 2008-04-06T18:20:49+00:00
 tumblr_permalink: /post/30964950/headlessness-podcast-01-eat-tokyo

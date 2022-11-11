@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Geek Pop
 pubDate: 2009-02-02T20:00:00+00:00
 tumblr_permalink: /post/75110336/geekpopcouk

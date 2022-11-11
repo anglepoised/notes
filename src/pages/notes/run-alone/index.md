@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Run Alone
 tags: ["v1"]
 pubDate: 2002-10-23T10:53:54

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lost in a moment – Tokyo
 pubDate: 2009-02-16T19:53:36+00:00
 tumblr_permalink: /post/78855188/lost-in-a-moment-tokyo-an-impromptu-film-made

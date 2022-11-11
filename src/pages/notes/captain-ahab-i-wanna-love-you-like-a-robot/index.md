@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Captain Ahab – I Wanna Love You Like a Robot
 pubDate: 2008-05-15T09:09:00+00:00
 tumblr_permalink: /post/34879045/captain-ahab-i-wanna-love-you-like-a-robot-let

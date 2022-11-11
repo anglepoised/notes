@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Shunt tunnel
 pubDate: 2012-10-12T09:15:24+00:00
 tumblr_permalink: /post/33421311829/shunt-tunnel

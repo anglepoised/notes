@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The new needs friends
 tags: ["quote"]
 pubDate: "2008-02-02T07:19:00"

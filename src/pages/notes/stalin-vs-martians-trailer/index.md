@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stalin vs. Martians Trailer
 pubDate: 2009-03-08T10:22:22+00:00
 tumblr_permalink: /post/84567042/stalin-vs-martians-trailer

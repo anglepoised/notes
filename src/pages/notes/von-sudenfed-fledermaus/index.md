@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Von Südenfed - Fledermaus Can't Get It
 tags: ["music"]
 pubDate: 2007-05-27 11:49:00

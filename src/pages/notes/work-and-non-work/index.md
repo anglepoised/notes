@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Work And Non Work
 tags: ["v1"]
 pubDate: 2003-03-19T18:02:53

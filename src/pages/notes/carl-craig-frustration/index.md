@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Carl Craig – Frustration
 pubDate: 2013-05-08T14:41:04+00:00
 tumblr_permalink: /post/49934987167/carl-craig-frustration

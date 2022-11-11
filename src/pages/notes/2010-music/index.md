@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: 2010 Music
 tags: ["music"]
 pubDate: "2011-01-12T09:00:00"

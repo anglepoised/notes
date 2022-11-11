@@ -3,7 +3,7 @@ to: src/pages/notes/<%= h.changeCase.param(title) %>/index.md
 sh: "git checkout -b post/<%= h.changeCase.param(title) %>"
 ---
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: <%= title %>
 tags: ["tag"]
 pubDate: <%= new Date().toISOString(); %>

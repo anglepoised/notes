@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hubert Selby Jr
 tags: ["v1"]
 pubDate: 2002-04-13T22:56:23

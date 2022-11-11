@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Roof Light – Two Cities (dub)
 pubDate: 2011-11-01T15:59:19+00:00
 tumblr_permalink: /post/12198963162/roof-light-two-cities-dub

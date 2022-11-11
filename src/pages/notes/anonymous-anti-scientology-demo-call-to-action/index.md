@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Anonymous anti-Scientology demo Call to Action
 pubDate: 2008-02-03T02:55:22+00:00
 tumblr_permalink: /post/25380230/anonymous-anti-scientology-demo-call-to-action

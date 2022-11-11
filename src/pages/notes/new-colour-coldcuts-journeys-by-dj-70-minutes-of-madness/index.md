@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: "New Colour: Coldcut’s Journeys By DJ - 70 Minutes of Madness"
-link: https://thequietus.com/articles/17839-coldcut-seventy-minutes-of-madness-journeys-by-dj
+bookmarkUrl: https://thequietus.com/articles/17839-coldcut-seventy-minutes-of-madness-journeys-by-dj
 tags: ["coldcut", "culture", "music"]
 pubDate: 2021-05-10T14:25:55.419Z
 updatedDateLocal: 2021-05-10T14:25:55.419Z

@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: 4x4s are killing my planet
 pubDate: 2012-10-18T11:30:00+00:00
 tumblr_permalink: /post/33831468852/the-separation-of-knowledge-and-place-moves-us
-tags: ["linklog"]
-format: "quote"
 ---
 
 > The separation of knowledge and place moves us slowly towards a society in which it is increasingly unnecessary for us to be aware of where we live, beyond the housekeeping of our own private zones. Once this awareness has lapsed, then landscapes beyond those private precincts become easier to manipulate for ill.

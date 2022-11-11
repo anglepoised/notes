@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Vitalic – Birds, by Pleix
 pubDate: 2008-01-05T14:56:07+00:00
 tumblr_permalink: /post/23058452/vitalic-birds-by-pleix-reblogged-from-rach

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Parson’s Nose
 tags: ["v1"]
 pubDate: 2002-10-23T12:07:43

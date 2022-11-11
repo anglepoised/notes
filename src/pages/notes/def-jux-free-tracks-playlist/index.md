@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Def Jux Free Tracks Playlist
 pubDate: 2009-02-17T18:39:17+00:00
 tumblr_permalink: /post/79127446/def-jux-free-tracks-playlist-a-playlist-by

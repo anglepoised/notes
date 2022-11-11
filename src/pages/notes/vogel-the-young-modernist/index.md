@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Vogel The Young Modernist
 pubDate: "2007-06-01T11:24:00"
 ---

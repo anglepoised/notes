@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Here comes the Royal Family now
 pubDate: 2013-05-18T10:06:00+00:00
 tumblr_permalink: /post/50718712709/here-comes-the-royal-family-now-the-automobile
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Here comes the Royal Family now. The automobile has now stopped&hellip;.

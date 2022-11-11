@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Possibility isn't limited by technology
 pubDate: 2008-02-07T10:40:00+00:00
 tumblr_permalink: /post/25738213/possibility-isnt-limited-by-technology-and-its
-tags: ["linklog"]
-format: "quote"
 ---
 
 > Possibility isn&rsquo;t limited by technology. And it&rsquo;s certainly not limited by human imagination. What makes something impossible is the lack of cold, hard, cash.

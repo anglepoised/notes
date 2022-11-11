@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Plug Myself In
 tags: ["v1"]
 pubDate: 2003-08-01T10:07:14

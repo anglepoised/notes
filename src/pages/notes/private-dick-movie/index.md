@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Private Dick Movie
 tags: ["linklog"]
 pubDate: "2007-07-21T10:36:00"

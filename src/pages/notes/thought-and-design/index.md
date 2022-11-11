@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Thought and Design
-tags: ["quote"]
 pubDate: 2014-02-21 07:27:00
 ---
 

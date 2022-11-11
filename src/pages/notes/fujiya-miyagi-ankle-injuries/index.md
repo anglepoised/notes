@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Fujiya & Miyagi - Ankle Injuries
 tags: ["music"]
 pubDate: 2007-05-27 11:20:00

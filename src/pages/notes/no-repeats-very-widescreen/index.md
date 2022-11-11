@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: No repeats; very widescreen
 pubDate: 2008-01-23T19:05:54+00:00
 tumblr_permalink: /post/24476734/the-sky-is-better-than-sky-tm-no-repeats-very
-tags: ["linklog"]
-format: "quote"
 ---
 
 > The sky is better than Sky©TM; no repeats; very widescreen; endlessly fascinating; no discernable plot: perfect telly. And however long you stare at it you never feel like buying anything &#8211; except perhaps occasionally cotton wool or candy-floss. And the detail, the work that’s gone into it &#8211; it’s truly awesome; terrifying. No wonder we watch telly.

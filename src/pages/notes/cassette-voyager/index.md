@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cassette - Voyager
 tags: ["music"]
 pubDate: 2007-05-27 11:15:00

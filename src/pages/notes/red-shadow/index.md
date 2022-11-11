@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Red Shadow
 tags: ["v1"]
 pubDate: 2002-05-13T18:33:12

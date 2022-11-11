@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: upl8tv
 pubDate: 2008-06-27T13:42:34+00:00
 tumblr_permalink: /post/40055504/via-upl8tv

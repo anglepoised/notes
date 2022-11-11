@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Romp
 tags: ["v1"]
 pubDate: 2002-05-01T00:39:46

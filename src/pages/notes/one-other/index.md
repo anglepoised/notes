@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "One & Other"
 pubDate: 2009-02-26T13:14:09+00:00
 tumblr_permalink: /post/81687715/one-other

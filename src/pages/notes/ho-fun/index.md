@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Ho Fun
 tags: ["v1"]
 pubDate: 2002-05-30T11:16:43

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Doom Doom Doom
 tags: ["v1"]
 pubDate: 2004-07-01T18:51:59

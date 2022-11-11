@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Motion
 tags: ["v1"]
 pubDate: 2003-04-21T17:12:54

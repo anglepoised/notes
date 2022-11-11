@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: Dangerous Instrument
-tags: ["quote"]
 pubDate: 2014-07-10 14:27:53
 ---
 

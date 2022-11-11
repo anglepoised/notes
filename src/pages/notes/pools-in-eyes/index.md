@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pools In Eyes
 tags: ["v1"]
 pubDate: 2002-10-12T22:48:07

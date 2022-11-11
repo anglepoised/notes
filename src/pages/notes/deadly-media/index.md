@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Deadly Media
 tags: ["v1"]
 pubDate: 2003-01-13T23:12:13

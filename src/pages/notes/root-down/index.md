@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Root Down
 tags: ["v1"]
 pubDate: 2002-04-14T22:37:21

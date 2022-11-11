@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Slowly, agonizingly, humans learned how the universe worked
 pubDate: 2013-05-22T08:52:56+00:00
 tumblr_permalink: /post/51058942632/slowly-agonizingly-humans-learned-how-the

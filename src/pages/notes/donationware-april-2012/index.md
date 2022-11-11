@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Donationware April 2012
 tags: ["donationware", "nvalt", "markdown"]
 pubDate: 2012-05-02

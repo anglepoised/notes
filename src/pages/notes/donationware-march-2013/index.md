@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Donationware March 2013
 tags: ["donationware", "openelec", "raspberrypi", "xbmc"]
 pubDate: 2013-03-16

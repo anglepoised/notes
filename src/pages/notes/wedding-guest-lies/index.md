@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Wedding guest lies
 pubDate: 2008-07-25T14:43:00+00:00
 tumblr_permalink: /post/43512116/wedding-guest-lies

@@ -1,0 +1,89 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+const { frontmatter } = Astro.props;
+const dateOptions: Intl.DateTimeFormatOptions = {
+  weekday: "long",
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+};
+const pubDateLocal = new Date(frontmatter.pubDate).toLocaleDateString(
+  "en-GB",
+  dateOptions
+);
+const updatedDateLocal = new Date(frontmatter.updatedDate).toLocaleDateString(
+  "en-GB",
+  dateOptions
+);
+export interface Props {
+  content: {
+    title: string;
+    description: string;
+    pubDate?: string;
+    updatedDate?: string;
+    link?: string;
+    heroImage?: string;
+  };
+}
+
+const {
+  content: { title, description, pubDate, updatedDate, link, heroImage },
+} = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <BaseHead title={title} description={description} />
+    <style>
+      .title {
+        font-size: 2em;
+        margin: 0.25em 0 0;
+      }
+      hr {
+        border-top: 1px solid #ddd;
+        margin: 1rem 0;
+      }
+    </style>
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <article>
+        <h1 style="color: salmon">Type: post</h1>
+        {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
+        {
+          link ? (
+            <h1 class="title">
+              <a href={link}>{title}</a>
+            </h1>
+          ) : (
+            <h1 class="title">{title}</h1>
+          )
+        }
+        {
+          frontmatter.pubDate && (
+            <a class="permaLink" href={Astro.url}>
+              <time datetime={pubDate}>{pubDateLocal}</time>
+            </a>
+          )
+        }
+
+        {
+          frontmatter.updatedDate && (
+            <div>
+              Last updated on{" "}
+              <time datetime={updatedDate}>{updatedDateLocal}</time>
+            </div>
+          )
+        }
+        <hr />
+        <slot />
+      </article>
+    </main>
+    <Footer />
+  </body>
+</html>

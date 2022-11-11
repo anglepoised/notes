@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Yellow Drum Machine
 pubDate: 2009-07-31T14:11:00+00:00
 tumblr_permalink: /post/152964196/yellow-drum-machine

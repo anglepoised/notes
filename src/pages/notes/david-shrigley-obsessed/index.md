@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: David Shrigley – Obsessed
 pubDate: 2008-07-30T14:04:03+00:00
 tumblr_permalink: /post/44075990/david-shrigley-obsessed

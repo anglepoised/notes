@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Suspicious Bear
 tags: ["v1"]
 pubDate: 2002-09-11T00:38:25

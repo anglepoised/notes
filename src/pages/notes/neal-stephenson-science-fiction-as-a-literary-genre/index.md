@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Neal Stephenson: Science Fiction as a Literary Genre"
 pubDate: 2008-08-11T19:05:14+00:00
 tumblr_permalink: /post/45572259/foratv-neal-stephenson-science-fiction-as-a

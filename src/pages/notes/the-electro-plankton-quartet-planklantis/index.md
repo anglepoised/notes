@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Electro Plankton Quartet - Planklantis
 tags: ["music"]
 pubDate: "2007-06-30T21:31:00"

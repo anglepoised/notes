@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "A Wild Sheep Chase: In Search of Haruki Murakami"
 pubDate: 2008-06-25T20:09:21+00:00
 tumblr_permalink: /post/39829578/bbc-iplayer-imagine-a-wild-sheep-chase-in

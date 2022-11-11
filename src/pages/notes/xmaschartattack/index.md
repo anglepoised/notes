@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: xmaschartattack
 pubDate: 2007-10-17T09:16:53+00:00
 tumblr_permalink: /post/15931924/xmaschartattack-groups-at-lastfm

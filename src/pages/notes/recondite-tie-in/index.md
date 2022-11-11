@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Recondite – Tie In
 pubDate: 2013-05-06T11:33:10+00:00
 tumblr_permalink: /post/49768065299/recondite-tie-in

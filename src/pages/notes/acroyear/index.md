@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Acroyear
 tags: ["v1"]
 pubDate: 2003-01-15T17:17:48

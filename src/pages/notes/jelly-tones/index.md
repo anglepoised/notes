@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Jelly Tones
 tags: ["v1"]
 pubDate: 2002-11-26T21:04:37

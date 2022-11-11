@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Did You See the Words
 tags: ["v1"]
 pubDate: 2007-08-30T15:23:57

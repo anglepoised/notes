@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: SuperFlat
 tags: ["v1"]
 pubDate: 2003-01-20T22:57:35

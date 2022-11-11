@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Things To Do
 tags: ["v1"]
 pubDate: 2002-06-15T23:25:52

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Standing By
 tags: ["v1"]
 pubDate: 2002-04-23T23:22:25

@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Freelance Friendly Network
-link: https://www.freelancefriendly.network/
+bookmarkUrl: https://www.freelancefriendly.network/
 tags: ["work", "freelancing"]
 pubDate: 2021-03-30T15:26:15.670Z
 updatedDateLocal: 2021-03-30T15:26:15.670Z

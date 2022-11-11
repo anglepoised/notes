@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: A Few Good Creative Men
 pubDate: 2007-10-11T13:52:14+00:00
 tumblr_permalink: /post/15127010/a-few-good-creative-men

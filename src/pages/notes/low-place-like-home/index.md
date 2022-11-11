@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Low Place Like Home
 tags: ["v1"]
 pubDate: 2003-01-20T16:07:55

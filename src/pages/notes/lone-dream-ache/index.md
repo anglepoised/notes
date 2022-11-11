@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lone - Dream Ache
 pubDate: 2014-01-01T07:08:00+00:00
 tumblr_permalink: /post/71825481700/lone-dream-ache

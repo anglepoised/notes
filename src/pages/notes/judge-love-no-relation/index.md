@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Judge Love (no relation)
 tags: ["v1"]
 pubDate: 2002-03-25T22:36:31

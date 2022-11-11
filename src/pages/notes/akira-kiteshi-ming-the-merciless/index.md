@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Akira Kiteshi - Ming The Merciless (Hexstatic video edit)
 pubDate: 2010-02-24T10:41:01+00:00
 tumblr_permalink: /post/408867302/akira-kiteshi-ming-the-merciless-hexstatic

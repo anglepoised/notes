@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: UNIQLO JUMP
 pubDate: 2007-12-02T09:30:14+00:00
 tumblr_permalink: /post/20656696/uniqlo-jump

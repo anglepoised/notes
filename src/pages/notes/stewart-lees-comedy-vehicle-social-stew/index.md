@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stewart Lee’s Comedy Vehicle - Social Stew
 pubDate: 2011-05-24T13:23:27+00:00
 tumblr_permalink: /post/5799763645/stewart-lees-comedy-vehicle-social-stew

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Milanese - Cowboy
 pubDate: 2012-08-03T09:36:24+00:00
 tumblr_permalink: /post/28620423925/milanese-cowboy

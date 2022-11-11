@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Slipper Sleaze
 tags: ["v1"]
 pubDate: 2002-10-17T22:02:48

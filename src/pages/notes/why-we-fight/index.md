@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Why We Fight
 tags: ["v1"]
 pubDate: 2002-09-26T23:24:19

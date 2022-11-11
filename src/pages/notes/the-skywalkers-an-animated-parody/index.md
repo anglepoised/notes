@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "The Skywalkers: An Animated Parody"
 pubDate: 2007-09-05T17:24:02+00:00
 tumblr_permalink: /post/10784826/the-simpsons-star-wars

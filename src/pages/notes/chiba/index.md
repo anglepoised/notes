@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Chiba
 tags: ["v1"]
 pubDate: 2003-01-15T18:15:33

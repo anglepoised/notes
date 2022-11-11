@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: This Should be Played
 tags: ["v1"]
 pubDate: 2002-06-27T11:16:47

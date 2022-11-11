@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: HAL 9000 screensaver
 pubDate: 2009-01-26T20:54:24+00:00
 tumblr_permalink: /post/73308217/hal-9000-screensaver

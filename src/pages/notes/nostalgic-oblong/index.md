@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Nostalgic Oblong
 tags: ["v1"]
 pubDate: 2003-01-15T17:30:11

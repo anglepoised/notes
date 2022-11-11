@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Now get your ass to Mars
 tags: ["v1"]
 pubDate: 2002-03-28T12:58:22

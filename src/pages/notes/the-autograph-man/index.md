@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Autograph Man
 tags: ["v1"]
 pubDate: 2002-09-08T10:26:03

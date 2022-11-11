@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: HMTL Using Codeship talk
 tags: ["codeship", "ci", "talks", "tools"]
 pubDate: 2014-07-30 10:08:03

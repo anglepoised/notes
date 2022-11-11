@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: In The Beams
 tags: ["v1"]
 pubDate: 2002-12-02T20:18:13

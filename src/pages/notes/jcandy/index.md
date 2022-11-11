@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: jCandy
 tags: ["v1"]
 pubDate: 2002-05-30T15:56:59

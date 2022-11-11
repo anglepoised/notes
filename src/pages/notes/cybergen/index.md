@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cybergen
 tags: ["v1"]
 pubDate: 2003-05-03T23:20:30

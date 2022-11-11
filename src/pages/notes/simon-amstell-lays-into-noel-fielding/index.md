@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Simon Amstell lays into Noel Fielding
 pubDate: 2008-04-13T18:44:12+00:00
 tumblr_permalink: /post/31652532/simon-amstell-lays-into-noel-fielding

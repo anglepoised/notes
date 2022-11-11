@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Stay Loose
 tags: ["v1"]
 pubDate: 2003-11-13T18:40:06

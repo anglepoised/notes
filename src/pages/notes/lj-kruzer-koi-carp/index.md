@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: LJ Kruzer - Koi Carp
 tags: ["music"]
 pubDate: "2007-11-30T11:23:00"

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Tumblers!
 pubDate: 2008-02-03T07:28:29+00:00
 tumblr_permalink: /post/25382635/the-tumblers

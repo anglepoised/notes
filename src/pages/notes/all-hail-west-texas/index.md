@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: All Hail West Texas
 tags: ["v1"]
 pubDate: 2002-03-12T16:30:01

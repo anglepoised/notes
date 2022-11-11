@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Uniqlock
 tags: ["linklog"]
 pubDate: "2007-06-19T15:49:00"

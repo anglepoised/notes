@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: isolatr beta
 pubDate: 2007-07-25T06:45:51+00:00
 tumblr_permalink: /post/6698277/isolatr-beta

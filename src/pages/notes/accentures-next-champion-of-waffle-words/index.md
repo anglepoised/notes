@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Accenture’s next champion of waffle words
 pubDate: 2009-02-20T14:34:57+00:00
 tumblr_permalink: /post/79963337/accentures-next-champion-of-waffle-words

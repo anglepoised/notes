@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Octavcat – Hard As Snails Promo Video
 pubDate: 2008-10-23T15:40:58+00:00
 tumblr_permalink: /post/55976597/octavcat-hard-as-snails-promo-video

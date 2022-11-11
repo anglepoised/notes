@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Console – Buy 14, Zero, Zero
 pubDate: 2008-06-06T14:29:36+00:00
 tumblr_permalink: /post/37402582/console-buy-14-zero-zero-handy-guide-to

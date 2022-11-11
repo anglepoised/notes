@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Abandoned
 tags: ["v1"]
 pubDate: 2002-07-11T16:42:04

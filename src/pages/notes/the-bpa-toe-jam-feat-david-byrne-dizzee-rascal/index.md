@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The BPA Toe Jam feat. David Byrne & Dizzee Rascal
 pubDate: 2008-07-12T15:23:02+00:00
 tumblr_permalink: /post/42004108/the-bpa-the-bpa-toe-jam-feat-david-byrne

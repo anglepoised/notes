@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Wii Fit
 pubDate: 2008-03-17T07:01:15+00:00
 tumblr_permalink: /post/29058876/wii-fit-im-particularly-looking-forward-to

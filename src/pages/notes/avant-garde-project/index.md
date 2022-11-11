@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Avant Garde Project
 pubDate: 2008-11-05T13:38:54+00:00
 tumblr_permalink: /post/58122930/avant-garde-project-20th-century-classical

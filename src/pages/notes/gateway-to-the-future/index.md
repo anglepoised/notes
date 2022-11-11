@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Gateway to the Future
 tags: ["v1"]
 pubDate: 2002-03-09T18:29:02

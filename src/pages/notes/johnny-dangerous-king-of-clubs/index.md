@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Johnny Dangerous – King of Clubs
 pubDate: 2011-12-06T07:39:36+00:00
 tumblr_permalink: /post/13819426518/johnny-dangerous-king-of-clubs

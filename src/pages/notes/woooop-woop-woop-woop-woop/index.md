@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Woooop-woop-woop-woop-woop!
 tags: ["v1"]
 pubDate: 2003-04-20T13:31:37

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Someone Else’s Head
 tags: ["v1"]
 pubDate: 2002-09-04T13:14:51

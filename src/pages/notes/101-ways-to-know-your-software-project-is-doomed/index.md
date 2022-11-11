@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: 101 Ways To Know Your Software Project Is Doomed
 tags: ["linklog"]
 pubDate: "2007-07-17T10:39:00"

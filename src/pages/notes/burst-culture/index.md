@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Burst Culture
 tags: ["quote"]
 pubDate: 2007-05-27 13:21:00

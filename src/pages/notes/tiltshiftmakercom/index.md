@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: tiltshiftmaker
 pubDate: 2009-01-09T21:38:00+00:00
 tumblr_permalink: /post/69450130/tiltshiftmakercom-transform-your-photos-into

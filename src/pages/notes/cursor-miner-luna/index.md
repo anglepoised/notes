@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Cursor Miner - Luna
 pubDate: 2010-08-11T04:07:33+00:00
 tumblr_permalink: /post/935316123/cursor-miner-luna-by-uncharted-audio

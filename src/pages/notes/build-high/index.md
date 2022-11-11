@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Build High
 tags: ["v1"]
 pubDate: 2002-04-30T22:22:17

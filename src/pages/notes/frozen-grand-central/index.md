@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Frozen Grand Central
 pubDate: 2008-02-01T16:17:28+00:00
 tumblr_permalink: /post/25258018/frozen-grand-central

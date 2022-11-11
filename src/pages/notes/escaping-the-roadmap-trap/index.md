@@ -1,7 +1,7 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/bookmark.astro"
 title: Escaping the roadmap trap
-link: https://productcrunch.substack.com/p/escaping-the-roadmap-trap
+bookmarkUrl: https://productcrunch.substack.com/p/escaping-the-roadmap-trap
 tags: ["product-management", "roadmaps"]
 pubDate: 2021-03-22T09:45:43.281Z
 updatedDateLocal: 2021-03-22T09:45:43.281Z

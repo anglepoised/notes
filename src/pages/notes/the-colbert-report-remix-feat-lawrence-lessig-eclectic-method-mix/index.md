@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Colbert Report Remix feat Lawrence Lessig (Eclectic Method Mix)
 pubDate: 2009-01-20T06:49:55+00:00
 tumblr_permalink: /post/71733629/the-colbert-report-remix-feat-lawrence-lessig

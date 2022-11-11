@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "Radiohead: 01 and 10"
 pubDate: 2007-10-21T18:50:40+00:00
 tumblr_permalink: /post/16534092/radiohead-01-and-10-puddlegum

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Twubble
 pubDate: 2008-04-08T00:47:00+00:00
 tumblr_permalink: /post/31087542/twubble

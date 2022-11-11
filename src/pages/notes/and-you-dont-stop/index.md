@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: And you don’t stop…
 pubDate: 2008-04-27T12:04:51+00:00
 tumblr_permalink: /post/33005131/and-you-dont-stop

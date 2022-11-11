@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Self-annulation
 tags: ["v1"]
 pubDate: 2003-06-01T20:55:21

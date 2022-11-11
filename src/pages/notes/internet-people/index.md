@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Internet People!
 pubDate: 2007-09-07T06:18:05+00:00
 tumblr_permalink: /post/10963383/internet-people

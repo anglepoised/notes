@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Earworm
 tags: ["v1"]
 pubDate: 2004-06-23T23:24:04

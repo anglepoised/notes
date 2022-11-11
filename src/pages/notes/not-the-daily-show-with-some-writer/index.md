@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Not The Daily Show, With Some Writer
 pubDate: 2007-11-15T21:03:00+00:00
 tumblr_permalink: /post/19521257/not-the-daily-show-with-some-writer-sums-up-the

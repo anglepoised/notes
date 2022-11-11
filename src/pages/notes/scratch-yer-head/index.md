@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Scratch Yer Head
 tags: ["v1"]
 pubDate: 2002-05-26T22:18:45

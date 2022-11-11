@@ -1,10 +1,8 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: How Facebook Exposed Us All as Freaks
 pubDate: 2008-02-01T08:48:23+00:00
 tumblr_permalink: /post/25228734/the-damage-is-done-beacon-and-tracking-regimes
-tags: ["linklog"]
-format: "quote"
 ---
 
 > The damage is done. Beacon and tracking regimes like it violate the unwritten soc-site covenant: They don&rsquo;t care who you think you are or who you&rsquo;d like other people to think you are. They barely glance at your meticulously managed profile — Chabon on the nightstand, Beirut on the iPod, gut carefully sucked in. Instead, they tail you, dissecting you site by site, purchase by purchase.

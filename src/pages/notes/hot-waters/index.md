@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hot Waters
 tags: ["v1"]
 pubDate: 2002-09-28T09:56:47

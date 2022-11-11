@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: New York Magazine’s Summer Muxtapes
 pubDate: 2008-06-27T19:16:04+00:00
 tumblr_permalink: /post/40091584/new-york-magazines-summer-muxtapes

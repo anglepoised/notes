@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Battles – Tonto
 pubDate: 2007-09-12T16:44:02+00:00
 tumblr_permalink: /post/11568158/battles-tonto

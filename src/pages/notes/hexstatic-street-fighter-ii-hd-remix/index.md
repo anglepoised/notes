@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hexstatic - Street Fighter II HD remix
 pubDate: 2009-01-20T22:19:27+00:00
 tumblr_permalink: /post/71909180/street-fighter-ii-hd-remix-by-hexstatic-ow-do

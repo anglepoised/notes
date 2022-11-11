@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Lone – Airglow Fires
 pubDate: 2013-06-08T16:28:00+00:00
 tumblr_permalink: /post/52469053363/lone-airglow-fires

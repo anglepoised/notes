@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: "National Trust: The Album"
 pubDate: 2010-05-22T09:30:12+00:00
 tumblr_permalink: /post/621638657/the-33-minute-recording-titled-national-trust-the

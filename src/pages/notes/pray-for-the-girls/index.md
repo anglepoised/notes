@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Pray For The Girls
 tags: ["v1"]
 pubDate: 2002-06-26T17:56:42

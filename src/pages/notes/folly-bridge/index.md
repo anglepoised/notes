@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Folly Bridge
 tags: ["v1"]
 pubDate: 2002-05-27T11:41:52

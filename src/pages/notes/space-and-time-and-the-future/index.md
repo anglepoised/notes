@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Space and time and the future
 tags: ["linklog", "quote"]
 pubDate: "2007-12-06T09:31:00"

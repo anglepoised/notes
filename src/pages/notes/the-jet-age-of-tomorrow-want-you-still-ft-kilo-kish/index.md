@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Jet Age Of Tomorrow - Want You Still (ft. Kilo Kish)
 pubDate: 2011-11-24T01:22:10+00:00
 tumblr_permalink: /post/13231055809/the-jet-age-of-tomorrow-want-you-still-ft-kilo

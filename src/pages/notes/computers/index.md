@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Computers
 tags: ["v1"]
 pubDate: 2002-03-17T13:55:38

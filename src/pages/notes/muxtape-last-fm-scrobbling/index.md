@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: muxtape Last.fm Scrobbling
 pubDate: 2008-07-07T12:06:32+00:00
 tumblr_permalink: /post/41307804/lastfm-scrobbling

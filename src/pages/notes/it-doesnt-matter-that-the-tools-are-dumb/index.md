@@ -1,7 +1,6 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/quote.astro"
 title: It doesn’t matter that the tools are dumb
-tags: ["quote"]
 pubDate: 2014-12-22 09:41:23
 ---
 

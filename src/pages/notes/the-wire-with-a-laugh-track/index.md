@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Wire with a laugh track
 pubDate: 2009-05-16T08:40:54+00:00
 tumblr_permalink: /post/108545956/the-wire-with-a-laugh-track

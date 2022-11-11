@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Items Tagged With ‘whatcouldpossiblygowrong’
 pubDate: 2008-02-24T20:33:10+00:00
 tumblr_permalink: /post/27173574/items-tagged-with-whatcouldpossiblygowrong

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: The Art Of Driving
 tags: ["v1"]
 pubDate: 2002-11-16T12:33:56

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Bob Truby’s Brand Name Pencils
 pubDate: 2007-10-23T15:16:17+00:00
 tumblr_permalink: /post/16804976/bob-trubys-brand-name-pencils

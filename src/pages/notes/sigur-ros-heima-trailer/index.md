@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Sigur Rós – Heima Trailer
 pubDate: 2007-09-29T15:54:09+00:00
 tumblr_permalink: /post/13592670/sigur-r%C3%B3s-heima-trailer-worth-watching-the

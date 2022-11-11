@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Making Lambs Anger
 pubDate: 2009-04-19T19:59:57+00:00
 tumblr_permalink: /post/97881266/making-lambs-anger

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Be Kind Rewind
 pubDate: 2008-01-14T13:18:23+00:00
 tumblr_permalink: /post/23726724/be-kind-rewind

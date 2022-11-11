@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: iband - Electroplankton plus iPhones
 pubDate: 2008-02-25T21:29:25+00:00
 tumblr_permalink: /post/27267258/shrinkwrappediband-electroplankton-plus

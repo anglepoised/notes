@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: INKY – Grave
 pubDate: 2008-05-16T13:21:00+00:00
 tumblr_permalink: /post/35019260/inky-grave

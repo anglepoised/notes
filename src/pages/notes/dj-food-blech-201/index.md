@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: DJ Food – Blech 20.1
 pubDate: 2009-12-23T09:15:00+00:00
 tumblr_permalink: /post/296563417/dj-food-blech-201-soundcloud

@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Hello
 tags: ["meta"]
 pubDate: 2012-03-29 09:00:00

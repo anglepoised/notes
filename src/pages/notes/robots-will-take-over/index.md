@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: Robots Will Take Over
 tags: ["v1"]
 pubDate: 2002-08-26T22:53:26

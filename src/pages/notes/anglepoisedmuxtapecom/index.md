@@ -1,5 +1,5 @@
 ---
-layout: "../../../layouts/BlogPost.astro"
+layout: "../../../layouts/posts/post.astro"
 title: anglepoised.muxtape.com
 pubDate: 2008-04-06T10:09:00+00:00
 tumblr_permalink: /post/30934648/anglepoisedmuxtapecom
