@@ -52,14 +52,16 @@ const {
   <body>
     <Header />
     <main>
-      <article>
-        <h1 class="title">
-          <a href={bookmarkUrl}>{title}</a>
+      <article class="h-entry">
+        <h1 class="p-name title">
+          <a class="h-cite u-bookmark-of" href={bookmarkUrl}>{title}</a>
         </h1>
         {
           frontmatter.pubDate && (
             <a class="permalinkUrl" href={Astro.url}>
-              <time datetime={pubDate}>{pubDateLocal}</time>
+              <time class="dt-published" datetime={pubDate}>
+                {pubDateLocal}
+              </time>
             </a>
           )
         }
@@ -68,12 +70,16 @@ const {
           frontmatter.updatedDate && (
             <div>
               Last updated on{" "}
-              <time datetime={updatedDate}>{updatedDateLocal}</time>
+              <time class="dt-updated" datetime={updatedDate}>
+                {updatedDateLocal}
+              </time>
             </div>
           )
         }
         <hr />
-        <slot />
+        <div class="e-content">
+          <slot />
+        </div>
       </article>
     </main>
     <Footer />
