@@ -64,6 +64,8 @@
     "new:bookmark": "hygen bookmark new",
     "?new:post": "Generate a new post scaffold",
     "new:post": "hygen post new",
+    "?new:quote": "Generate a new quote scaffold",
+    "new:quote": "hygen quote new",
     "?preview": "Serve built Astro site.",
     "preview": "astro preview",
     "?start": "Run development server",
