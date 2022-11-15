@@ -1,5 +1,5 @@
 ---
-to: src/pages/notes/<%= h.changeCase.param(title) %>/index.md
+to: src/pages/notes/<%= h.changeCase.param(title) %>/index.mdx
 sh: "git checkout -b quote/<%= h.changeCase.param(title) %>"
 ---
 ---
