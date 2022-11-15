@@ -1,0 +1,9 @@
+---
+layout: "../../../layouts/posts/bookmark.astro"
+title: The X of Generation X
+bookmarkUrl: https://culture.ghost.io/the-x-of-gen-x/
+tags: ["culture"]
+pubDate: 2022-11-15T10:50:25.376Z
+---
+
+> This brings us to today, where the loudest complaints about “cultural stasis” tend to come from Gen X adults whose cultural interests have long been anchored in obscure and openly-artistic cultural forms. From their perspective, today's cultural capital does feel very tame. Being "with it" requires listening to top-charting albums, watching blockbuster movies, and being well-versed in internet memes. Compared to Gen X, Millennials who grew up on the Backstreet Boys and NSYNC would have fewer qualms about a pop culture centered around Harry Styles fandom, Harry Styles albums, and Harry Styles cinema gossip. Meanwhile Gen Z, in its rebellion against Millennials, appears to appreciate obscurity as a virtue again, but this is a new obscurity, not based in artistic complexity and historical knowledge but the discovery of amateur videos lurking at the edges of the internet.
