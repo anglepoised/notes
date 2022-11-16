@@ -6,8 +6,10 @@ sh: "git checkout -b bookmark/<%= h.changeCase.param(title) %>"
 layout: "../../../layouts/posts/bookmark.astro"
 title: <%= title %>
 bookmarkUrl: <%= bookmarkUrl %>
+source: astro
 tags: ["tag"]
 pubDate: <%= new Date().toISOString(); %>
+updatedDate: <%= new Date().toISOString(); %>
 ---
 
 // import { Tweet, Vimeo, YouTube } from "astro-embed";

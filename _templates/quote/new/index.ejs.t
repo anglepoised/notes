@@ -5,8 +5,10 @@ sh: "git checkout -b quote/<%= h.changeCase.param(title) %>"
 ---
 layout: "../../../layouts/posts/quote.astro"
 title: <%= title %>
+source: astro
 tags: ["tag"]
 pubDate: <%= new Date().toISOString(); %>
+updatedDate: <%= new Date().toISOString(); %>
 ---
 
 // import { Tweet, Vimeo, YouTube } from "astro-embed";
