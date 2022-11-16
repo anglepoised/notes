@@ -8,6 +8,7 @@ title: <%= title %>
 bookmarkUrl: <%= bookmarkUrl %>
 tags: ["tag"]
 pubDate: <%= new Date().toISOString(); %>
+updatedDate: <%= new Date().toISOString(); %>
 ---
 
 // import { Tweet, Vimeo, YouTube } from "astro-embed";
