@@ -57,24 +57,23 @@ const {
           <a class="h-cite u-bookmark-of" href={bookmarkUrl}>{title}</a>
         </h1>
         {
-          frontmatter.pubDate && (
+          pubDateLocal ? (
             <a class="permalinkUrl" href={Astro.url}>
               <time class="dt-published" datetime={pubDate}>
                 {pubDateLocal}
               </time>
             </a>
-          )
+          ) : null
         }
-
         {
-          frontmatter.updatedDate && (
+          updatedDateLocal && updatedDateLocal != pubDateLocal ? (
             <div>
               Last updated on{" "}
               <time class="dt-updated" datetime={updatedDate}>
                 {updatedDateLocal}
               </time>
             </div>
-          )
+          ) : null
         }
         <hr />
         <div class="e-content">
