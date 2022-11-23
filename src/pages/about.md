@@ -3,7 +3,7 @@ layout: "../layouts/page.astro"
 title: "About"
 description: "Lorem ipsum dolor sit amet"
 datePublished: 2022-09-03T10:11:28+00:00
-updatedDate: 2022-09-03T10:11:28+00:00
+dateUpdated: 2022-09-03T10:11:28+00:00
 ---
 
 Cartel jeans marketing sunglasses futurity shoes render-farm. network vehicle urban human towards augmented reality decay. cardboard smart- rifle sign network San Francisco knife. courier silent city chrome artisanal rain narrative. faded corporation sprawl physical grenade cardboard hacker.

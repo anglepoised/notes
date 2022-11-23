@@ -13,7 +13,7 @@ const pubDateLocal = new Date(frontmatter.datePublished).toLocaleDateString(
   "en-GB",
   dateOptions
 );
-const updatedDateLocal = new Date(frontmatter.updatedDate).toLocaleDateString(
+const updatedDateLocal = new Date(frontmatter.dateUpdated).toLocaleDateString(
   "en-GB",
   dateOptions
 );
@@ -22,7 +22,7 @@ export interface Props {
     title: string;
     description: string;
     datePublished?: string;
-    updatedDate?: string;
+    dateUpdated?: string;
     bookmarkUrl?: string;
     heroImage?: string;
   };
@@ -33,7 +33,7 @@ const {
     title,
     description,
     datePublished,
-    updatedDate,
+    dateUpdated,
     bookmarkUrl,
     heroImage,
   },
@@ -76,7 +76,7 @@ const {
           updatedDateLocal && updatedDateLocal != pubDateLocal ? (
             <div>
               Last updated on{" "}
-              <time class="dt-updated" datetime={updatedDate}>
+              <time class="dt-updated" datetime={dateUpdated}>
                 {updatedDateLocal}
               </time>
             </div>

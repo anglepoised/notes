@@ -13,7 +13,7 @@ const pubDateLocal = new Date(frontmatter.datePublished).toLocaleDateString(
   "en-GB",
   dateOptions
 );
-const updatedDateLocal = new Date(frontmatter.updatedDate).toLocaleDateString(
+const updatedDateLocal = new Date(frontmatter.dateUpdated).toLocaleDateString(
   "en-GB",
   dateOptions
 );
@@ -22,14 +22,14 @@ export interface Props {
     title: string;
     description: string;
     datePublished?: string;
-    updatedDate?: string;
+    dateUpdated?: string;
     link?: string;
     heroImage?: string;
   };
 }
 
 const {
-  content: { title, description, datePublished, updatedDate, link, heroImage },
+  content: { title, description, datePublished, dateUpdated, link, heroImage },
 } = Astro.props;
 ---
 
@@ -68,7 +68,7 @@ const {
           updatedDateLocal && updatedDateLocal != pubDateLocal ? (
             <div>
               Last updated on{" "}
-              <time class="dt-updated" datetime={updatedDate}>
+              <time class="dt-updated" datetime={dateUpdated}>
                 {updatedDateLocal}
               </time>
             </div>
