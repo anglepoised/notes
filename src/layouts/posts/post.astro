@@ -9,7 +9,7 @@ const dateOptions: Intl.DateTimeFormatOptions = {
   month: "long",
   day: "numeric",
 };
-const pubDateLocal = new Date(frontmatter.pubDate).toLocaleDateString(
+const pubDateLocal = new Date(frontmatter.datePublished).toLocaleDateString(
   "en-GB",
   dateOptions
 );
@@ -21,7 +21,7 @@ export interface Props {
   content: {
     title: string;
     description: string;
-    pubDate?: string;
+    datePublished?: string;
     updatedDate?: string;
     link?: string;
     heroImage?: string;
@@ -29,7 +29,7 @@ export interface Props {
 }
 
 const {
-  content: { title, description, pubDate, updatedDate, link, heroImage },
+  content: { title, description, datePublished, updatedDate, link, heroImage },
 } = Astro.props;
 ---
 
@@ -58,7 +58,7 @@ const {
         {
           pubDateLocal ? (
             <a class="permaLink u-url" href={Astro.url}>
-              <time class="dt-published" datetime={pubDate}>
+              <time class="dt-published" datetime={datePublished}>
                 {pubDateLocal}
               </time>
             </a>
