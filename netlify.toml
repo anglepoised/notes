@@ -20,3 +20,16 @@ package = "@netlify/plugin-lighthouse"
     best-practices = 0.9
     seo = 0.9
     pwa = 0.0 # Skip PWA threshold for now
+
+[[plugins]]
+package = "netlify-plugin-checklinks"
+  [plugins.inputs]
+  entryPoints = [
+    "index.html",
+  ]
+  recursive = true
+  pretty = false
+  skipPatterns = ["dist/feed"]
+  todoPatterns = ["dist/weblog/entry/000134", "dist/straplines/add"]
+  checkExternal = false
+  followSourceMaps = false
