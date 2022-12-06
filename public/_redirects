@@ -2,6 +2,10 @@
 /atom.xml	/feed/
 /rss/	/feed/
 /feed/ /feed/feed.xml 200
+
+# v1 redirects
+/weblog/entry/000134/ /notes/small-circular-motion/
+
 # hexo site post redirects
 /2012/04/05/donationware/ /notes/donationware/
 /2012/08/Chat-tools-HipChat-and-Flowdock/ /notes/chat-tools-hipchat-and-flowdock/
