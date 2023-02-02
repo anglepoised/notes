@@ -3,6 +3,7 @@
   "rules": {
     "attr-spacing": "warn",
     "element-required-attributes": "warn",
+    "element-permitted-content": "warn",
     "long-title": "off",
     "no-deprecated-attr": "warn",
     "no-inline-style": "off",
