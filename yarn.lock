@@ -10,20 +10,20 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
-"@astro-community/astro-embed-integration@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-integration/-/astro-embed-integration-0.2.0.tgz#8235d0f01ecd00565c0d6722aaf5cf35dc6706dc"
-  integrity sha512-VIw3QWi67YrnLGJgyv/4/XspejKgcCOfbx69gOq6ZB/PFO22h02wiOiNeolq2bAg4vwPbjRWqvx+SPmi4XlV3g==
+"@astro-community/astro-embed-integration@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-integration/-/astro-embed-integration-0.2.1.tgz#a35d7efd0dc9b7b48c3e3179c4569011283986b3"
+  integrity sha512-jP9ixbF8iwpbSL/oYZ6vilaWcexAZP7sBm7xzaGkaEBQtnO75CRxYesMebVuIg+qpjThYKE0o4jeTzre3VVzaw==
   dependencies:
-    "@astro-community/astro-embed-twitter" "^0.2.0"
-    "@astro-community/astro-embed-vimeo" "^0.1.0"
-    "@astro-community/astro-embed-youtube" "^0.2.0"
+    "@astro-community/astro-embed-twitter" "^0.2.2"
+    "@astro-community/astro-embed-vimeo" "^0.1.2"
+    "@astro-community/astro-embed-youtube" "^0.2.2"
     unist-util-select "^4.0.1"
 
-"@astro-community/astro-embed-twitter@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-twitter/-/astro-embed-twitter-0.2.0.tgz#95dfc364949e2cd01863edc57ca894ad37efdd11"
-  integrity sha512-HcgSPQWqYOaEfX4pme8Th9RIISDEutWEQvIAV6ZhFYzJ2YS5M2wEX1VaC4GOkJ7JO+pWYVf+mvJzqfQA6lPudA==
+"@astro-community/astro-embed-twitter@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-twitter/-/astro-embed-twitter-0.2.2.tgz#f88a984f32a1ec1ac299e7a388c87c30d7ffe29c"
+  integrity sha512-kz3hmVoemIAwueRKUWhL3Qq85302AZwhRpryILxjHWUnsiHMIGMjmQA+V9/8YpKniYvZM5rGSNMpV6++3FB42A==
   dependencies:
     "@astro-community/astro-embed-utils" "^0.0.3"
     twitter-api-sdk "^1.2.1"
@@ -33,17 +33,17 @@
   resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-utils/-/astro-embed-utils-0.0.3.tgz#b799ea8725e3a897e7bf65e2f48a66374a7f34ee"
   integrity sha512-hXwSMtSAL3V9fnFHps+/CoDIJst26U/qSdI7srIQ8GPmFqdbcqJd/qOqYzGezAR/qTM8gmTjDCGOuVI0Z+xT3Q==
 
-"@astro-community/astro-embed-vimeo@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-vimeo/-/astro-embed-vimeo-0.1.1.tgz#1cb1022691712e40ff3ff264187c4861c73537d8"
-  integrity sha512-M7ALKJkH8NDJFY+onsKvlxq7Lpj6FQm90W/+0cGilrdWkKBAYPVLApnkAcUf2strg/4cQ2otZekXI6uvU4ruzg==
+"@astro-community/astro-embed-vimeo@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-vimeo/-/astro-embed-vimeo-0.1.2.tgz#fae74bc1501b93821af608013cdd8fea1fe0078d"
+  integrity sha512-ZycmSfhSupo5aAWg42Xr33wF3oMRK469CT5Foa5xeTpaTFXib+/vXOu2RvDIyG6kyhm2YuLNhNYIFfH27QVllA==
   dependencies:
     lite-vimeo-embed "^0.1.0"
 
-"@astro-community/astro-embed-youtube@^0.2.0":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-youtube/-/astro-embed-youtube-0.2.1.tgz#ad183b98520da13738bdbcb41899cf90017905cd"
-  integrity sha512-yO2u9MCDQwxRYnZixYcRbBU/QrrBI+69GLDh9W+M/dsgmSZxtZY4kG00ewmC+Lr0JCLteaxz2iSY1U61+WNfEw==
+"@astro-community/astro-embed-youtube@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@astro-community/astro-embed-youtube/-/astro-embed-youtube-0.2.2.tgz#efc5fa0e8d510d6a37fc9e258aa3ebdb05ae7385"
+  integrity sha512-eGBVujUNOv6x2x/iXS7D/XWmlx69frLQKyYBW0zTFzzgDCeOuXkJ4TPMOdQHsttp2ZCvbqii8f27GoaTKHIa7g==
   dependencies:
     lite-youtube-embed "^0.2.0"
 
@@ -1381,15 +1381,15 @@ astring@^1.8.0:
   resolved "https://registry.yarnpkg.com/astring/-/astring-1.8.3.tgz#1a0ae738c7cc558f8e5ddc8e3120636f5cebcb85"
   integrity sha512-sRpyiNrx2dEYIMmUXprS8nlpRg2Drs8m9ElX9vVEXaCB4XEAJhKfs7IcX0IwShjuOAjLR6wzIrgoptz1n19i1A==
 
-astro-embed@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/astro-embed/-/astro-embed-0.2.0.tgz#ae845d226d4fa2f3f55402032074b290b674d8ea"
-  integrity sha512-aiMN/HMcSCp0jIDOXaZNsllihe7spgiOHX314VGfHmDPk/+FLlOsDzWZTMyIQRPjM6298qcpeQ06fRgqthCezQ==
+astro-embed@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/astro-embed/-/astro-embed-0.2.1.tgz#83a517aaf7a16f9016c5a642c567b6e0d25e8ee8"
+  integrity sha512-48BurfhG4rb0tcS1VstiCa1WX/e4sg5SP5EuIPoMHnK39Oog6TNf2VB4Mvrx6GfZ9YIrn8Z7tTd7J6x6IFl9xA==
   dependencies:
-    "@astro-community/astro-embed-integration" "^0.2.0"
-    "@astro-community/astro-embed-twitter" "^0.2.0"
-    "@astro-community/astro-embed-vimeo" "^0.1.0"
-    "@astro-community/astro-embed-youtube" "^0.2.0"
+    "@astro-community/astro-embed-integration" "^0.2.1"
+    "@astro-community/astro-embed-twitter" "^0.2.2"
+    "@astro-community/astro-embed-vimeo" "^0.1.2"
+    "@astro-community/astro-embed-youtube" "^0.2.2"
 
 astro@^1.9.0:
   version "1.9.0"
