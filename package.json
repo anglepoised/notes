@@ -19,7 +19,7 @@
   "private": true,
   "dependencies": {
     "@astrojs/mdx": "^0.17.2",
-    "@astrojs/rss": "^2.0.0",
+    "@astrojs/rss": "^2.1.1",
     "@astrojs/sitemap": "^1.0.1",
     "astro": "^2.0.16",
     "astro-embed": "^0.2.1"
