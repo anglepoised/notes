@@ -4,6 +4,7 @@
 [[headers]]
   for = "/*"
   [headers.values]
+    Content-Security-Policy = "frame-ancestors 'none'; base-uri 'none'; default-src 'self'; object-src 'none'; script-src https://gc.zgo.at; img-src https://anglepoised.goatcounter.com/count;"
     Referrer-Policy = "strict-origin-when-cross-origin"
     X-Content-Type-Options = "nosniff"
 
