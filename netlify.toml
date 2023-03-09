@@ -11,7 +11,7 @@ package = "netlify-plugin-html-validate"
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
 
-  [plugins.inputs]
+  [plugins.inputs.audits]
     output_path = "lighthouse/index.html"
 
   [plugins.inputs.thresholds]
