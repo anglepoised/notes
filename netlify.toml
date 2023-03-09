@@ -1,6 +1,11 @@
 [build]
   publish = "dist"
 
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+
 [[plugins]]
 package = "netlify-plugin-html-validate"
   [plugins.inputs]
