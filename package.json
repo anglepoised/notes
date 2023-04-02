@@ -18,7 +18,7 @@
   "packageManager": "yarn@1.22.18",
   "private": true,
   "dependencies": {
-    "@astrojs/mdx": "^0.17.2",
+    "@astrojs/mdx": "^0.18.2",
     "@astrojs/rss": "^2.0.0",
     "@astrojs/sitemap": "^1.0.1",
     "astro": "^2.1.9",
