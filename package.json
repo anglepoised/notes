@@ -21,7 +21,7 @@
     "@astrojs/mdx": "^0.17.2",
     "@astrojs/rss": "^2.0.0",
     "@astrojs/sitemap": "^1.0.1",
-    "astro": "^2.0.16",
+    "astro": "^2.1.9",
     "astro-embed": "^0.2.1"
   },
   "devDependencies": {
