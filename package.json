@@ -28,7 +28,7 @@
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.6.1",
     "@netlify/plugin-lighthouse": "^4.0.3",
-    "commitizen": "^4.2.6",
+    "commitizen": "^4.3.0",
     "husky": "^8.0.3",
     "hygen": "^6.2.11",
     "lint-staged": "^13.1.2",
