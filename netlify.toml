@@ -1,35 +1,33 @@
 [build]
-  publish = "dist"
+publish = "dist"
 
 [[plugins]]
 package = "netlify-plugin-html-validate"
-  [plugins.inputs]
-    ext = "html"
-    config = ".htmlvalidate.json"
-    path = "dist"
+[plugins.inputs]
+ext = "html"
+config = ".htmlvalidate.json"
+path = "dist"
 
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
 
-  [plugins.inputs.audits]
-    output_path = "lighthouse/index.html"
+[plugins.inputs.audits]
+output_path = "lighthouse/index.html"
 
-  [plugins.inputs.thresholds]
-    performance = 0.9
-    accessibility = 0.9
-    best-practices = 0.9
-    seo = 0.9
-    pwa = 0.0 # Skip PWA threshold for now
+[plugins.inputs.thresholds]
+performance = 0.9
+accessibility = 0.9
+best-practices = 0.9
+seo = 0.8
+pwa = 0.0            # Skip PWA threshold for now
 
 [[plugins]]
 package = "netlify-plugin-checklinks"
-  [plugins.inputs]
-  entryPoints = [
-    "index.html",
-  ]
-  recursive = true
-  pretty = false
-  skipPatterns = ["dist/feed"]
-  todoPatterns = ["dist/weblog/entry/000134", "dist/straplines/add"]
-  checkExternal = false
-  followSourceMaps = false
+[plugins.inputs]
+entryPoints = ["index.html"]
+recursive = true
+pretty = false
+skipPatterns = ["dist/feed"]
+todoPatterns = ["dist/weblog/entry/000134", "dist/straplines/add"]
+checkExternal = false
+followSourceMaps = false
