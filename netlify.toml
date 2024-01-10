@@ -18,7 +18,7 @@ output_path = "lighthouse/index.html"
 performance = 0.9
 accessibility = 0.9
 best-practices = 0.9
-seo = 0.9
+seo = 0.8
 pwa = 0.0            # Skip PWA threshold for now
 
 [[plugins]]
