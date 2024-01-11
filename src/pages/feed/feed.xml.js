@@ -13,7 +13,7 @@ const posts = Object.values(postImportResult)
   })
   .slice(0, 30); // Get only the top 30 recent posts
 
-export const get = () =>
+export const GET = () =>
   rss({
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
