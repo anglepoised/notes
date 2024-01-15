@@ -9,6 +9,7 @@
     "no-deprecated-attr": "warn",
     "no-inline-style": "off",
     "no-raw-characters": "warn",
+    "valid-id": "off",
     "void-style": [
       "warn",
       {
