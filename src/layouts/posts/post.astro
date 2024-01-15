@@ -17,19 +17,22 @@ const updatedDateLocal = new Date(frontmatter.dateUpdated).toLocaleDateString(
   "en-GB",
   dateOptions,
 );
+const WaybackUrl = "http://web.archive.org/web/" + Astro.url;
+const GitHubUrl = "https://github.com/anglepoised/notes/edit/main/src/pages" + Astro.url.pathname + "/index.mdx";
+
 export interface Props {
   content: {
     title: string;
     description: string;
     datePublished?: string;
     dateUpdated?: string;
-    link?: string;
+    pathname?: string;
     heroImage?: string;
   };
 }
 
 const {
-  content: { title, description, datePublished, dateUpdated, link, heroImage },
+  content: { title, description, datePublished, dateUpdated, pathname, heroImage },
 } = Astro.props;
 ---
 
@@ -78,6 +81,14 @@ const {
         <div class="e-content">
           <slot />
         </div>
+        <ul>
+          <li>
+            <a href={WaybackUrl}>Wayback</a>
+          </li>
+          <li>
+            <a href={GitHubUrl}>Edit on GitHub</a>
+          </li>
+        </ul>
       </article>
     </main>
     <Footer />
