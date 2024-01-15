@@ -44,7 +44,7 @@
     "build": "npm-run-all build:*",
     "?build:astro": "Build static version of Astro site for distribution.",
     "build:astro": "astro build",
-    "postbuild": "yarn prettier --write \"dist/**/*.html\"",
+    "postbuild": "yarn prettier --ignore-path .prettierignore --write \"./dist/*.html\" \"./dist/**/*.html\"",
     "precz": "yarn run lint-changes",
     "?cz": "Commit with commitizen",
     "cz": "git-cz",
