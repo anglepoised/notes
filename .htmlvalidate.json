@@ -2,13 +2,13 @@
   "extends": ["html-validate:recommended"],
   "rules": {
     "attr-spacing": "warn",
+    "doctype-style": "off",
     "element-required-attributes": "warn",
     "element-permitted-content": "warn",
     "long-title": "off",
     "no-deprecated-attr": "warn",
     "no-inline-style": "off",
     "no-raw-characters": "warn",
-    "no-trailing-whitespace": "off",
     "void-style": [
       "warn",
       {
