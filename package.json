@@ -44,23 +44,22 @@
     "build": "npm-run-all build:*",
     "?build:astro": "Build static version of Astro site for distribution.",
     "build:astro": "astro build",
-    "postbuild": "yarn internal:prettier --write \"dist/**/*.html\"",
+    "postbuild": "yarn prettier --ignore-path .prettierignore --write \"./dist/*.html\" \"./dist/**/*.html\"",
     "precz": "yarn run lint-changes",
     "?cz": "Commit with commitizen",
     "cz": "git-cz",
     "?dev": "Start Astro development server.",
     "dev": "astro dev",
     "?format": "Runs all code formatters.",
-    "format": "yarn internal:prettier \"./*.{js,json,md,mdx}\" \"./**/*.{js,json,md,mdx}\" --write",
+    "format": "yarn prettier \"./*.{astro,js,json,md,mdx}\" \"./**/*.{astro,js,json,md,mdx}\" --write",
     "?info": "Display information about the scripts.",
     "info": "npm-scripts-info",
-    "internal:prettier": "prettier",
     "?lint-changes": "Lints any changes that are currently staged in git",
     "lint-changes": "lint-staged",
     "?lint": "Lint all files",
     "lint": "npm-run-all lint:*",
     "lint:commits": "./node_modules/.bin/commitlint --from=origin/main",
-    "lint:format": "yarn internal:prettier --list-different \"./*.{js,json,md,mdx}\" \"./**/*.{js,json,md,mdx}\"",
+    "lint:format": "yarn prettier --list-different \"./*.{astro,js,json,md,mdx}\" \"./**/*.{astro,js,json,md,mdx}\"",
     "?new:bookmark": "Generate a new bookmark scaffold",
     "new:bookmark": "hygen bookmark new",
     "?new:post": "Generate a new post scaffold",
@@ -81,7 +80,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,json}": "yarn internal:prettier --list-different",
-    "*.{md,mdx}": "yarn internal:prettier --list-different"
+    "*.{js,json}": "yarn prettier --list-different",
+    "*.{md,mdx}": "yarn prettier --list-different"
   }
 }

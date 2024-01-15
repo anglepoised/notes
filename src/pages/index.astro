@@ -8,11 +8,11 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
 const posts = (await Astro.glob("./notes/**/*.{md,mdx}")).sort(
   (a, b) =>
     new Date(b.frontmatter.datePublished).valueOf() -
-    new Date(a.frontmatter.datePublished).valueOf()
+    new Date(a.frontmatter.datePublished).valueOf(),
 );
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en-gb">
   <head>
     <BaseHead title={} description={SITE_DESCRIPTION} />
@@ -57,7 +57,7 @@ const posts = (await Astro.glob("./notes/**/*.{md,mdx}")).sort(
                       year: "numeric",
                       month: "short",
                       day: "numeric",
-                    }
+                    },
                   )}
                 </time>
                 <a href={post.url}>{post.frontmatter.title}</a>
