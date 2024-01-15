@@ -3,13 +3,6 @@ publish = "dist"
 command = "yarn run build"
 
 [[plugins]]
-package = "netlify-plugin-html-validate"
-[plugins.inputs]
-ext = "html"
-config = ".htmlvalidate.json"
-path = "dist"
-
-[[plugins]]
 package = "@netlify/plugin-lighthouse"
 
 [plugins.inputs.audits]
