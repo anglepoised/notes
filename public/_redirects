@@ -3,6 +3,9 @@
 /rss/	/feed/
 /feed/ /feed/feed.xml 200
 
+# sitemap redirects
+/sitemap.xml /sitemap-index.xml
+
 # v1 redirects
 /weblog/entry/000134/ /notes/small-circular-motion/
 
