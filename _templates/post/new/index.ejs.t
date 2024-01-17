@@ -3,12 +3,13 @@ to: src/pages/notes/<%= h.changeCase.param(title) %>/index.mdx
 sh: "git checkout -b content/<%= h.changeCase.param(title) %>"
 ---
 ---
-layout: "../../../layouts/posts/post.astro"
 title: <%= title %>
-source: astro
-tags: ["tag"]
 datePublished: <%= new Date().toISOString(); %>
 dateUpdated: <%= new Date().toISOString(); %>
+layout: "../../../layouts/posts/post.astro"
+originalUrl: https://anglepoised.com/notes/<%= h.changeCase.param(title) %>/
+source: astro
+tags: ["tag"]
 ---
 
 // import { Tweet, Vimeo, YouTube } from "astro-embed";
