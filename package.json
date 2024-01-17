@@ -73,6 +73,8 @@
     "preview": "astro preview",
     "?start": "Run development server",
     "start": "yarn run dev",
+    "timestamp": "date -u +\"%Y-%m-%dT%H:%M:%S+00:00\"",
+    "?timestamp": "Generate a timestamp for manual post updates",
     "?test": "Run tests.",
     "test": "echo \"Write tests!\"",
     "prepare": "husky install"
