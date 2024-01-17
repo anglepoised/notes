@@ -28,12 +28,12 @@ export interface Props {
     dateUpdated?: string;
     pathname?: string;
     heroImage?: string;
-    tumblrUrl?: string;
+    originalUrl?: string;
   };
 }
 
 const {
-  content: { title, description, datePublished, dateUpdated, tumblrUrl, pathname, heroImage },
+  content: { title, description, datePublished, dateUpdated, originalUrl, pathname, heroImage },
 } = Astro.props;
 ---
 
@@ -90,9 +90,9 @@ const {
             <a href={GitHubUrl}>Edit on GitHub</a>
           </li>
           {
-            tumblrUrl ? (
+            originalUrl ? (
               <li>
-                <a href={tumblrUrl}>{tumblrUrl}</a>
+                <a href={originalUrl}>{originalUrl}</a>
               </li>
               ) : null
           }
