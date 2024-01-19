@@ -55,6 +55,7 @@ typings/
 .env
 
 # astro files
+.astro
 dist
 
 # Mac files
