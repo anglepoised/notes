@@ -7,7 +7,8 @@ import FormattedDate from "../../components/FormattedDate.astro";
 
 type Props = CollectionEntry<"articles">["data"];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, isDraft, heroImage } =
+  Astro.props;
 ---
 
 <!doctype html>
@@ -32,6 +33,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
       <article class="h-entry">
         <!-- {heroImage && <img width={720} height={360} src={heroImage} alt="" />} -->
         <h1 class="p-name title">{title}</h1>
+        {isDraft && <p style="font-weight: bold; color: red;">DRAFT</p>}
         <a class="permaLink u-url" href={Astro.url}>
           <FormattedDate date={pubDate} type="published" />
         </a>
