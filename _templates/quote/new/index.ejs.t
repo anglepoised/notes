@@ -1,6 +1,6 @@
 ---
 to: src/pages/notes/<%= h.changeCase.param(title) %>/index.mdx
-sh: "git checkout -b quote/<%= h.changeCase.param(title) %>"
+sh: "git checkout -b content/<%= h.changeCase.param(title) %>"
 ---
 ---
 layout: "../../../layouts/posts/quote.astro"
