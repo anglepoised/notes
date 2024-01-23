@@ -1,5 +1,5 @@
 import rss from "@astrojs/rss";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../../config";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 const postImportResult = import.meta.glob("../notes/**/*.mdx", {
   eager: true,
 });

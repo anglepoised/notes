@@ -1,0 +1,22 @@
+---
+interface Props {
+  date: Date;
+  type: "published" | "updated";
+}
+
+const { date, type } = Astro.props;
+---
+
+<time
+  class={type === "published" ? "dt-published" : "dt-updated"}
+  datetime={date.toISOString()}
+>
+  {
+    date.toLocaleDateString("en-GB", {
+      weekday: "long",
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  }
+</time>
