@@ -1,0 +1,56 @@
+---
+title: Continuous deployment of static sites from Codeship to WebFaction with rsync
+pubDate: 2015-09-28 16:00:42
+updatedDate: 2015-09-28 16:00:42
+originalUrl: http://notes.anglepoised.com/2015/09/Continuous-deployment-of-static-sites-from-Codeship-to-WebFaction-with-rsync
+source: hexo
+tags:
+  - "ci"
+  - "codeship"
+  - "tools"
+  - "webfaction"
+---
+
+Mmm, that's a a bit of a mouthful.
+
+This example is written with [Hexo](https://hexo.io/), [Codeship](https://codeship.io/) and [WebFaction](https://www.webfaction.com?affiliate=beafg) in mind but should work with any [static site generator](https://www.staticgen.com/), other CI services (e.g. [CircleCI](https://circleci.com/docs/introduction-to-continuous-deployment), [Travis CI](http://docs.travis-ci.com/user/deployment/custom/)) and any server that allows authentication via key-based SSH.
+
+It's a little more fiddly than [hosting static sites on Amazon S3](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html), but putting a site behind Apache or Nginx can be useful if you need to use redirects or proper authentication.
+
+## Step 1
+
+Create a new website in the WebFaction control panel, attaching a static application (`name_of_webapp`) and a domain.
+
+## Step 2
+
+Create a new Codeship project (or use an existing one).
+
+Add your build commands in the "Setup Commands" field under the "Test" configuration (if you're using Hexo, it's `hexo generate`). You can add any test commands you may have under "Configure Test Pipelines", if you like.
+
+Push a new commit to check that everything is building correctly and passing tests.
+
+Once you have a green build, it's worth opening an SSH debug session and making sure the generated files are present and as expected. Find the debug session tool on the right hand side of the appropriate build log page. Look in `~/clone/` for the folder your SSG generates (for Hexo, this is `~/clone/public/`).
+
+## Step 3
+
+Go to "Deployment" in the Codeship project settings and add a custom script for the branch you want to deploy. I use the following [`rsync`](http://www.evbackup.com/support-commonly-used-rsync-arguments/) command:
+
+    rsync -avz ~/clone/build_directory/ username@username.webfactional.com:/home/username/webapps/name_of_webapp/
+
+Replace:
+
+1. `name_of_webapp` with the name you used for the static application in Step 1.
+2. `username` with your WebFaction username.
+3. `build_directory` with the directory your SSG writes to. As mentioned above, this is `public` for Hexo.
+
+## Step 4
+
+Follow WebFaction's [Using SSH keys](https://docs.webfaction.com/user-guide/access.html#using-ssh-keys) to add the Codeship project's public key to your WebFaction account `authorized_keys` file.
+
+Go back to Codeship and run the most recent build again to trigger a deploy. One the build has finished, you should be able to see the static site on the domain you set up in Step 1.
+
+If this doesn't work, here are some ideas for working out what might have gone wrong:
+
+1. Check the Codeship build log and look for issues
+2. Open another Codeship SSH debug session and check that the build step is generating the files.
+3. Check that the site files are under your WebFaction account in `~/webapps/name_of_webapp`.
