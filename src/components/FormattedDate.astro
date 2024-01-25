@@ -7,16 +7,20 @@ interface Props {
 const { date, type } = Astro.props;
 ---
 
-<time
-  class={type === "published" ? "dt-published" : "dt-updated"}
-  datetime={date.toISOString()}
->
-  {
-    date.toLocaleDateString("en-GB", {
-      weekday: "long",
-      year: "numeric",
-      month: "long",
-      day: "numeric",
-    })
-  }
-</time>
+{
+  date ? (
+    <time
+      class={type === "published" ? "dt-published" : "dt-updated"}
+      datetime={date.toISOString()}
+    >
+      {date.toLocaleDateString("en-GB", {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+      })}
+    </time>
+  ) : (
+    "No date"
+  )
+}
