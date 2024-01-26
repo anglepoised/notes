@@ -25,11 +25,20 @@ export interface Props {
     dateUpdated?: string;
     link?: string;
     heroImage?: string;
+    originalUrl?: string;
   };
 }
 
 const {
-  content: { title, description, datePublished, dateUpdated, link, heroImage },
+  content: {
+    title,
+    description,
+    datePublished,
+    dateUpdated,
+    link,
+    heroImage,
+    originalUrl,
+  },
 } = Astro.props;
 ---
 
