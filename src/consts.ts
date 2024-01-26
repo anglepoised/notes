@@ -3,3 +3,5 @@
 
 export const SITE_TITLE = "anglepoised";
 export const SITE_DESCRIPTION = "Order coupled with pleasing decoration.";
+export const REPO_URL = "https://github.com/anglepoised/notes/";
+export const REPO_EDIT_PATH = "edit/main/src/content";
