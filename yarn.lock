@@ -699,10 +699,10 @@
     unist-util-visit "^5.0.0"
     vfile "^6.0.0"
 
-"@netlify/plugin-lighthouse@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-5.0.0.tgz#13183fd186358fc0237a082f8b28c0786b7f1071"
-  integrity sha512-tCaoVYxCU3OB592vChtFkANzUL4kDUNaIk9VCGp3qBecBnH+yFrILUlcqy2d08Is4ecstjTacyHqV+ixKbNYGQ==
+"@netlify/plugin-lighthouse@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-6.0.0.tgz#cf4c186f1de2bc01cb79515a385c8c2e9cea3d4c"
+  integrity sha512-Uqqy9A7huuDT+1RIBWDoWhp+ntlLE1ibp1jXFpiizWy8QProWkLm8E7PFLu0Bf+aAwgjV2eJPj6ocIbk+jBANQ==
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.15.0"
