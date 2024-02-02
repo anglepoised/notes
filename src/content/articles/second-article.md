@@ -1,9 +1,9 @@
 ---
-title: "First article"
+title: "Second article"
 description: "Lorem ipsum dolor sit amet"
-isDraft: false
-pubDate: 2024-01-18T20:14:35+00:00
-updatedDate: 2024-01-19T20:14:35+00:00
+isDraft: true
+pubDate: 2024-02-02T20:14:35+00:00
+updatedDate: 2024-02-02T20:14:35+00:00
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
