@@ -1,5 +1,5 @@
 # anglepoised notes
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8c903fc3-0dff-4815-9c58-fc4347499707/deploy-status)](https://app.netlify.com/sites/anglepoised-notes/deploys) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
-[Astro](https://astro.build/)-powered personal weblog, published at [anglepoised.com](https://anglepoised.com) with [Netlify](https://www.netlify.com/).
+[Astro](https://astro.build/)-powered personal weblog, published at [anglepoised.com](https://anglepoised.com) with [Cloudflare](https://www.cloudflare.com/).
