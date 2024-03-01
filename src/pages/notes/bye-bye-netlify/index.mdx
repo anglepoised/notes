@@ -1,0 +1,24 @@
+---
+layout: "../../../layouts/posts/post.astro"
+title: Bye, bye, Netlify
+source: astro
+tags: ["meta", "netlify", "cloudflare", "hosting"]
+datePublished: 2024-02-29T16:34:52.728Z
+dateUpdated: 2024-02-29T16:34:52.728Z
+---
+
+The [Netlify sending someone a $104K bill for a simple static site](https://news.ycombinator.com/item?id=39520776) story was quite a wake-up call:
+
+> So I received an email from Netlify last weekend saying that I have a $104,500.00 bill overdue. At first I thought this is a joke or some scam email but after checking my dashboard it seems like I am truly owing them 104K dollars: That's 190TB bandwidth in 4 days
+
+I've been using [Netlify](https://www.netlify.com/) for around 5 years. I had to find a new home in a hurry when [Webfaction got absorbed by GoDaddy](https://news.ycombinator.com/item?id=19377981). I look after what is probably a typical mix of personal projects (including this site) and sites I manage for friends, all with negligible traffic.
+
+I recall their [early-days marketing](http://web.archive.org/web/20190303201629/https://www.netlify.com/) being about three things: "ease of deployment", "zero config optimization" and "free basic offering", so finding out that a site on Netlify's free tier has a miniscule-but-still-non-zero chance of generated a life-altering bill came as a shock.
+
+Netlify are now clearly not the same business I signed up with. My guess is that this is down to a strategy pivot rather than anything more sinister: from trying to hook hobbyists (generally highly interested in not getting excessive bills) to hooking enterprises (probably more inclined to value "site stays up" when heavy traffic hits, regardless of cost). It would have been cool if Netlify had been a bit more proactive about addressing this, but my sense is that this Netlify story (along with a couple of other things I've spotted) reveals a culture that isn't at heart that customer-centric. Or at least not _hobbyist_ customer-centric. I'm not an enterprise, so I decided to yoink all my sites over to [Cloudflare](https://www.cloudflare.com/), set everything up with [Cloudflare Pages](https://pages.cloudflare.com/) and delete all my Netlify sites and accounts.
+
+It took a couple of days to do, but with only a couple of hours of actual effort. The rest of the time was waiting for DNS to tick over and making sure friends were OK with the move. It was not that painful, which was a relief. I hadn't opted into anything too specific to Netlify (besides [build plugins](https://docs.netlify.com/integrations/build-plugins/), which would have been great if portable) so avoided a major [Charlie Brown platform lock-in moment](https://www.youtube.com/watch?v=gqzA1VOiC-M).
+
+I know I'm not alone in doing this, but am not under any illusions that free tier users leaving are likely to make any meaningful difference to Netlify, and that's fine. I also don't think that Cloudflare are in some way morally "better", but I do feel like Cloudflare's strategy and their approach to free tier customers has been very consistent and I feel like that makes the free deal easier to reason about. I reckon I'm much more likely to choose Cloudflare for day-job purposes, but I'd started down this path before the Netlify story dropped.
+
+I guess the proof of whether this move is a good one will be if I find myself reading this a few years down the line while I move all my stuff again. I do wonder whether Cloudflare, Vercel and similar cloud platforms are subject to the same risks. Hopefully not! But maybe it is time to revisit the trade-offs between using easy platforms and running my own infrastructure (it's at least a good excuse to muck about with [OpenTofu](https://opentofu.org/)).
