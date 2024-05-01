@@ -1,8 +1,8 @@
 # feed redirects and rewrites
+/feed/articles* /feed/articles/feed.xml 200
 /atom.xml	/feed
 /rss*	/feed
 /feed* /feed/feed.xml 200
-/feed/articles /feed/articles/feed.xml 200
 
 # sitemap redirects
 /sitemap.xml /sitemap-index.xml
