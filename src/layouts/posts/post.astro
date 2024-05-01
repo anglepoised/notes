@@ -11,11 +11,11 @@ const dateOptions: Intl.DateTimeFormatOptions = {
 };
 const pubDateLocal = new Date(frontmatter.datePublished).toLocaleDateString(
   "en-GB",
-  dateOptions,
+  dateOptions
 );
 const updatedDateLocal = new Date(frontmatter.dateUpdated).toLocaleDateString(
   "en-GB",
-  dateOptions,
+  dateOptions
 );
 export interface Props {
   content: {
@@ -24,7 +24,6 @@ export interface Props {
     datePublished?: string;
     dateUpdated?: string;
     link?: string;
-    heroImage?: string;
     originalUrl?: string;
   };
 }
@@ -36,7 +35,6 @@ const {
     datePublished,
     dateUpdated,
     link,
-    heroImage,
     originalUrl,
   },
 } = Astro.props;
@@ -62,7 +60,6 @@ const {
     <Header />
     <main>
       <article class="h-entry">
-        {heroImage && <img width={720} height={360} src={heroImage} alt="" />}
         <h1 class="p-name title">{title}</h1>
         {
           pubDateLocal ? (
