@@ -1,0 +1,171 @@
+---
+title: Freelancing and contracting in the UK
+description: "Some work-in-progress notes on freelancing."
+isDraft: false
+source: astro
+tags: ["freelancing", "contracting", "work"]
+pubDate: 2024-05-01T11:05:25.863Z
+updatedDate: 2024-05-01T11:05:25.864Z
+---
+
+I've been asked questions about freelancing enough times recently that writing my notes up feels worthwhile. These notes are based on 20ish years of freelancing in the UK and are very much a work-in-progress.
+
+For background, I started out freelancing for digital agencies. I generally built websites or ran teams that built websites. Towards the end of my freelancing career, I did much the same for large organisations.
+
+It's worth saying that I am not a lawyer, a tax specialist, or an accountant and that if you're freelancing, you should not rely on at the very least talk to an accountant.
+
+## Background
+
+In 2001, I left my first full time job in the web industry, after two years. I was grateful for the opportunity but I had this idea that freelancing would suit me better. My head had been turned by reading [Chinwag's uk-netmarketing and uknm-jobs lists](https://en.wikipedia.org/wiki/Chinwag), [Revolution](https://www.prweek.com/article/1595957/talkin-bout-revolution) and [New Media Age](https://en.wikipedia.org/wiki/New_Media_Age) (yes, people really did use the term "New Media" in earnest). Also, I really wanted to move to London and figured that freelancing would be a good way to go about it.
+
+I had no idea how to freelance, didn't have anyone I could ask and I couldn't find any good guides (until 2006, when Phil Gyford wrote
+[A beginner's guide to freelancing](https://www.gyford.com/phil/writing/2006/10/26/a-beginners-guid/)). I also had no financial sense and [a terrible sense of timing](https://en.wikipedia.org/wiki/Dot-com_bubble).
+
+But somehow I managed to freelance for over 20 years, pausing only in 2007 for a brief stint in my second full-time web job. I finished in 2021, wrapping up for the even more complex world of [running a consultancy](https://measured.co/) with two wonderful people (who I met while freelancing, of course). But that's another story.
+
+## Freelancing or contracting?
+
+What's the difference between freelancing and contracting? I found many people used the terms interchangeably. I tend to think of them like this:
+
+- Freelancing is working directly for end-clients. No middleman is involved. Work is paid for a deliverable. Day rates and hour rates are often used as a mechanism for keeping track of billings. There is no implication that you're working exclusively for that client: having multiple clients at the same time is the norm.
+- Contracting involves at least one middleman, often (but not always) a recruitment agency. Pay is usually done on a day rate: if you turn up, you get paid. The usual expectation is that you don't take on multiple contracts at the same time, unless they're billed as part time, although the reality should be addressed by the contract.
+
+The lines are a bit blurry and I've found that in practice it never really mattered that much. The details of an agreement are more important than whether they're billed as freelancing or contracting: understanding different working patterns and getting familiar with IR35 (more on that later) are really key.
+
+## Business structures
+
+The options for a solo freelancer pretty much boil down to:
+
+- become self-employed
+- join an umbrella company
+- set up a one-person limited company (or PSC, personal service company)
+
+Self-employed makes things easier to get started and arguably easier to manage, but larger clients will generally only engage freelancers via an umbrella company or a PSC. I started as self-employed and lasted all of 2 weeks before my accountant recommend that I form a limited company, so I'm not going to talk about that.
+
+I never had cause to use an umbrella company because I had a limited company. I don't think I ever met any freelancers who did use one. So I have no advice on that front, sorry.
+
+Everything else in this guide is about the limited company (PSC) route.
+
+## Limited Companies
+
+GOV.UK has a pretty great [guide to setting up a limited company](https://www.gov.uk/set-up-limited-company). Spend a couple of hours reading that. It should help you decide if you're doing the right thing, what your responsibilities would be and how to go about doing it.
+
+An accountant will set up a limited company for you, but I think it's worth considering the do-it-yourself route and talking to an accountant afterwards. Accountants will probably hate me for recommending this, but I've had issues with accountants setting up all the services for my business and losing them when I've switched. This is a pain to fix. I've also run into a few issues when I've needed access to services but only my accountant has had the login details. So, I think it's worth going through the company formation process yourself to ensure that you are the main account holder for all HMRC services. Then, you can [appoint your accountant as an agent](https://www.gov.uk/appoint-tax-agent).
+
+Doing it this way is slightly riskier but an accountant should be able to help you fix anything that went wrong anyway.
+
+If you do get your accountant to do it, make sure you get all the account details from them. Check you can manage the account if you need to and keep the details in a password manager of your choice.
+
+Company formation is pretty straightforward. The GOV.UK guide has a [section on formation](https://www.gov.uk/limited-company-formation). There are lots of services out there that will help with this process. I've used [Crunch Formations](https://crunchformations.co.uk/) before: it was fine.
+
+The hardest part is coming up with a name for your company. [Read the guidelines](https://www.gov.uk/limited-company-formation/choose-company-name) and go from there. It's worth choosing a name that's easy to spell, remember and say. Try to avoid anything that will make you cringe a few years later. I called my first company [Shiruko](https://en.wikipedia.org/wiki/Shiruko). This turned out to be much less fun than I thought it would be. You can [change your company's name](https://www.gov.uk/make-changes-to-your-limited-company/company-name), but the longer you've had it, the more painful it is to change.
+
+## Accounting
+
+Get an accountant.
+
+It's possible to be your own accountant, but I don't recommend it.
+
+So really: get an accountant.
+
+Unless you already know accountancy or have a lot of spare time to sink into it, a good accountant should save you more than they'll charge.
+
+You shouldn't use having an accountant as an excuse to skip figuring out what your responsibilities as a company director are, but a good accountant can act as a backstop. They can answer your questions and should point out the things you didn't realise you needed to know about. In fact, if I were doing this again, I'd ask a new accountant "what are the things I probably don't know about that I should know about"?
+
+Your accountant will probably be your most important business relationship, (with the possible exception of a good recruiter, if you're following that path). Try to find an accountant you actually like. In my experience, the best way to find a good one is to ask other freelancers for a referral (presuming they also like their accountant). This also increases the chances of finding one who understands your area of business. This can save you some time explaining what you do and makes it more likely they'll understand any industry-specific ways of working.
+
+If you can't find an accountant via recommendation or by any other means, the next best thing is services like [Crunch](https://www.crunch.co.uk/). I've not used them, but know people who have and are mostly happy. Better than no accountant.
+
+Ask your potential accountant whether they'll do monthly bookkeeping for you. Some will only do it at the end of your financial year in one hit. This is cost-effective for them, but not great for you: doing it monthly helps keep on top of everything and avoid nasty surprises, particularly during your first couple of years.
+
+Avoid any accountants that talk about cunning schemes to make extra money. HMRC always wins in the end.
+
+If you're planning on doing this yourself, make sure you read up on what you'll be responsible for doing. Consider investing in an accounting tool like [Xero](https://www.xero.com/uk/) or [FreeAgent](https://www.freeagent.com/). But really: get an accountant.
+
+Before you're up and running, keep records of everything you spend that could feasibly be a business expense and any invoices you send to clients.
+
+### VAT
+
+Understand the circumstances under which your business needs to [register for VAT](https://www.gov.uk/register-for-vat). Sometimes accountants will let you you know when you need to do this, but it's good to be aware just in case.
+
+### Bank account
+
+You'll need a business bank account. It can make sense to use different banks for your personal and business activities, because banks sometimes break. It can also be worth keeping some money in a back-up business bank account, because banks sometimes break. You might also need to think about multi-currency accounts and business savings accounts to eke out a bit of interest while setting aside for a tax bill.
+
+## Rates
+
+Nearly everyone gets their rates a bit wrong when starting out, pitching it too low.
+
+This generally happens when a potential client asks "What's your day rate?". If the rate you say is immediately accepted, there's a chance it's too low. I've been on both sides of this question. When I'm the one asking this question, I'm going to be committed enough that negotiation is completely reasonable (even though I'm British and hate negotiating). I think this is true of most people: they wouldn't be asking about rate if they weren't convinced they wanted you.
+
+If you've missed this moment, don't worry about it too much. Use it as a data point for next time and get prepared for that. You can do this by figuring out what the rates in your industry are and working out what this translates to in terms that make sense to you.
+
+### Researching rates
+
+It's relatively easy to get an idea of industry rates. In my world, the annual [YunoJuno Freelancer Rates Report](https://www.yunojuno.com/freelancer-rates-report) is a good starting point. Most of the jobs on YunoJuno are from agencies and smaller start-ups, both of which tend to offer lower rates than large businesses, but there are other surveys out there. Do some digging and you'll turn up something.
+
+If possible, it can help to be open with peers about rates. This can sometimes turn up big differences and cause angst. I used to find this quite upsetting when I was a freelancer. Now I'm more often on the hiring side, I can see that it's a fairly tricky problem. If you're a hirer and you fix rates, you will run into freelancers who get upset that they can't negotiate. If you negotiate every engagement, rates will inevitably vary between freelancers.
+
+### Figuring out what a day rate actually means
+
+Back when it was hard to find good information about average industry day rates, I realised in retrospect that I was often undercharging. Even when I got a bit better at this, I still found day rates hard to reason about: a day rate figure is not very easy to translate into real terms.
+
+When I used to look at the rates in freelance adverts, my brain would often do unhelpful things like take the day rate and multiply by 365 days. If I was actually thinking, I'd guess at a rough approximation of working days and multiply by that instead of 365. But this is still not very useful.
+
+The majority of people do salaried work before freelancing, so it can be helpful to try translating to those terms. Here's one way of doing that.
+
+First, try to figure out the number of days you think you'll work in a year. This involves some guessing, but try to be realistic rather than optimistic. You need to factor in:
+
+- some personal holiday allowance
+- public holidays[^1]
+- contractor furloughs[^2]
+- sick days and other random days
+- gaps between contracts[^3]
+
+The short version of this is that unless you're doing very long contracts or are taking on lots of smaller contracts at the same time, you'll probably end up earning on fewer days than you imagine you will.
+
+Take the number of days you expect to work, and multiply it by the lowest rate, average rate and highest rate for your discipline is. This will give you a rough idea of minimum, average and maximum _net_ pay you can expect.
+
+You should have a think about your outgoings and operating costs.
+
+The biggest items to factor in are likely:
+
+- personal tax liabilities (Self-assessment and National Insurance)
+- business tax liabilities (Corporation tax and National Insurance)
+
+It's really easy to forget to factor these in when you're starting out. Again, I think this is probably a mindset that people carry over from salaried work. You don't have to think about this stuff if you're on PAYE, your employer just deals with it. Try really hard not to ignore tax. Try hard to figure out what tax you'd pay over a year. Talk to your accountant about this. You need to know whether the job is on a self-employed, inside IR35 or outside IR35 basis as the tax implications for each can be wildly different. Again: accountant.
+
+Sidenote: once you've figured out tax, it's worth setting some proportion of each client payment away for your future tax bill. You should also investigate how "payment on account" works, and figure out when and what your actual payments are likely to be. Again, talk to your accountant.
+
+The next thing is probably pension contributions. You should give some thought to the fact that the employer making making pension contributions will be you. You may or may not want to factor that in as a cost, depending on whether you want a pension or not.
+
+Other things: equipment, conferences and training.
+
+This is the best way of understanding that people charge what look like quite high day rates for a reason.
+
+Take a look at something like the YunoJuno Freelancer Rates Report. It’s just one benchmark and tends to be a bit on the low side (most of the contracts on there are agency and small start-up, which tend to offer lower rates) but is quite good for building up some knowledge. Use that and other sources to get an idea of the going rates for what you’re doing.
+
+- When negotiating rates with a potential client, go in a bit higher than what you think your rate should be, but be willing to negotiate.
+- The worst that can happen is they say no, and you have to find another thing. This is fairly rare, but is a useful signal: often means the client doesn’t want to pay market rates, a warning sign.
+- The best that can happen is that they say “let’s negotiate”, that means you went in a bit high but they’re willing to meet you, so they’re interested and they understand how this works.
+- The middling thing that can happen is that they say yes: you get the rate you wanted, but you probably could have asked for more.
+
+## Holidays
+
+Forgetting to take holidays when freelancing is easy to do, but try to avoid this. Time off is important.
+
+If you find you can’t go on holiday because you’re stressed about earning money, you’re not charging enough. Don't forget to go on holiday.
+
+## Things to add
+
+I'm hoping to add a few more notes to this:
+
+- Why it's important to understand IR35 (as well as anyone can, at least)
+- Why it's important to understand payments on account
+- Getting insurance
+- How to find work
+- Where to get support
+
+[^1]: As far as I'm aware, there is nothing that says you can't _legally_ work on a public holiday (see [Holiday Entitlement Rights](https://www.gov.uk/holiday-entitlement-rights)) but in my experience most clients really don't want freelancers or contractors working when hardly anyone else is.
+[^2]: Some larger businesses will mandate forced time off (a furlough) for contractors over major holiday periods. This can be annoying if you're not expecting it. It can be worth asking about before taking a gig.
+[^3]: If you plan to work for smaller clients or on smaller jobs, you'll probably have more unplanned (and unpaid) gaps between contracts.

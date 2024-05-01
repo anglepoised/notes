@@ -63,6 +63,8 @@
     "lint": "npm-run-all lint:*",
     "lint:commits": "./node_modules/.bin/commitlint --from=origin/main",
     "lint:format": "yarn prettier --list-different \"./*.{astro,js,json,md,mdx}\" \"./**/*.{astro,js,json,md,mdx}\"",
+    "?new:article": "Generate a new article scaffold",
+    "new:article": "hygen article new",
     "?new:bookmark": "Generate a new bookmark scaffold",
     "new:bookmark": "hygen bookmark new",
     "?new:post": "Generate a new post scaffold",
