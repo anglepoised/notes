@@ -11,11 +11,11 @@ const dateOptions: Intl.DateTimeFormatOptions = {
 };
 const pubDateLocal = new Date(frontmatter.datePublished).toLocaleDateString(
   "en-GB",
-  dateOptions
+  dateOptions,
 );
 const updatedDateLocal = new Date(frontmatter.dateUpdated).toLocaleDateString(
   "en-GB",
-  dateOptions
+  dateOptions,
 );
 export interface Props {
   content: {
