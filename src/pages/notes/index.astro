@@ -3,31 +3,21 @@ import BaseHead from "../../components/BaseHead.astro";
 import Header from "../../components/Header.astro";
 import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
-
-// Use Astro.glob() to fetch all posts, and then sort them by date.
-const posts = (await Astro.glob("./**/*.{md,mdx}")).sort(
-  (a, b) =>
-    new Date(b.frontmatter.datePublished).valueOf() -
-    new Date(a.frontmatter.datePublished).valueOf(),
+import { getCollection } from "astro:content";
+import FormattedDate from "../../components/FormattedDate.astro";
+const posts = (await getCollection("notes")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
 
 <!doctype html>
-<html lang="en-gb">
+<html lang="en">
   <head>
-    <BaseHead title="Notes" description={SITE_DESCRIPTION} />
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       ul {
         list-style-type: none;
         padding: unset;
-      }
-      ul li {
-        display: flex;
-      }
-      ul li time {
-        flex: 0 0 130px;
-        font-style: italic;
-        color: #888;
       }
       ul li a:visited {
         color: #8e32dc;
@@ -42,23 +32,17 @@ const posts = (await Astro.glob("./**/*.{md,mdx}")).sort(
           {
             posts.map((post) => (
               <li>
-                <time datetime={post.frontmatter.datePublished}>
-                  {new Date(post.frontmatter.datePublished).toLocaleDateString(
-                    "en-gb",
-                    {
-                      year: "numeric",
-                      month: "short",
-                      day: "numeric",
-                    },
-                  )}
-                </time>
-                <a href={post.url}>{post.frontmatter.title}</a>
+                <>
+                  <a href={`/notes/${post.slug}/`}>{post.data.title}</a>
+                  <br />
+                </>
+                <FormattedDate date={post.data.pubDate} type="published" />
               </li>
             ))
           }
         </ul>
       </section>
-      <Footer />
     </main>
+    <Footer />
   </body>
 </html>

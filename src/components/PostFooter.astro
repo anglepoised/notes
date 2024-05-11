@@ -1,0 +1,42 @@
+---
+import FormattedDate from "./FormattedDate.astro";
+import { REPO_URL, REPO_EDIT_PATH } from "../consts";
+
+const { pubDate, updatedDate, originalUrl, tags } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const waybackUrl = new URL("http://web.archive.org/web/*/" + canonicalURL);
+// TODO: postEditPath is a little fragile: can't find a good Astro-y way of getting file path
+const postEditPath = REPO_EDIT_PATH + Astro.url.pathname + "index.mdx";
+const editUrl = new URL(postEditPath, REPO_URL);
+---
+
+<hr />
+<ul>
+  <li>
+    <FormattedDate date={pubDate} type="published" />
+  </li>
+  {
+    updatedDate && updatedDate != pubDate ? (
+      <li>
+        Last updated on <FormattedDate date={updatedDate} type="updated" />
+      </li>
+    ) : null
+  }
+  {tags ? <li>Posted in: {tags.join(", ")}</li> : null}
+  <li>
+    <a class="permaLink u-url" href={Astro.url}>Permalink</a>
+  </li>
+  <li>
+    <a href={waybackUrl}>See this post on Wayback</a>
+  </li>
+  <li>
+    <a href={editUrl}>Edit on GitHub</a>
+  </li>
+  {
+    originalUrl ? (
+      <li>
+        <a href={originalUrl}>{originalUrl}</a>
+      </li>
+    ) : null
+  }
+</ul>
