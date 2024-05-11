@@ -1,0 +1,51 @@
+---
+title: Collections
+description: Fixing up the fabric with ChatGPT
+pubDate: 2024-05-30T10:00:58.148Z
+updatedDate: 2024-05-30T10:00:58.148Z
+originalUrl: https://anglepoised.com/notes/collections/
+source: astro
+tags:
+  - "astro"
+  - "meta"
+---
+
+Earlier this month I finished importing lots of posts from many of my previous blogging systems into this [Astro](https://astro.build/) blog. This was the first proper step on the way to my whimsical [retro tumblelog/digital garden project](/notes/blogging-again/).
+
+I say "lots" and "many" because in the end I didn't finish: wrangling posts in various formats systems into the right shape for [Astro Collections](https://docs.astro.build/en/guides/content-collections/) has been an exhausting time sink, even though I generally find text wrangling vaguely soothing. Converting from Tumblr exports into a useable format is particularly challenging, due to the annoying-to-parse HTML mixed with novel post types like conversations and galleries. I kept picking this task up, doing a bit and putting it back down for well over a year. I should have found a better way of batching it, but hard to know just how much of a pain it would be.
+
+It wasn't until I decided to try using [ChatGPT](https://chatgpt.com/) that I started making real progress. I'm on the fence about LLMs in general, but for this it was very useful. This was before [GPT-4o](https://openai.com/index/hello-gpt-4o/) was released, so I was using GPT-4.
+
+I used it for a couple of things:
+
+1. Answering "is this thing I want to achieve possible and what are some options for doing it" type questions.
+2. Creating one-off scripts to perform operations on many posts at once e.g. moving files into folders based on a slugified title from the same file.
+
+## How do I do this?
+
+I think the [Astro docs](https://docs.astro.build/) are excellent, but using a chat interface to get the information I wanted was much more efficient than searching for strings or just reading the docs. For me, this is a powerful extra tool on top of existing documentation, rather than a replacement. I'd be interested to see how LLM chat interfaces would fit with documentation frameworks like [Diátaxis](https://diataxis.fr/).
+
+The main niggle was understanding versions: ChatGPT would often give results that would only work in older versions of Astro or say a feature didn't exist that I knew had been released recently. I always managed to fix this by asking follow-up questions or just remembering to mention the version I was using from the outset. It was a bit of extra cognitive load, though.
+
+## No low code
+
+I decided quite early on that I was happy to use ChatGPT to write code for things I don't care about: one-off scripts, glue code etc.
+
+This went well but was very far from perfect. Every attempt would mean a few rounds of revisions to get to what I wanted.
+
+If I were a better programmer, I could just done this myself but I'm old enough to that I don't enjoy it that much. Having better skills and doing it myself would still have taken me hours rather than minutes, I reckon, so I'm fine with this approach.
+
+I did need enough basic programming knowledge and a some exposure to Python, Bash and Node (ChatGPT's choice of language seemed pretty arbitrary: I just went with whatever to see what would happen). Without this, it would have been challenging to debug issues and be sure that the script was likely to do what I'd intended. This approach of using an LLM to augment experience is what I think of as the co-pilot model and it works for me. I can see how it would probably fail hard for areas in which I had no experience, though.
+
+I always checked the output carefully: a couple of times it went very wrong. But then this is what `git` is for. It's relatively easy to catch issues when you have a diff to look at. When I tried to do too much in one go and found that I couldn't trust the output, I just asked for scripts that would do smaller steps.
+
+## Next steps
+
+There are loads of other things I need to do, including:
+
+- Displaying posts on index pages, rather than lists (otherwise it's not really much of a tumblelog)
+- Pagination
+- Figuring out how to automatically import to or export from services I use, like Pinboard
+- Making everything look less terrible
+
+This process is taking so long that it feels similar in pace to a background home renovation, which is something I've also been doing. With the blog, I feel like I've done the equivalent of getting the roof repaired and the windows replaced and now I can start thinking about decorating and furniture.
