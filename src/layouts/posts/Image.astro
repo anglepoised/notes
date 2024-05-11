@@ -29,16 +29,18 @@ const { title, image } = Astro.props;
     <main>
       <article class="h-entry">
         <h1 class="p-name title">{title}</h1>
-        {
-          image.target ? (
-            <a href={image.target}>
+        <div>
+          {
+            image.target ? (
+              <a href={image.target}>
+                <img src={image.src} alt={image.alt} />
+                <p>{title}</p>
+              </a>
+            ) : (
               <img src={image.src} alt={image.alt} />
-              {title}
-            </a>
-          ) : (
-            <img src={image.src} alt={image.alt} />
-          )
-        }
+            )
+          }
+        </div>
         <div class="e-content">
           <slot />
         </div>
