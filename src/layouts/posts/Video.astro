@@ -44,9 +44,11 @@ function isVimeo(url: URLString): boolean {
         <div class="e-content">
           {isYouTube(video.url) && <YouTube id={video.url} />}
           {isVimeo(video.url) && <Vimeo id={video.url} />}
-          <a href={video.url}>
-            {title}
-          </a>
+          <p>
+            <a href={video.url}>
+              {title}
+            </a>
+          </p>
           <slot />
         </div>
         <PostFooter {...Astro.props} />
