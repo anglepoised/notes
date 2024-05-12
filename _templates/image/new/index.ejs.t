@@ -4,6 +4,7 @@ sh: "git checkout -b content/<%= h.changeCase.param(title) %>"
 ---
 ---
 title: <%= title %>
+description:
 image:
   alt:
   src:
