@@ -19,6 +19,7 @@ const imageCollection = defineCollection({
   // Type-check frontmatter using a schema
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
     image: z.object({
       alt: z.string(),
       src: z.string(),
@@ -38,6 +39,7 @@ const linkCollection = defineCollection({
   // Type-check frontmatter using a schema
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
     linkUrl: z.string().url(),
     // Transform string to Date object
     pubDate: z.coerce.date(),
@@ -53,6 +55,7 @@ const noteCollection = defineCollection({
   // Type-check frontmatter using a schema
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
     // Transform string to Date object
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
@@ -67,6 +70,7 @@ const quoteCollection = defineCollection({
   // Type-check frontmatter using a schema
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
     quote: z.object({
       url: z.string().url(),
       work: z.string().optional(),
@@ -86,6 +90,7 @@ const videoCollection = defineCollection({
   // Type-check frontmatter using a schema
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
     // Would prefer real URLs rather than strings but breaks many things
     video: z.object({
       url: z.string().url(),

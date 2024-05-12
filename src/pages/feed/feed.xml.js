@@ -33,6 +33,7 @@ export const GET = () =>
     items: combinedContent.map((post) => ({
       link: post.url,
       title: post.data.title,
+      description: post.data.description,
       pubDate: post.data.pubDate,
     })),
   });
