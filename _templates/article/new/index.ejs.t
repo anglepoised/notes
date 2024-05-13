@@ -1,6 +1,6 @@
 ---
 to: src/content/articles/<%= h.changeCase.param(title) %>/index.md
-sh: "git checkout -b content/<%= h.changeCase.param(title) %>"
+sh: "<%= createBranch ? `git checkout -b content/${h.changeCase.param(title)}` : 'echo Skipping branch creation' %>"
 ---
 ---
 title: <%= title %>
