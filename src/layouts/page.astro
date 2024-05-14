@@ -52,7 +52,6 @@ const {
     <Header />
     <main>
       <article>
-        <h1 style="color: salmon">Type: post</h1>
         {
           link ? (
             <h1 class="title">
@@ -64,9 +63,12 @@ const {
         }
         {
           frontmatter.pubDate && (
-            <a class="permaLink" href={Astro.url}>
-              <time datetime={pubDate}>{pubDateLocal}</time>
-            </a>
+            <p>
+              Published on
+              <a class="permaLink" href={Astro.url}>
+                <time datetime={pubDate}>{pubDateLocal}</time>
+              </a>
+            </p>
           )
         }
 
