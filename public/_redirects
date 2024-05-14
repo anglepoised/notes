@@ -7,6 +7,10 @@
 # sitemap redirects
 /sitemap.xml /sitemap-index.xml
 
+# ooops I moved it redirects
+
+/videos/it-s-just-a-flesh-wound-darling/ /videos/exek-its-just-a-flesh-wound-darling/
+
 # v1 redirects
 /weblog/entry/000134/ /notes/small-circular-motion/
 
