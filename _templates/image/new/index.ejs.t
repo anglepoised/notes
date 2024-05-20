@@ -4,7 +4,7 @@ sh: "<%= createBranch ? `git checkout -b content/${h.changeCase.param(title)}` :
 ---
 ---
 title: <%= title %>
-description:
+description: ""
 image:
   alt:
   src:
@@ -14,7 +14,7 @@ updatedDate: <%= new Date().toISOString(); %>
 originalUrl: https://anglepoised.com/notes/<%= h.changeCase.param(title) %>/
 source: astro
 tags:
- - "tag"
+  - "tag"
 ---
 
 Comments on the image.
