@@ -4,7 +4,7 @@ sh: "<%= createBranch ? `git checkout -b content/${h.changeCase.param(title)}` :
 ---
 ---
 title: <%= title %>
-description:
+description: ""
 video:
   url:
 pubDate: <%= new Date().toISOString(); %>

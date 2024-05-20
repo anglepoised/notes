@@ -4,7 +4,7 @@ sh: "<%= createBranch ? `git checkout -b content/${h.changeCase.param(title)}` :
 ---
 ---
 title: <%= title %>
-description:
+description: ""
 image:
   alt:
   src:
