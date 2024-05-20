@@ -14,7 +14,7 @@ updatedDate: <%= new Date().toISOString(); %>
 originalUrl: https://anglepoised.com/notes/<%= h.changeCase.param(title) %>/
 source: astro
 tags:
- - "tag"
+  - "tag"
 ---
 
 Comments on the image.
