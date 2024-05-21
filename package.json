@@ -27,7 +27,6 @@
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.2.2",
-    "@netlify/plugin-lighthouse": "^6.0.0",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
     "html-validate": "^8.18.2",
