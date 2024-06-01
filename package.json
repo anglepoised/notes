@@ -37,7 +37,7 @@
     "npm-scripts-info": "^0.3.9",
     "prettier": "^3.2.4",
     "prettier-plugin-astro": "^0.13.0",
-    "wrangler": "^3.55.0"
+    "wrangler": "^3.58.0"
   },
   "main": "n/a",
   "scripts": {
