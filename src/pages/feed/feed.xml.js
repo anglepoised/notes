@@ -31,7 +31,7 @@ export const GET = () =>
     description: SITE_DESCRIPTION,
     site: import.meta.env.SITE,
     items: combinedContent.map((post) => ({
-      link: post.url,
+      link: `/${post.collection}/${post.slug}/`,
       title: post.data.title,
       description: post.data.description,
       pubDate: post.data.pubDate,
