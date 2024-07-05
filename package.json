@@ -29,7 +29,7 @@
     "@commitlint/config-conventional": "^19.2.2",
     "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^3.3.0",
-    "html-validate": "^8.18.2",
+    "html-validate": "^8.20.1",
     "husky": "^9.0.11",
     "hygen": "^6.2.11",
     "lint-staged": "^15.2.2",
