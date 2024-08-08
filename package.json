@@ -83,7 +83,7 @@
     "?timestamp": "Generate a timestamp for manual post updates",
     "?test": "Run tests.",
     "test": "echo \"Write tests!\"",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "config": {
     "commitizen": {
