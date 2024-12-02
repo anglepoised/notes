@@ -185,7 +185,7 @@
     is-wsl "^3.0.0"
     which-pm-runs "^1.1.0"
 
-"@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.0", "@babel/code-frame@^7.16.0":
+"@babel/code-frame@^7.0.0":
   version "7.24.7"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.24.7.tgz#882fd9e09e8ee324e496bd040401c6f046ef4465"
   integrity sha512-BcYH1CVJBO9tvyIZ2jVeXgSIMvGZ2FDRvDdOIVQyuklNKSsx+eppDEBq/g47Ayw+RqNFE+URvOShmf+f/qwAlA==
@@ -1249,13 +1249,12 @@
   resolved "https://registry.yarnpkg.com/@shikijs/vscode-textmate/-/vscode-textmate-9.3.0.tgz#b2f1776e488c1d6c2b6cd129bab62f71bbc9c7ab"
   integrity sha512-jn7/7ky30idSkd/O5yDBfAnVt+JJpepofP/POZ1iMOxK59cOfqIgg/Dj0eFsjOTMw+4ycJN0uhZH/Eb0bs/EUA==
 
-"@sidvind/better-ajv-errors@2.1.3":
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/@sidvind/better-ajv-errors/-/better-ajv-errors-2.1.3.tgz#3975ad1648479e81b8419b4a7f1043f13576dbb1"
-  integrity sha512-lWuod/rh7Xz5uXiEGSfm2Sd5PG7K/6yJfoAZVqzsEswjPJhUz15R7Gn/o8RczA041QS15hBd/BCSeu9vwPArkA==
+"@sidvind/better-ajv-errors@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@sidvind/better-ajv-errors/-/better-ajv-errors-3.0.1.tgz#7655d645bd32f30c4ac7756518fb9db7a609c99f"
+  integrity sha512-++1mEYIeozfnwWI9P1ECvOPoacy+CgDASrmGvXPMCcqgx0YUzB01vZ78uHdQ443V6sTY+e9MzHqmN9DOls02aw==
   dependencies:
-    "@babel/code-frame" "^7.16.0"
-    chalk "^4.1.0"
+    kleur "^4.1.0"
 
 "@types/acorn@^4.0.0":
   version "4.0.6"
@@ -2289,11 +2288,6 @@ dedent@0.7.0:
   version "0.7.0"
   resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
   integrity sha512-Q6fKUPqnAHAyhiUgFU7BUzLiv0kd8saH9al7tnu5Q/okj6dnupxyTgFIBjVzJATdfIAm9NAsvXNzjaKa+bxVyA==
-
-deepmerge@4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.1.tgz#44b5f2147cd3b00d4b56137685966f26fd25dd4a"
-  integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 defaults@^1.0.3:
   version "1.0.4"
@@ -3360,18 +3354,15 @@ html-escaper@^3.0.3:
   resolved "https://registry.yarnpkg.com/html-escaper/-/html-escaper-3.0.3.tgz#4d336674652beb1dcbc29ef6b6ba7f6be6fdfed6"
   integrity sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ==
 
-html-validate@^8.21.0:
-  version "8.21.0"
-  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-8.21.0.tgz#fcb8aa4d05d95c9b806bebf3d1be6836a1d8a196"
-  integrity sha512-f6uyHdNeul4f/E6TDaUrH8agrVmnG5VbWwmIhbkg+Vrz+To/2xxbc+soBKXqani1QSaA+5I12Qr7dQt/HVFJtw==
+html-validate@^8.27.0:
+  version "8.27.0"
+  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-8.27.0.tgz#8ac2d1eda6aa294918d1d0da8c21d85486de4811"
+  integrity sha512-T384MYvG4hUfWxLY6QSlcxfpGYFUJqA+yI4eBDlk5KfjMJco256SvdbJo1pLJUuQCESNbThf60svykdJFidcSA==
   dependencies:
-    "@babel/code-frame" "^7.10.0"
     "@html-validate/stylish" "^4.1.0"
-    "@sidvind/better-ajv-errors" "2.1.3"
+    "@sidvind/better-ajv-errors" "3.0.1"
     ajv "^8.0.0"
-    deepmerge "4.3.1"
     glob "^10.0.0"
-    ignore "5.3.1"
     kleur "^4.1.0"
     minimist "^1.2.0"
     prompts "^2.0.0"
@@ -3450,11 +3441,6 @@ ignore-walk@^4.0.1:
   integrity sha512-rzDQLaW4jQbh2YrOFlJdCtX8qgJTehFRYiUB2r1osqTeDzV/3+Jh8fz1oAPzUThf3iku8Ds4IDqawI5d8mUiQw==
   dependencies:
     minimatch "^3.0.4"
-
-ignore@5.3.1:
-  version "5.3.1"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.3.1.tgz#5073e554cd42c5b33b394375f538b8593e34d4ef"
-  integrity sha512-5Fytz/IraMjqpwfd34ke28PTVMjZjJG2MPn5t7OE4eUCUNf8BAa7b5WUS9/Qvr6mwOQS7Mk6vdsMno5he+T8Xw==
 
 import-fresh@^3.3.0:
   version "3.3.0"
