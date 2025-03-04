@@ -18,10 +18,10 @@
   "packageManager": "yarn@1.22.18",
   "private": true,
   "dependencies": {
-    "@astrojs/mdx": "^3.1.9",
+    "@astrojs/mdx": "^4.1.0",
     "@astrojs/rss": "^4.0.10",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^4.16.18",
+    "astro": "^5.4.1",
     "astro-embed": "^0.9.0"
   },
   "devDependencies": {
