@@ -1188,10 +1188,10 @@
   resolved "https://registry.yarnpkg.com/@shikijs/vscode-textmate/-/vscode-textmate-10.0.2.tgz#a90ab31d0cc1dfb54c66a69e515bf624fa7b2224"
   integrity sha512-83yeghZ2xxin3Nj8z1NMd/NCuca+gsYXswywDy5bHvwlWL8tpTQmzGeUuHd9FC3E/SBEMvzJRwWEOz5gGes9Qg==
 
-"@sidvind/better-ajv-errors@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@sidvind/better-ajv-errors/-/better-ajv-errors-3.0.1.tgz#7655d645bd32f30c4ac7756518fb9db7a609c99f"
-  integrity sha512-++1mEYIeozfnwWI9P1ECvOPoacy+CgDASrmGvXPMCcqgx0YUzB01vZ78uHdQ443V6sTY+e9MzHqmN9DOls02aw==
+"@sidvind/better-ajv-errors@4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@sidvind/better-ajv-errors/-/better-ajv-errors-4.0.0.tgz#9567bb819fdfee1eb08aa49881e3142be010ee57"
+  integrity sha512-rLZQkN6IfNwG6iqZZwqFMcs7DvQX3ZrLVhsHmSO1LUA4EZAz+VZLpTBCIOFsC5Qu3xuwzVfRMZ+1rtk/mCRRZw==
   dependencies:
     kleur "^4.1.0"
 
@@ -3235,13 +3235,13 @@ html-escaper@3.0.3, html-escaper@^3.0.3:
   resolved "https://registry.yarnpkg.com/html-escaper/-/html-escaper-3.0.3.tgz#4d336674652beb1dcbc29ef6b6ba7f6be6fdfed6"
   integrity sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ==
 
-html-validate@^9.4.1:
-  version "9.4.1"
-  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-9.4.1.tgz#092c846b25c59bb86ddca3d8ec04ff705ff6e091"
-  integrity sha512-eyb/0RdmQFFajSvL1Ak+yxtRY6hBJ5fx3yt9XAQFH6S7+7PWsnEeWsDhKaOo5fdTtljgXNiyvcicB7OS599m3g==
+html-validate@^9.5.2:
+  version "9.5.2"
+  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-9.5.2.tgz#75a382cbfb6de1e1e9c59e6fd4c880edfb1b0244"
+  integrity sha512-YXJfMprAZYiA6Nc09REC/4wURTCc8sd2MF59U0dto3ZSKqzkUoTGcy/3Tu7kJrLFdiYoKwoOvqQVL/N+sN5MMQ==
   dependencies:
     "@html-validate/stylish" "^4.1.0"
-    "@sidvind/better-ajv-errors" "3.0.1"
+    "@sidvind/better-ajv-errors" "4.0.0"
     ajv "^8.0.0"
     glob "^10.0.0"
     kleur "^4.1.0"
