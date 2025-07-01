@@ -3157,10 +3157,10 @@ html-escaper@3.0.3, html-escaper@^3.0.3:
   resolved "https://registry.yarnpkg.com/html-escaper/-/html-escaper-3.0.3.tgz#4d336674652beb1dcbc29ef6b6ba7f6be6fdfed6"
   integrity sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ==
 
-html-validate@^9.5.3:
-  version "9.5.3"
-  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-9.5.3.tgz#f4ee5eb185ecb317aec68d5613d7f872f07daa52"
-  integrity sha512-6PKpfP4IltTZwWQDhQQy+9PAN5hJpwm22oT2328sCaZKpjiNwelpbSFs9106gMMduuTv5LV68FhwxeL9Rf+JvQ==
+html-validate@^9.7.1:
+  version "9.7.1"
+  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-9.7.1.tgz#c1c43d643222d4d27121b60e82093289b7058ecc"
+  integrity sha512-sOCmfMGrSwax20SG2s+4iC8WqsE7JqncN6kh+YFwrb/gvP2VYN8WEnD4PIrnKBIeRf9ju8BGi50NdpHx9UNS9w==
   dependencies:
     "@html-validate/stylish" "^4.1.0"
     "@sidvind/better-ajv-errors" "4.0.0"
