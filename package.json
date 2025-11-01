@@ -37,7 +37,7 @@
     "npm-scripts-info": "^0.3.9",
     "prettier": "^3.6.2",
     "prettier-plugin-astro": "^0.14.1",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.3",
     "wrangler": "^4.40.3"
   },
   "main": "n/a",
